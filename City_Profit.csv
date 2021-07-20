@@ -1,0 +1,9044 @@
+City,Profit,Ship Mode
+Arlington,-135.765,1
+Arlington,-121.8735,1
+Arlington,-118.1295,1
+Arlington,-90.774,1
+Arlington,-68.1856,1
+Arlington,-39.637,1
+Arlington,-17.469,1
+Arlington,-13.6488,1
+Arlington,-11.6512,1
+Arlington,-9.0944,1
+Arlington,-6.21,1
+Arlington,-4.2222,1
+Arlington,-3.9624,1
+Arlington,-2.974,1
+Arlington,-2.5248,1
+Arlington,-2.1504,1
+Arlington,0.0,1
+Arlington,0.558,1
+Arlington,0.882,1
+Arlington,1.9926,1
+Arlington,2.0049,1
+Arlington,3.157,1
+Arlington,3.5712,1
+Arlington,4.3372,1
+Arlington,4.8024,1
+Arlington,5.1012,1
+Arlington,5.346,1
+Arlington,7.1022,1
+Arlington,7.2576,1
+Arlington,7.85,1
+Arlington,10.881,1
+Arlington,11.0354,1
+Arlington,12.744,1
+Arlington,14.677,1
+Arlington,15.498,1
+Arlington,15.552,1
+Arlington,15.8496,1
+Arlington,16.2486,1
+Arlington,16.608,1
+Arlington,16.6568,1
+Arlington,18.0378,1
+Arlington,18.144,1
+Arlington,18.2,1
+Arlington,18.33,1
+Arlington,19.4688,1
+Arlington,26.703,1
+Arlington,26.8752,1
+Arlington,34.2144,1
+Arlington,50.4426,1
+Arlington,58.5052,1
+Arlington,69.705,1
+Arlington,79.1934,1
+Arlington,107.955,1
+Arlington,107.9946,1
+Arlington,124.929,1
+Arlington,140.391,1
+Arlington,157.8702,1
+Arlington,179.7488,1
+Arlington,561.564,1
+Arlington,2799.984,1
+Aurora,-525.6405,1
+Aurora,-465.568,1
+Aurora,-430.617,1
+Aurora,-302.72,1
+Aurora,-247.7988,1
+Aurora,-209.7693,1
+Aurora,-191.619,1
+Aurora,-164.836,1
+Aurora,-95.823,1
+Aurora,-90.2484,1
+Aurora,-66.062,1
+Aurora,-58.8616,1
+Aurora,-55.256,1
+Aurora,-51.7191,1
+Aurora,-50.098,1
+Aurora,-47.8716,1
+Aurora,-47.175,1
+Aurora,-46.3946,1
+Aurora,-42.6528,1
+Aurora,-29.4368,1
+Aurora,-27.1296,1
+Aurora,-26.8758,1
+Aurora,-25.8174,1
+Aurora,-23.7822,1
+Aurora,-14.8704,1
+Aurora,-14.7931,1
+Aurora,-14.4784,1
+Aurora,-13.8468,1
+Aurora,-7.3692,1
+Aurora,-4.5824,1
+Aurora,-3.8385,1
+Aurora,-3.462,1
+Aurora,-3.4272,1
+Aurora,-0.792,1
+Aurora,-0.6265,1
+Aurora,0.73,1
+Aurora,0.8225,1
+Aurora,0.846,1
+Aurora,1.3596,1
+Aurora,2.3686,1
+Aurora,2.3952,1
+Aurora,2.5974,1
+Aurora,2.772,1
+Aurora,3.1536,1
+Aurora,3.2432,1
+Aurora,3.267,1
+Aurora,3.2776,1
+Aurora,3.6288,1
+Aurora,3.6784,1
+Aurora,3.8272,1
+Aurora,4.004,1
+Aurora,4.2309,1
+Aurora,4.368,1
+Aurora,5.2026,1
+Aurora,7.504,1
+Aurora,7.6986,1
+Aurora,12.2328,1
+Aurora,14.7546,1
+Aurora,15.743,1
+Aurora,17.428,1
+Aurora,26.1156,1
+Aurora,26.224,1
+Aurora,29.95,1
+Aurora,30.0768,1
+Aurora,62.1376,1
+Aurora,67.4424,1
+Aurora,90.6444,1
+Aurora,250.396,1
+Charlotte,-944.9946,1
+Charlotte,-292.1,1
+Charlotte,-149.6307,1
+Charlotte,-67.851,1
+Charlotte,-52.5481,1
+Charlotte,-47.2542,1
+Charlotte,-36.1116,1
+Charlotte,-34.758,1
+Charlotte,-33.636,1
+Charlotte,-28.6272,1
+Charlotte,-20.4468,1
+Charlotte,-20.0904,1
+Charlotte,-17.5651,1
+Charlotte,-12.628,1
+Charlotte,-12.432,1
+Charlotte,0.7392,1
+Charlotte,0.8988,1
+Charlotte,1.0738,1
+Charlotte,1.41,1
+Charlotte,1.4256,1
+Charlotte,1.764,1
+Charlotte,2.0994,1
+Charlotte,3.4048,1
+Charlotte,3.596,1
+Charlotte,3.9592,1
+Charlotte,4.2717,1
+Charlotte,4.9878,1
+Charlotte,5.9175,1
+Charlotte,5.9211,1
+Charlotte,7.5762,1
+Charlotte,10.2245,1
+Charlotte,11.325,1
+Charlotte,12.1352,1
+Charlotte,15.147,1
+Charlotte,15.5376,1
+Charlotte,16.6788,1
+Charlotte,16.9975,1
+Charlotte,17.6016,1
+Charlotte,26.4285,1
+Charlotte,29.364,1
+Charlotte,30.4682,1
+Charlotte,34.8138,1
+Charlotte,39.689,1
+Charlotte,65.3256,1
+Charlotte,67.256,1
+Charlotte,70.5564,1
+Charlotte,76.704,1
+Charlotte,93.884,1
+Charlotte,107.79,1
+Charlotte,110.1195,1
+Charlotte,119.996,1
+Charlotte,303.804,1
+Chicago,-2929.4845,1
+Chicago,-1143.891,1
+Chicago,-566.5625,1
+Chicago,-470.548,1
+Chicago,-393.602,1
+Chicago,-356.728,1
+Chicago,-269.3376,1
+Chicago,-225.5568,1
+Chicago,-197.5752,1
+Chicago,-194.824,1
+Chicago,-178.8468,1
+Chicago,-172.557,1
+Chicago,-166.32,1
+Chicago,-146.16,1
+Chicago,-131.445,1
+Chicago,-131.12,1
+Chicago,-126.8592,1
+Chicago,-120.513,1
+Chicago,-120.372,1
+Chicago,-117.882,1
+Chicago,-108.8304,1
+Chicago,-99.2664,1
+Chicago,-87.3418,1
+Chicago,-82.884,1
+Chicago,-75.8448,1
+Chicago,-75.192,1
+Chicago,-71.8905,1
+Chicago,-71.8116,1
+Chicago,-71.2962,1
+Chicago,-70.49,1
+Chicago,-68.1856,1
+Chicago,-67.5435,1
+Chicago,-67.272,1
+Chicago,-62.3792,1
+Chicago,-61.872,1
+Chicago,-56.996,1
+Chicago,-54.5958,1
+Chicago,-53.0088,1
+Chicago,-52.17,1
+Chicago,-50.6688,1
+Chicago,-48.9549,1
+Chicago,-44.235,1
+Chicago,-43.9056,1
+Chicago,-43.848,1
+Chicago,-42.4926,1
+Chicago,-42.4638,1
+Chicago,-39.1248,1
+Chicago,-38.1114,1
+Chicago,-36.6744,1
+Chicago,-36.1764,1
+Chicago,-33.3582,1
+Chicago,-31.536,1
+Chicago,-31.332,1
+Chicago,-30.555,1
+Chicago,-29.3436,1
+Chicago,-29.0073,1
+Chicago,-26.085,1
+Chicago,-25.648,1
+Chicago,-25.4772,1
+Chicago,-24.496,1
+Chicago,-24.189,1
+Chicago,-23.892,1
+Chicago,-23.548,1
+Chicago,-22.8956,1
+Chicago,-22.62,1
+Chicago,-20.6176,1
+Chicago,-19.5624,1
+Chicago,-19.47,1
+Chicago,-18.2525,1
+Chicago,-18.196,1
+Chicago,-18.1176,1
+Chicago,-17.046,1
+Chicago,-16.818,1
+Chicago,-15.5268,1
+Chicago,-15.2225,1
+Chicago,-15.0876,1
+Chicago,-14.9736,1
+Chicago,-14.8704,1
+Chicago,-14.773,1
+Chicago,-14.7594,1
+Chicago,-14.5656,1
+Chicago,-14.3856,1
+Chicago,-14.1372,1
+Chicago,-13.896,1
+Chicago,-13.8278,1
+Chicago,-12.792,1
+Chicago,-12.7512,1
+Chicago,-12.148,1
+Chicago,-12.117,1
+Chicago,-11.7612,1
+Chicago,-10.7973,1
+Chicago,-10.3124,1
+Chicago,-10.1736,2
+Chicago,-8.9964,1
+Chicago,-8.904,1
+Chicago,-8.6768,1
+Chicago,-8.532,1
+Chicago,-8.4924,1
+Chicago,-8.3524,2
+Chicago,-8.0775,1
+Chicago,-8.05,1
+Chicago,-7.9634,1
+Chicago,-7.9002,1
+Chicago,-7.7406,1
+Chicago,-7.476,1
+Chicago,-7.4358,1
+Chicago,-7.3015,1
+Chicago,-7.119,1
+Chicago,-7.008,1
+Chicago,-6.8634,1
+Chicago,-6.3441,1
+Chicago,-6.3018,1
+Chicago,-6.237,2
+Chicago,-6.188,1
+Chicago,-6.0196,1
+Chicago,-5.8869,1
+Chicago,-5.7148,1
+Chicago,-5.4801,1
+Chicago,-5.2932,1
+Chicago,-5.1396,1
+Chicago,-5.0094,1
+Chicago,-4.8609,1
+Chicago,-4.8492,1
+Chicago,-4.7685,1
+Chicago,-4.752,1
+Chicago,-4.6752,1
+Chicago,-4.04,1
+Chicago,-3.9032,1
+Chicago,-3.6003,1
+Chicago,-3.3792,1
+Chicago,-3.272,1
+Chicago,-3.2436,1
+Chicago,-3.168,1
+Chicago,-3.0396,2
+Chicago,-2.9884,1
+Chicago,-2.88,1
+Chicago,-2.8308,1
+Chicago,-2.7648,1
+Chicago,-2.6982,1
+Chicago,-2.6268,1
+Chicago,-2.5648,1
+Chicago,-2.1885,1
+Chicago,-2.134,1
+Chicago,-2.0568,1
+Chicago,-1.8848,1
+Chicago,-1.744,1
+Chicago,-1.6752,1
+Chicago,-1.428,1
+Chicago,-1.3376,1
+Chicago,-1.3208,1
+Chicago,-0.9933,1
+Chicago,0.0,2
+Chicago,0.3094,1
+Chicago,0.4641,1
+Chicago,0.4706,1
+Chicago,0.6408,1
+Chicago,0.668,1
+Chicago,0.6912,1
+Chicago,0.7425,1
+Chicago,0.864,1
+Chicago,0.8856,1
+Chicago,1.002,1
+Chicago,1.197,1
+Chicago,1.1996,1
+Chicago,1.2038,1
+Chicago,1.2376,1
+Chicago,1.5066,1
+Chicago,1.5426,1
+Chicago,1.551,1
+Chicago,1.6116,1
+Chicago,1.6176,1
+Chicago,1.64,1
+Chicago,1.8144,2
+Chicago,1.8312,1
+Chicago,1.86,1
+Chicago,1.9926,1
+Chicago,2.0388,1
+Chicago,2.0394,1
+Chicago,2.065,1
+Chicago,2.1,1
+Chicago,2.1888,1
+Chicago,2.205,2
+Chicago,2.3868,1
+Chicago,2.4675,1
+Chicago,2.4864,1
+Chicago,2.502,1
+Chicago,2.5137,1
+Chicago,2.64,1
+Chicago,2.7384,1
+Chicago,2.934,1
+Chicago,2.9568,1
+Chicago,2.9835,1
+Chicago,3.069,1
+Chicago,3.1212,1
+Chicago,3.1806,1
+Chicago,3.2214,1
+Chicago,3.2224,1
+Chicago,3.278,1
+Chicago,3.29,1
+Chicago,3.339,1
+Chicago,3.3524,1
+Chicago,3.405,1
+Chicago,3.465,1
+Chicago,3.475,2
+Chicago,3.546,1
+Chicago,3.7128,1
+Chicago,3.7408,1
+Chicago,3.8844,1
+Chicago,4.044,1
+Chicago,4.1391,1
+Chicago,4.176,2
+Chicago,4.6176,1
+Chicago,4.7196,1
+Chicago,4.779,1
+Chicago,4.914,1
+Chicago,4.9616,1
+Chicago,4.995,1
+Chicago,5.1012,1
+Chicago,5.4432,1
+Chicago,5.55,1
+Chicago,5.6,2
+Chicago,5.6376,1
+Chicago,5.6784,1
+Chicago,5.998,1
+Chicago,5.999,1
+Chicago,6.0416,1
+Chicago,6.42,1
+Chicago,6.552,1
+Chicago,6.9368,1
+Chicago,7.2576,1
+Chicago,7.6968,1
+Chicago,7.92,1
+Chicago,7.9378,1
+Chicago,8.381,1
+Chicago,8.526,1
+Chicago,8.714,1
+Chicago,8.8088,1
+Chicago,8.9994,1
+Chicago,9.352,1
+Chicago,9.396,1
+Chicago,9.54,1
+Chicago,9.8685,1
+Chicago,9.912,1
+Chicago,10.9193,1
+Chicago,11.1944,1
+Chicago,11.36,1
+Chicago,11.9988,1
+Chicago,12.9978,1
+Chicago,13.4512,1
+Chicago,13.572,1
+Chicago,13.9972,1
+Chicago,14.3075,1
+Chicago,15.642,1
+Chicago,15.9348,1
+Chicago,16.6788,2
+Chicago,16.704,1
+Chicago,17.8152,1
+Chicago,17.8794,1
+Chicago,19.1376,1
+Chicago,19.5,1
+Chicago,19.755,1
+Chicago,20.2485,1
+Chicago,20.5764,1
+Chicago,20.844,1
+Chicago,21.42,1
+Chicago,22.4808,1
+Chicago,22.6184,1
+Chicago,23.7742,1
+Chicago,26.4654,1
+Chicago,26.9973,1
+Chicago,28.497,1
+Chicago,28.7196,1
+Chicago,28.7952,1
+Chicago,31.5825,1
+Chicago,32.6628,1
+Chicago,35.9976,1
+Chicago,36.4473,1
+Chicago,38.1576,1
+Chicago,38.456,1
+Chicago,43.1991,1
+Chicago,44.9616,1
+Chicago,49.4376,1
+Chicago,51.1936,1
+Chicago,51.8312,1
+Chicago,52.8228,1
+Chicago,53.7544,1
+Chicago,53.9946,1
+Chicago,54.215,1
+Chicago,56.6916,1
+Chicago,60.9552,1
+Chicago,71.9928,1
+Chicago,76.6395,1
+Chicago,97.3026,1
+Chicago,100.685,1
+Chicago,113.6394,1
+Chicago,125.198,1
+Chicago,134.9955,1
+Chicago,146.79,1
+Chicago,148.4946,1
+Chicago,156.047,1
+Chicago,335.9944,1
+Chicago,341.994,1
+Chicago,874.9875,1
+Columbia,-968.8833,1
+Columbia,-28.2744,1
+Columbia,-14.592,1
+Columbia,-11.19,1
+Columbia,-3.231,1
+Columbia,-1.9872,1
+Columbia,-0.8392,1
+Columbia,2.592,1
+Columbia,2.5984,1
+Columbia,3.1654,1
+Columbia,3.2616,1
+Columbia,3.8073,1
+Columbia,4.2408,1
+Columbia,4.3296,1
+Columbia,4.4004,1
+Columbia,4.4344,2
+Columbia,4.794,1
+Columbia,5.256,1
+Columbia,5.58,1
+Columbia,6.2208,1
+Columbia,6.396,1
+Columbia,6.532,1
+Columbia,6.862,1
+Columbia,6.8724,1
+Columbia,8.5544,1
+Columbia,9.072,1
+Columbia,9.3228,1
+Columbia,10.5504,1
+Columbia,11.086,1
+Columbia,11.2236,1
+Columbia,11.5752,1
+Columbia,11.7208,1
+Columbia,12.4416,1
+Columbia,13.846,1
+Columbia,15.2225,1
+Columbia,16.1602,1
+Columbia,17.745,1
+Columbia,17.7568,1
+Columbia,18.2352,1
+Columbia,18.4534,1
+Columbia,22.3734,1
+Columbia,22.6476,1
+Columbia,24.0688,1
+Columbia,24.393,1
+Columbia,24.8832,1
+Columbia,26.3912,1
+Columbia,28.0032,1
+Columbia,28.8576,1
+Columbia,31.2528,1
+Columbia,32.9817,1
+Columbia,33.2156,1
+Columbia,36.294,1
+Columbia,40.4012,1
+Columbia,43.736,1
+Columbia,43.8408,1
+Columbia,50.9082,1
+Columbia,53.2704,1
+Columbia,57.3212,1
+Columbia,58.38,1
+Columbia,59.373,1
+Columbia,60.2553,1
+Columbia,62.1376,1
+Columbia,74.574,1
+Columbia,81.921,1
+Columbia,87.18,1
+Columbia,87.7443,1
+Columbia,89.955,1
+Columbia,133.152,1
+Columbia,157.8702,1
+Columbia,163.787,1
+Columbia,176.386,1
+Columbia,220.4853,1
+Columbia,252.59,1
+Columbia,297.6435,1
+Columbia,355.4466,1
+Columbia,373.779,1
+Columbia,422.51,1
+Columbia,473.6106,1
+Columbia,751.7601,1
+Columbia,1270.99,1
+Columbus,-377.9892,1
+Columbus,-209.994,1
+Columbus,-199.617,1
+Columbus,-147.8655,1
+Columbus,-137.529,1
+Columbus,-86.0586,1
+Columbus,-81.7258,1
+Columbus,-71.3958,1
+Columbus,-58.8616,1
+Columbus,-58.1332,1
+Columbus,-51.984,1
+Columbus,-48.7032,1
+Columbus,-47.0304,1
+Columbus,-44.985,1
+Columbus,-40.4712,1
+Columbus,-34.9176,1
+Columbus,-26.9955,1
+Columbus,-24.276,1
+Columbus,-23.952,1
+Columbus,-22.449,1
+Columbus,-16.6848,1
+Columbus,-15.6156,1
+Columbus,-13.3936,1
+Columbus,-13.3176,1
+Columbus,-12.0588,2
+Columbus,-11.994,1
+Columbus,-10.054,1
+Columbus,-10.0512,1
+Columbus,-9.5018,1
+Columbus,-9.1845,1
+Columbus,-9.111,1
+Columbus,-7.84,1
+Columbus,-7.396,1
+Columbus,-7.098,1
+Columbus,-6.03,1
+Columbus,-5.2416,1
+Columbus,-4.5696,1
+Columbus,-4.488,1
+Columbus,-4.1568,1
+Columbus,-4.06,1
+Columbus,-4.0216,1
+Columbus,-3.6892,1
+Columbus,-3.5622,1
+Columbus,-3.462,1
+Columbus,-2.7,1
+Columbus,-2.6544,1
+Columbus,-2.61,1
+Columbus,-2.2896,1
+Columbus,-2.0568,1
+Columbus,-2.0016,1
+Columbus,0.1512,1
+Columbus,0.3384,1
+Columbus,0.3674,1
+Columbus,0.564,1
+Columbus,0.5998,1
+Columbus,0.891,1
+Columbus,1.0284,1
+Columbus,1.148,1
+Columbus,1.239,1
+Columbus,1.3677,1
+Columbus,1.4224,1
+Columbus,1.6056,1
+Columbus,1.652,1
+Columbus,1.6784,1
+Columbus,1.69,1
+Columbus,1.7004,1
+Columbus,1.742,1
+Columbus,1.7487,1
+Columbus,1.8048,1
+Columbus,1.8704,1
+Columbus,1.926,1
+Columbus,1.9602,1
+Columbus,1.9926,1
+Columbus,2.132,1
+Columbus,2.288,1
+Columbus,2.3077,1
+Columbus,2.6208,1
+Columbus,2.9145,1
+Columbus,3.0134,1
+Columbus,3.0976,1
+Columbus,3.3524,1
+Columbus,3.389,1
+Columbus,3.4048,1
+Columbus,3.4398,1
+Columbus,3.5256,1
+Columbus,3.6288,1
+Columbus,3.7236,1
+Columbus,3.99,1
+Columbus,4.086,1
+Columbus,4.1988,1
+Columbus,4.653,1
+Columbus,4.8118,1
+Columbus,4.887,1
+Columbus,4.914,1
+Columbus,5.3392,1
+Columbus,5.5177,1
+Columbus,5.544,1
+Columbus,5.6784,1
+Columbus,5.8812,1
+Columbus,6.2208,1
+Columbus,6.24,1
+Columbus,6.2424,1
+Columbus,6.2905,1
+Columbus,6.6836,1
+Columbus,6.8768,1
+Columbus,6.9088,1
+Columbus,6.9732,1
+Columbus,7.3206,1
+Columbus,7.4925,1
+Columbus,7.6896,1
+Columbus,7.8176,1
+Columbus,7.9128,1
+Columbus,7.9378,1
+Columbus,7.9527,1
+Columbus,8.5164,1
+Columbus,8.7032,1
+Columbus,8.9362,1
+Columbus,9.2928,1
+Columbus,9.779,1
+Columbus,9.801,1
+Columbus,9.936,1
+Columbus,9.9992,1
+Columbus,10.0725,1
+Columbus,10.3473,1
+Columbus,10.6288,1
+Columbus,10.8966,1
+Columbus,11.1776,1
+Columbus,11.214,1
+Columbus,11.49,1
+Columbus,12.358,1
+Columbus,12.4416,1
+Columbus,12.7008,1
+Columbus,13.0112,1
+Columbus,13.2352,1
+Columbus,13.2522,1
+Columbus,13.428,1
+Columbus,13.452,1
+Columbus,14.5348,1
+Columbus,15.1158,1
+Columbus,15.525,2
+Columbus,15.5904,1
+Columbus,15.9446,1
+Columbus,15.9968,1
+Columbus,16.5888,1
+Columbus,16.6698,1
+Columbus,16.7328,1
+Columbus,17.108,1
+Columbus,17.505,1
+Columbus,17.8066,1
+Columbus,17.9592,1
+Columbus,19.9686,1
+Columbus,19.996,1
+Columbus,20.9664,1
+Columbus,23.0864,1
+Columbus,23.226,1
+Columbus,23.9778,1
+Columbus,24.144,1
+Columbus,24.196,1
+Columbus,24.4608,2
+Columbus,25.473,1
+Columbus,26.7904,1
+Columbus,28.6965,1
+Columbus,29.364,1
+Columbus,29.692,1
+Columbus,29.95,1
+Columbus,30.445,1
+Columbus,31.5372,1
+Columbus,31.6,1
+Columbus,34.182,1
+Columbus,34.2925,1
+Columbus,35.0244,1
+Columbus,35.04,1
+Columbus,35.6613,1
+Columbus,35.6636,1
+Columbus,40.7499,1
+Columbus,41.952,1
+Columbus,43.9956,1
+Columbus,44.0316,1
+Columbus,45.3222,1
+Columbus,46.1184,1
+Columbus,46.8996,1
+Columbus,54.3966,1
+Columbus,56.511,1
+Columbus,57.6,1
+Columbus,67.941,1
+Columbus,70.006,1
+Columbus,72.8088,1
+Columbus,74.213,1
+Columbus,77.7519,2
+Columbus,81.1734,1
+Columbus,81.432,1
+Columbus,84.9436,1
+Columbus,87.7578,1
+Columbus,88.725,1
+Columbus,95.4612,1
+Columbus,107.4785,1
+Columbus,109.998,1
+Columbus,114.9385,1
+Columbus,119.4742,1
+Columbus,120.9416,1
+Columbus,125.1432,1
+Columbus,129.6,1
+Columbus,146.79,1
+Columbus,148.845,1
+Columbus,150.984,1
+Columbus,152.118,1
+Columbus,156.751,1
+Columbus,158.7519,1
+Columbus,168.4384,1
+Columbus,190.08,1
+Columbus,191.9968,1
+Columbus,224.073,1
+Columbus,290.3016,1
+Columbus,297.69,1
+Columbus,378.1674,1
+Columbus,394.212,1
+Columbus,411.7365,1
+Columbus,764.3818,1
+Dallas,-1141.47,1
+Dallas,-437.5404,1
+Dallas,-348.6294,1
+Dallas,-178.9668,1
+Dallas,-173.3472,1
+Dallas,-140.196,1
+Dallas,-121.58,1
+Dallas,-105.69,1
+Dallas,-96.4704,1
+Dallas,-95.2476,1
+Dallas,-93.99,1
+Dallas,-84.9615,1
+Dallas,-80.48,1
+Dallas,-70.9605,1
+Dallas,-68.1302,1
+Dallas,-65.568,1
+Dallas,-59.373,1
+Dallas,-54.5496,1
+Dallas,-52.8908,1
+Dallas,-52.632,1
+Dallas,-45.84,1
+Dallas,-39.5118,1
+Dallas,-33.804,1
+Dallas,-33.139,1
+Dallas,-32.6366,1
+Dallas,-31.0335,1
+Dallas,-27.2646,1
+Dallas,-25.109,1
+Dallas,-21.681,1
+Dallas,-20.1663,1
+Dallas,-19.864,1
+Dallas,-19.0656,1
+Dallas,-17.784,1
+Dallas,-17.7072,1
+Dallas,-17.6607,1
+Dallas,-16.5396,1
+Dallas,-16.2613,1
+Dallas,-15.5904,1
+Dallas,-14.229,1
+Dallas,-14.1696,1
+Dallas,-13.93,1
+Dallas,-13.4379,1
+Dallas,-12.9792,1
+Dallas,-12.0064,1
+Dallas,-11.4648,1
+Dallas,-11.439,1
+Dallas,-11.0208,1
+Dallas,-10.948,1
+Dallas,-10.4214,1
+Dallas,-10.1736,1
+Dallas,-9.5568,1
+Dallas,-9.156,1
+Dallas,-8.5008,1
+Dallas,-7.4394,1
+Dallas,-6.93,1
+Dallas,-6.0196,1
+Dallas,-5.0688,1
+Dallas,-4.896,1
+Dallas,-4.2588,1
+Dallas,-3.768,1
+Dallas,-3.2406,1
+Dallas,-3.0396,1
+Dallas,-2.838,1
+Dallas,-2.3748,1
+Dallas,-2.1792,1
+Dallas,-1.827,1
+Dallas,-1.728,1
+Dallas,-1.4994,1
+Dallas,-1.3952,1
+Dallas,-1.2558,1
+Dallas,-0.812,1
+Dallas,-0.6265,1
+Dallas,-0.5598,1
+Dallas,0.3336,1
+Dallas,0.372,1
+Dallas,0.5508,1
+Dallas,0.5904,1
+Dallas,0.7938,1
+Dallas,0.8388,1
+Dallas,0.8688,2
+Dallas,1.1466,1
+Dallas,1.4442,1
+Dallas,1.5795,1
+Dallas,1.674,1
+Dallas,1.6762,1
+Dallas,1.7248,2
+Dallas,1.7991,1
+Dallas,1.816,1
+Dallas,1.8704,1
+Dallas,1.8792,1
+Dallas,2.079,1
+Dallas,2.14,1
+Dallas,2.3808,1
+Dallas,2.64,1
+Dallas,3.21,1
+Dallas,3.3099,1
+Dallas,3.3524,1
+Dallas,3.6288,1
+Dallas,3.6296,1
+Dallas,3.668,1
+Dallas,3.7584,1
+Dallas,4.0644,1
+Dallas,4.4312,1
+Dallas,4.485,1
+Dallas,4.504,1
+Dallas,4.7616,1
+Dallas,5.0274,1
+Dallas,5.4432,2
+Dallas,5.544,1
+Dallas,5.5616,1
+Dallas,5.6376,1
+Dallas,5.6956,1
+Dallas,6.1572,1
+Dallas,6.1792,1
+Dallas,6.2064,1
+Dallas,6.5,1
+Dallas,6.5538,1
+Dallas,8.388,1
+Dallas,8.499,1
+Dallas,9.744,1
+Dallas,10.744,1
+Dallas,11.2752,1
+Dallas,12.3144,1
+Dallas,12.504,1
+Dallas,12.7008,1
+Dallas,15.196,1
+Dallas,16.7475,1
+Dallas,16.7946,1
+Dallas,17.352,1
+Dallas,17.5344,1
+Dallas,19.596,1
+Dallas,19.6305,1
+Dallas,19.824,1
+Dallas,21.7355,1
+Dallas,23.235,1
+Dallas,27.7158,1
+Dallas,28.6182,1
+Dallas,28.7064,1
+Dallas,29.364,1
+Dallas,29.673,1
+Dallas,30.996,1
+Dallas,35.89,1
+Dallas,37.0782,1
+Dallas,38.5722,1
+Dallas,41.5773,1
+Dallas,49.3164,1
+Dallas,49.3938,1
+Dallas,50.4063,1
+Dallas,54.057,1
+Dallas,55.4364,1
+Dallas,55.9986,1
+Dallas,82.497,1
+Dallas,84.66,1
+Dallas,128.6805,1
+Detroit,0.2198,1
+Detroit,0.9512,1
+Detroit,0.968,1
+Detroit,2.043,1
+Detroit,2.2828,1
+Detroit,2.3521,1
+Detroit,2.4288,1
+Detroit,2.5056,1
+Detroit,2.99,1
+Detroit,3.04,1
+Detroit,3.666,1
+Detroit,3.9906,1
+Detroit,4.752,1
+Detroit,4.756,1
+Detroit,5.4128,1
+Detroit,5.6644,1
+Detroit,6.2208,1
+Detroit,6.3296,1
+Detroit,6.7482,1
+Detroit,6.8982,1
+Detroit,7.0218,1
+Detroit,7.4592,1
+Detroit,8.4966,1
+Detroit,9.3624,1
+Detroit,10.048,1
+Detroit,10.35,1
+Detroit,10.584,1
+Detroit,11.086,1
+Detroit,11.452,1
+Detroit,11.732,1
+Detroit,12.376,1
+Detroit,12.4416,1
+Detroit,12.492,1
+Detroit,12.672,1
+Detroit,13.2986,1
+Detroit,13.9672,1
+Detroit,14.4648,2
+Detroit,14.8491,1
+Detroit,15.5112,1
+Detroit,16.68,1
+Detroit,17.6088,1
+Detroit,18.28,1
+Detroit,18.4604,1
+Detroit,19.5238,1
+Detroit,19.5858,1
+Detroit,19.9746,1
+Detroit,20.5755,1
+Detroit,20.9274,1
+Detroit,21.098,1
+Detroit,22.2352,1
+Detroit,23.3928,1
+Detroit,23.808,1
+Detroit,24.2256,1
+Detroit,24.843,1
+Detroit,29.1375,1
+Detroit,29.1528,1
+Detroit,30.0234,1
+Detroit,30.5964,1
+Detroit,31.4975,1
+Detroit,33.3172,1
+Detroit,35.0973,2
+Detroit,35.6346,1
+Detroit,38.4372,1
+Detroit,41.952,1
+Detroit,42.0256,1
+Detroit,44.985,1
+Detroit,46.7908,1
+Detroit,48.4704,1
+Detroit,50.9208,1
+Detroit,51.8,1
+Detroit,52.38,1
+Detroit,52.532,1
+Detroit,53.982,1
+Detroit,57.4938,1
+Detroit,58.7916,1
+Detroit,61.3305,1
+Detroit,63.984,1
+Detroit,66.5088,1
+Detroit,69.1776,1
+Detroit,70.006,1
+Detroit,70.4928,1
+Detroit,71.162,1
+Detroit,72.358,1
+Detroit,74.8142,1
+Detroit,74.975,1
+Detroit,80.0199,1
+Detroit,81.432,1
+Detroit,83.9944,1
+Detroit,98.5248,1
+Detroit,117.1296,1
+Detroit,119.2,1
+Detroit,121.7601,1
+Detroit,134.5302,1
+Detroit,134.654,1
+Detroit,135.98,1
+Detroit,136.665,1
+Detroit,136.939,1
+Detroit,146.388,1
+Detroit,150.984,1
+Detroit,163.1898,1
+Detroit,165.3496,1
+Detroit,181.656,1
+Detroit,219.9904,1
+Detroit,226.9644,1
+Detroit,231.4116,1
+Detroit,240.8595,1
+Detroit,245.7,1
+Detroit,412.5394,1
+Detroit,421.0824,1
+Detroit,423.0085,1
+Detroit,679.996,1
+Detroit,700.98,1
+Detroit,4946.37,1
+Henderson,0.0,1
+Henderson,0.3112,1
+Henderson,1.4796,1
+Henderson,2.0048,1
+Henderson,2.0748,1
+Henderson,2.6068,1
+Henderson,2.61,1
+Henderson,2.625,1
+Henderson,3.0084,1
+Henderson,4.536,1
+Henderson,4.9082,1
+Henderson,5.8233,1
+Henderson,8.2156,1
+Henderson,9.158,2
+Henderson,9.499,1
+Henderson,9.6,1
+Henderson,9.8901,1
+Henderson,10.7604,1
+Henderson,11.1176,1
+Henderson,11.5836,1
+Henderson,12.9129,1
+Henderson,14.985,1
+Henderson,16.7776,1
+Henderson,21.7728,1
+Henderson,24.2285,1
+Henderson,25.62,1
+Henderson,27.8944,1
+Henderson,32.346,1
+Henderson,34.9888,1
+Henderson,38.15,1
+Henderson,41.2938,1
+Henderson,41.9136,1
+Henderson,44.5278,1
+Henderson,45.7632,1
+Henderson,49.9704,1
+Henderson,70.722,1
+Henderson,70.98,1
+Henderson,113.6742,1
+Henderson,160.1586,1
+Henderson,167.808,1
+Henderson,188.1404,1
+Henderson,204.1092,1
+Henderson,213.6888,1
+Henderson,219.582,1
+Henderson,274.491,1
+Henderson,292.776,1
+Henderson,320.3172,1
+Henderson,517.4793,1
+Henderson,746.4078,1
+Henderson,757.4112,1
+Houston,-2287.782,1
+Houston,-1850.9464,1
+Houston,-1480.0335,1
+Houston,-766.012,1
+Houston,-509.997,1
+Houston,-459.6072,1
+Houston,-417.0936,1
+Houston,-317.1528,1
+Houston,-251.9958,1
+Houston,-251.1864,1
+Houston,-243.16,1
+Houston,-226.6368,1
+Houston,-225.0976,1
+Houston,-199.77,1
+Houston,-179.776,1
+Houston,-166.3935,1
+Houston,-160.96,1
+Houston,-160.2952,1
+Houston,-137.976,1
+Houston,-136.4895,1
+Houston,-131.951,1
+Houston,-125.766,1
+Houston,-121.2705,1
+Houston,-119.2312,1
+Houston,-114.0174,1
+Houston,-99.1032,1
+Houston,-97.2312,1
+Houston,-95.67,1
+Houston,-93.4724,1
+Houston,-90.3762,1
+Houston,-87.6672,1
+Houston,-85.2384,1
+Houston,-84.448,1
+Houston,-84.2928,1
+Houston,-77.625,1
+Houston,-77.4732,1
+Houston,-77.333,2
+Houston,-69.4722,1
+Houston,-67.6704,1
+Houston,-67.137,1
+Houston,-66.5088,1
+Houston,-66.3916,1
+Houston,-65.853,1
+Houston,-56.0592,1
+Houston,-53.072,1
+Houston,-52.3392,1
+Houston,-51.296,1
+Houston,-49.92,1
+Houston,-46.9764,1
+Houston,-46.716,1
+Houston,-46.3998,1
+Houston,-44.2782,2
+Houston,-44.1552,1
+Houston,-43.0296,1
+Houston,-39.804,1
+Houston,-38.8212,1
+Houston,-36.1176,1
+Houston,-35.5136,1
+Houston,-35.178,1
+Houston,-34.392,1
+Houston,-32.985,1
+Houston,-32.784,1
+Houston,-32.48,1
+Houston,-32.32,1
+Houston,-31.008,1
+Houston,-30.098,1
+Houston,-29.2524,2
+Houston,-28.8678,1
+Houston,-26.1696,1
+Houston,-25.9136,1
+Houston,-25.2185,1
+Houston,-24.9984,1
+Houston,-24.7086,1
+Houston,-24.398,1
+Houston,-22.948,1
+Houston,-22.2388,1
+Houston,-22.0416,1
+Houston,-21.168,1
+Houston,-20.7306,1
+Houston,-20.3322,1
+Houston,-20.1408,1
+Houston,-19.8144,1
+Houston,-19.602,1
+Houston,-19.2588,1
+Houston,-18.8728,1
+Houston,-18.1176,1
+Houston,-18.0588,1
+Houston,-17.2854,1
+Houston,-17.248,1
+Houston,-17.0274,1
+Houston,-16.9568,1
+Houston,-16.884,1
+Houston,-16.5858,1
+Houston,-16.3644,1
+Houston,-15.99,1
+Houston,-15.9268,1
+Houston,-15.147,1
+Houston,-14.688,1
+Houston,-14.5764,2
+Houston,-14.475,1
+Houston,-14.3856,1
+Houston,-14.2716,1
+Houston,-13.896,1
+Houston,-13.81,1
+Houston,-13.734,1
+Houston,-13.3424,1
+Houston,-12.9987,1
+Houston,-12.849,1
+Houston,-12.4146,1
+Houston,-12.075,1
+Houston,-11.6622,1
+Houston,-11.5938,1
+Houston,-11.5872,1
+Houston,-11.52,1
+Houston,-11.2806,1
+Houston,-10.4196,1
+Houston,-10.2114,1
+Houston,-10.15,1
+Houston,-9.8115,1
+Houston,-9.6565,1
+Houston,-9.6348,1
+Houston,-8.5794,2
+Houston,-8.1096,1
+Houston,-8.029,1
+Houston,-7.833,1
+Houston,-7.8225,1
+Houston,-7.7292,1
+Houston,-6.8992,1
+Houston,-6.8816,1
+Houston,-6.732,1
+Houston,-6.36,1
+Houston,-6.237,1
+Houston,-6.089,1
+Houston,-6.0768,1
+Houston,-6.0192,1
+Houston,-5.8346,1
+Houston,-5.8248,1
+Houston,-5.688,1
+Houston,-5.2072,1
+Houston,-4.9878,2
+Houston,-4.818,1
+Houston,-4.7784,1
+Houston,-4.7145,1
+Houston,-4.5396,1
+Houston,-4.3584,1
+Houston,-4.2012,1
+Houston,-4.1136,1
+Houston,-4.0128,1
+Houston,-3.94,1
+Houston,-3.9032,1
+Houston,-3.8208,2
+Houston,-3.7196,1
+Houston,-3.432,1
+Houston,-3.272,1
+Houston,-3.123,1
+Houston,-2.918,1
+Houston,-2.8272,1
+Houston,-2.7,1
+Houston,-2.6892,1
+Houston,-2.667,1
+Houston,-2.214,1
+Houston,-2.1376,1
+Houston,-2.1312,1
+Houston,-2.0264,1
+Houston,-1.9744,1
+Houston,-1.9602,1
+Houston,-1.9344,2
+Houston,-1.8904,1
+Houston,-1.5936,1
+Houston,-1.4784,1
+Houston,-1.476,1
+Houston,-1.4196,1
+Houston,-1.11,1
+Houston,-1.041,1
+Houston,-0.7566,2
+Houston,-0.6008,1
+Houston,0.0,2
+Houston,0.334,1
+Houston,0.365,1
+Houston,0.504,1
+Houston,0.546,1
+Houston,0.559,1
+Houston,0.6156,1
+Houston,0.654,1
+Houston,0.6786,1
+Houston,0.6993,1
+Houston,0.7198,1
+Houston,0.8088,1
+Houston,0.8624,1
+Houston,1.002,1
+Houston,1.008,1
+Houston,1.0269,1
+Houston,1.062,1
+Houston,1.1016,1
+Houston,1.3316,1
+Houston,1.6308,1
+Houston,1.6704,1
+Houston,1.7995,1
+Houston,1.816,1
+Houston,1.8468,1
+Houston,1.9136,1
+Houston,2.0358,1
+Houston,2.128,1
+Houston,2.232,1
+Houston,2.394,1
+Houston,2.4174,1
+Houston,2.5707,1
+Houston,2.6568,1
+Houston,2.6811,1
+Houston,2.724,1
+Houston,2.838,1
+Houston,2.8884,1
+Houston,2.9889,1
+Houston,3.21,2
+Houston,3.2214,1
+Houston,3.4276,1
+Houston,3.5529,1
+Houston,3.5623,1
+Houston,3.5952,1
+Houston,3.6288,3
+Houston,3.7376,1
+Houston,3.7408,1
+Houston,3.7584,1
+Houston,3.912,1
+Houston,3.9424,1
+Houston,4.0776,1
+Houston,4.266,1
+Houston,4.4004,1
+Houston,4.4604,1
+Houston,4.6344,1
+Houston,4.9308,1
+Houston,5.0064,1
+Houston,5.0856,1
+Houston,5.2125,1
+Houston,5.256,1
+Houston,5.2877,1
+Houston,5.319,1
+Houston,5.3352,1
+Houston,5.397,1
+Houston,5.4432,4
+Houston,5.5512,1
+Houston,5.605,1
+Houston,5.6376,2
+Houston,5.6956,1
+Houston,5.775,1
+Houston,6.0416,1
+Houston,6.066,1
+Houston,6.1792,1
+Houston,6.2244,1
+Houston,6.2664,1
+Houston,6.6,1
+Houston,6.7188,1
+Houston,6.7536,1
+Houston,6.756,1
+Houston,6.9986,1
+Houston,7.0173,1
+Houston,7.0659,1
+Houston,7.1928,1
+Houston,7.2576,2
+Houston,7.5528,1
+Houston,7.6154,1
+Houston,7.8735,1
+Houston,7.89,1
+Houston,7.996,1
+Houston,8.3328,1
+Houston,8.3958,1
+Houston,8.5845,1
+Houston,8.88,1
+Houston,9.072,3
+Houston,9.352,1
+Houston,9.63,1
+Houston,9.8658,1
+Houston,9.9468,1
+Houston,10.465,1
+Houston,10.56,1
+Houston,10.8864,1
+Houston,11.198,1
+Houston,11.5136,1
+Houston,11.5536,1
+Houston,11.996,1
+Houston,12.7008,2
+Houston,13.2293,1
+Houston,13.32,1
+Houston,13.8267,1
+Houston,13.8572,1
+Houston,13.8579,1
+Houston,14.3075,1
+Houston,14.742,1
+Houston,14.7582,1
+Houston,14.8365,1
+Houston,15.0384,1
+Houston,15.0735,1
+Houston,15.9425,1
+Houston,15.998,1
+Houston,16.1838,2
+Houston,16.704,1
+Houston,19.1376,2
+Houston,20.235,1
+Houston,20.8719,1
+Houston,21.024,1
+Houston,21.42,1
+Houston,21.888,1
+Houston,23.235,1
+Houston,23.7742,1
+Houston,25.186,1
+Houston,26.558,1
+Houston,26.824,1
+Houston,26.9024,1
+Houston,26.9526,1
+Houston,27.972,1
+Houston,28.497,1
+Houston,32.13,1
+Houston,32.4684,1
+Houston,33.5895,1
+Houston,33.6042,1
+Houston,33.831,1
+Houston,33.9065,1
+Houston,35.415,1
+Houston,35.6613,1
+Houston,35.985,1
+Houston,35.9964,1
+Houston,37.495,1
+Houston,39.6879,1
+Houston,41.5688,1
+Houston,41.7564,1
+Houston,44.046,1
+Houston,45.1395,1
+Houston,46.095,1
+Houston,47.0351,1
+Houston,47.5072,1
+Houston,48.9902,1
+Houston,49.761,1
+Houston,50.4063,1
+Houston,52.493,1
+Houston,52.632,1
+Houston,53.997,1
+Houston,54.215,1
+Houston,59.4355,1
+Houston,61.4628,1
+Houston,64.674,1
+Houston,64.7892,1
+Houston,69.6546,1
+Houston,69.965,1
+Houston,77.7468,1
+Houston,88.485,1
+Houston,92.4399,1
+Houston,95.0968,1
+Houston,102.774,1
+Houston,109.3365,1
+Houston,118.293,2
+Houston,204.0714,1
+Houston,376.11,1
+Houston,569.9905,1
+Jackson,-249.3216,1
+Jackson,-23.5764,1
+Jackson,0.2334,1
+Jackson,0.3156,1
+Jackson,0.7794,1
+Jackson,1.0192,1
+Jackson,1.07,1
+Jackson,1.2006,1
+Jackson,1.521,1
+Jackson,1.7024,1
+Jackson,1.962,1
+Jackson,1.9712,1
+Jackson,2.1684,1
+Jackson,2.891,1
+Jackson,3.052,1
+Jackson,3.614,1
+Jackson,3.753,1
+Jackson,5.256,1
+Jackson,5.3721,1
+Jackson,6.3504,1
+Jackson,6.715,1
+Jackson,6.8714,1
+Jackson,6.939,1
+Jackson,6.9795,1
+Jackson,7.056,1
+Jackson,7.3788,1
+Jackson,7.6154,1
+Jackson,7.68,1
+Jackson,7.98,1
+Jackson,8.304,1
+Jackson,8.4942,1
+Jackson,8.619,1
+Jackson,8.7048,1
+Jackson,8.7138,1
+Jackson,8.763,1
+Jackson,9.3312,2
+Jackson,14.9156,1
+Jackson,15.764,1
+Jackson,16.2486,1
+Jackson,16.291,1
+Jackson,21.0128,1
+Jackson,21.036,1
+Jackson,21.06,1
+Jackson,22.0032,1
+Jackson,23.3954,1
+Jackson,25.1916,1
+Jackson,25.2315,1
+Jackson,25.7488,1
+Jackson,32.095,1
+Jackson,32.6332,1
+Jackson,32.9817,1
+Jackson,42.0744,1
+Jackson,43.45,1
+Jackson,45.576,1
+Jackson,48.3336,1
+Jackson,49.497,1
+Jackson,50.1876,1
+Jackson,58.6872,1
+Jackson,62.4,1
+Jackson,68.6868,1
+Jackson,69.1776,1
+Jackson,72.6408,1
+Jackson,81.0474,1
+Jackson,94.4925,1
+Jackson,96.3438,1
+Jackson,111.591,1
+Jackson,147.0896,1
+Jackson,152.0883,1
+Jackson,163.1898,1
+Jackson,184.2204,1
+Jackson,190.4298,1
+Jackson,197.991,1
+Jackson,200.49,1
+Jackson,225.264,1
+Jackson,240.5648,1
+Jackson,257.9871,1
+Jackson,323.946,1
+Jackson,329.4081,1
+Jackson,388.8128,1
+Jackson,829.3754,1
+Jackson,2504.2216,1
+Jacksonville,-1811.0784,1
+Jacksonville,-458.1468,1
+Jacksonville,-420.0,1
+Jacksonville,-337.806,1
+Jacksonville,-299.2614,1
+Jacksonville,-167.3184,1
+Jacksonville,-73.577,1
+Jacksonville,-51.294,1
+Jacksonville,-48.1194,1
+Jacksonville,-44.1462,1
+Jacksonville,-29.2446,1
+Jacksonville,-28.5978,1
+Jacksonville,-27.828,1
+Jacksonville,-21.294,1
+Jacksonville,-21.1596,1
+Jacksonville,-19.1058,1
+Jacksonville,-18.585,1
+Jacksonville,-17.9964,1
+Jacksonville,-16.5528,1
+Jacksonville,-16.426,1
+Jacksonville,-13.363,1
+Jacksonville,-12.528,1
+Jacksonville,-12.147,1
+Jacksonville,-10.4874,1
+Jacksonville,-10.0372,1
+Jacksonville,-9.8463,1
+Jacksonville,-9.8208,1
+Jacksonville,-8.9796,1
+Jacksonville,-8.2368,1
+Jacksonville,-7.7728,1
+Jacksonville,-7.612,1
+Jacksonville,-5.6943,1
+Jacksonville,-3.6892,1
+Jacksonville,-3.0933,1
+Jacksonville,-2.7,1
+Jacksonville,-2.2758,1
+Jacksonville,-1.624,1
+Jacksonville,-0.91,1
+Jacksonville,-0.8558,1
+Jacksonville,-0.7748,1
+Jacksonville,0.0,1
+Jacksonville,0.3822,1
+Jacksonville,0.416,1
+Jacksonville,0.4172,1
+Jacksonville,0.5904,1
+Jacksonville,0.693,1
+Jacksonville,0.9856,1
+Jacksonville,1.002,1
+Jacksonville,1.05,1
+Jacksonville,1.068,1
+Jacksonville,1.112,1
+Jacksonville,1.168,1
+Jacksonville,1.2192,1
+Jacksonville,1.3584,1
+Jacksonville,1.375,1
+Jacksonville,1.4136,1
+Jacksonville,1.4364,1
+Jacksonville,1.638,1
+Jacksonville,1.651,1
+Jacksonville,1.6704,1
+Jacksonville,1.8207,1
+Jacksonville,1.848,1
+Jacksonville,2.0358,1
+Jacksonville,2.502,1
+Jacksonville,3.21,1
+Jacksonville,3.5712,1
+Jacksonville,3.6288,1
+Jacksonville,4.36,1
+Jacksonville,4.4312,1
+Jacksonville,4.7976,1
+Jacksonville,4.914,1
+Jacksonville,4.995,1
+Jacksonville,5.1786,1
+Jacksonville,5.7798,1
+Jacksonville,5.9175,1
+Jacksonville,5.9185,1
+Jacksonville,5.9384,1
+Jacksonville,5.9598,1
+Jacksonville,6.006,1
+Jacksonville,6.0382,1
+Jacksonville,6.0412,1
+Jacksonville,6.534,1
+Jacksonville,7.1988,1
+Jacksonville,7.3386,1
+Jacksonville,7.4816,1
+Jacksonville,8.0766,1
+Jacksonville,8.218,1
+Jacksonville,8.3028,1
+Jacksonville,9.1872,1
+Jacksonville,9.2386,1
+Jacksonville,9.5968,1
+Jacksonville,10.2592,1
+Jacksonville,10.8864,1
+Jacksonville,11.814,1
+Jacksonville,12.6392,1
+Jacksonville,12.6672,1
+Jacksonville,13.128,1
+Jacksonville,14.682,1
+Jacksonville,15.294,1
+Jacksonville,16.1838,1
+Jacksonville,19.1786,1
+Jacksonville,21.9978,1
+Jacksonville,22.0158,1
+Jacksonville,22.4808,1
+Jacksonville,25.875,1
+Jacksonville,27.986,1
+Jacksonville,31.0688,2
+Jacksonville,31.198,1
+Jacksonville,31.8696,1
+Jacksonville,31.996,1
+Jacksonville,33.7212,1
+Jacksonville,38.3952,1
+Jacksonville,40.3536,1
+Jacksonville,40.6878,1
+Jacksonville,50.3832,1
+Jacksonville,51.4975,1
+Jacksonville,53.8048,1
+Jacksonville,84.22,1
+Jacksonville,88.074,1
+Jacksonville,96.0232,1
+Jacksonville,107.985,1
+Jacksonville,131.2785,1
+Jacksonville,152.388,1
+Jacksonville,156.338,1
+Long Beach,-347.1174,1
+Long Beach,-34.0704,1
+Long Beach,-22.098,1
+Long Beach,-13.8717,1
+Long Beach,-0.8886,1
+Long Beach,0.3024,1
+Long Beach,0.6102,1
+Long Beach,0.7938,1
+Long Beach,1.6704,1
+Long Beach,1.7919,1
+Long Beach,2.19,1
+Long Beach,2.2724,1
+Long Beach,2.2908,1
+Long Beach,3.5505,1
+Long Beach,3.58,1
+Long Beach,4.0749,1
+Long Beach,4.195,1
+Long Beach,4.4564,1
+Long Beach,4.4736,1
+Long Beach,5.123,1
+Long Beach,5.4896,1
+Long Beach,6.2208,1
+Long Beach,6.3336,1
+Long Beach,6.6846,1
+Long Beach,8.8624,1
+Long Beach,8.9985,1
+Long Beach,9.3312,1
+Long Beach,9.7608,1
+Long Beach,9.8208,1
+Long Beach,10.8682,1
+Long Beach,14.8,1
+Long Beach,15.12,1
+Long Beach,16.124,1
+Long Beach,18.396,1
+Long Beach,19.0386,1
+Long Beach,19.872,1
+Long Beach,20.585,1
+Long Beach,20.853,1
+Long Beach,25.68,1
+Long Beach,26.2,1
+Long Beach,28.0876,1
+Long Beach,28.858,1
+Long Beach,31.9319,1
+Long Beach,36.7255,1
+Long Beach,36.9288,1
+Long Beach,39.5428,1
+Long Beach,41.823,1
+Long Beach,43.176,1
+Long Beach,44.5962,1
+Long Beach,50.4711,1
+Long Beach,60.392,1
+Long Beach,78.7528,1
+Long Beach,82.2906,1
+Long Beach,83.844,1
+Long Beach,131.355,1
+Long Beach,154.8426,1
+Long Beach,161.9919,1
+Long Beach,209.274,1
+Long Beach,252.588,1
+Long Beach,256.784,1
+Long Beach,352.3065,1
+Los Angeles,-217.048,1
+Los Angeles,-175.8708,1
+Los Angeles,-99.1764,1
+Los Angeles,-67.941,1
+Los Angeles,-64.5444,1
+Los Angeles,-44.2764,1
+Los Angeles,-36.441,1
+Los Angeles,-36.294,1
+Los Angeles,-36.2136,1
+Los Angeles,-31.9144,1
+Los Angeles,-30.245,1
+Los Angeles,-29.9178,1
+Los Angeles,-28.9674,1
+Los Angeles,-20.7846,2
+Los Angeles,-20.691,1
+Los Angeles,-19.1058,1
+Los Angeles,-17.9928,1
+Los Angeles,-17.0352,1
+Los Angeles,-15.245,1
+Los Angeles,-15.098,1
+Los Angeles,-14.9877,2
+Los Angeles,-13.7403,1
+Los Angeles,-12.4146,1
+Los Angeles,-9.1602,1
+Los Angeles,-9.147,1
+Los Angeles,-8.5068,1
+Los Angeles,-8.2764,1
+Los Angeles,-7.996,1
+Los Angeles,-6.4233,1
+Los Angeles,-5.4882,1
+Los Angeles,-3.5996,1
+Los Angeles,-3.504,1
+Los Angeles,-2.9566,1
+Los Angeles,-1.7772,2
+Los Angeles,0.0,5
+Los Angeles,0.0628,1
+Los Angeles,0.0792,1
+Los Angeles,0.1188,1
+Los Angeles,0.2034,1
+Los Angeles,0.5152,1
+Los Angeles,0.5432,1
+Los Angeles,0.7794,1
+Los Angeles,0.8792,2
+Los Angeles,0.9468,1
+Los Angeles,0.99,1
+Los Angeles,1.0166,1
+Los Angeles,1.1564,1
+Los Angeles,1.1988,1
+Los Angeles,1.2714,1
+Los Angeles,1.305,1
+Los Angeles,1.4112,1
+Los Angeles,1.5288,1
+Los Angeles,1.5456,1
+Los Angeles,1.5876,1
+Los Angeles,1.6038,1
+Los Angeles,1.6588,1
+Los Angeles,1.6704,1
+Los Angeles,1.7052,1
+Los Angeles,1.7375,1
+Los Angeles,1.7466,1
+Los Angeles,1.7472,1
+Los Angeles,1.7608,1
+Los Angeles,1.7901,2
+Los Angeles,1.8144,1
+Los Angeles,1.9024,1
+Los Angeles,1.9656,1
+Los Angeles,1.971,1
+Los Angeles,2.0228,1
+Los Angeles,2.054,1
+Los Angeles,2.0672,1
+Los Angeles,2.1546,1
+Los Angeles,2.245,3
+Los Angeles,2.397,1
+Los Angeles,2.4192,1
+Los Angeles,2.528,1
+Los Angeles,2.5592,1
+Los Angeles,2.598,1
+Los Angeles,2.5984,1
+Los Angeles,2.604,1
+Los Angeles,2.632,1
+Los Angeles,2.6376,1
+Los Angeles,2.691,1
+Los Angeles,2.7028,1
+Los Angeles,2.7062,1
+Los Angeles,2.7166,1
+Los Angeles,2.79,1
+Los Angeles,2.7956,1
+Los Angeles,2.8101,1
+Los Angeles,2.8314,1
+Los Angeles,2.8536,1
+Los Angeles,2.8776,1
+Los Angeles,2.8836,1
+Los Angeles,2.9302,1
+Los Angeles,2.9372,1
+Los Angeles,2.9682,1
+Los Angeles,3.0096,1
+Los Angeles,3.0212,1
+Los Angeles,3.0368,1
+Los Angeles,3.0498,1
+Los Angeles,3.0814,1
+Los Angeles,3.1104,4
+Los Angeles,3.1584,1
+Los Angeles,3.1752,1
+Los Angeles,3.2352,1
+Los Angeles,3.2676,1
+Los Angeles,3.2944,1
+Los Angeles,3.352,1
+Los Angeles,3.36,2
+Los Angeles,3.4092,1
+Los Angeles,3.4668,1
+Los Angeles,3.4686,1
+Los Angeles,3.5475,1
+Los Angeles,3.5858,1
+Los Angeles,3.597,1
+Los Angeles,3.6022,1
+Los Angeles,3.6714,1
+Los Angeles,3.717,1
+Los Angeles,3.7208,1
+Los Angeles,3.753,1
+Los Angeles,3.7996,2
+Los Angeles,3.8048,1
+Los Angeles,3.8168,1
+Los Angeles,3.84,1
+Los Angeles,3.8775,1
+Los Angeles,3.894,2
+Los Angeles,3.9312,1
+Los Angeles,3.9498,1
+Los Angeles,3.969,1
+Los Angeles,4.0098,1
+Los Angeles,4.0192,1
+Los Angeles,4.0664,1
+Los Angeles,4.0749,1
+Los Angeles,4.1328,1
+Los Angeles,4.176,1
+Los Angeles,4.2224,1
+Los Angeles,4.2804,2
+Los Angeles,4.3902,1
+Los Angeles,4.4352,2
+Los Angeles,4.4392,1
+Los Angeles,4.4712,1
+Los Angeles,4.49,1
+Los Angeles,4.5008,1
+Los Angeles,4.5188,1
+Los Angeles,4.5318,1
+Los Angeles,4.5816,1
+Los Angeles,4.5882,1
+Los Angeles,4.6221,1
+Los Angeles,4.6228,1
+Los Angeles,4.6816,1
+Los Angeles,4.704,1
+Los Angeles,4.752,1
+Los Angeles,4.756,1
+Los Angeles,4.7916,1
+Los Angeles,4.8118,1
+Los Angeles,4.8546,1
+Los Angeles,4.8804,1
+Los Angeles,4.9056,1
+Los Angeles,4.9728,1
+Los Angeles,5.0055,1
+Los Angeles,5.0358,1
+Los Angeles,5.04,1
+Los Angeles,5.0596,1
+Los Angeles,5.0688,1
+Los Angeles,5.07,1
+Los Angeles,5.1015,1
+Los Angeles,5.1294,1
+Los Angeles,5.1816,1
+Los Angeles,5.2164,1
+Los Angeles,5.2287,1
+Los Angeles,5.2332,2
+Los Angeles,5.24,1
+Los Angeles,5.3196,1
+Los Angeles,5.3214,2
+Los Angeles,5.334,1
+Los Angeles,5.382,1
+Los Angeles,5.3892,1
+Los Angeles,5.4332,1
+Los Angeles,5.4896,1
+Los Angeles,5.5071,1
+Los Angeles,5.5177,1
+Los Angeles,5.5755,1
+Los Angeles,5.58,1
+Los Angeles,5.5888,1
+Los Angeles,5.616,1
+Los Angeles,5.6644,1
+Los Angeles,5.6994,2
+Los Angeles,5.715,1
+Los Angeles,5.7568,1
+Los Angeles,5.7624,2
+Los Angeles,5.7825,1
+Los Angeles,5.79,1
+Los Angeles,5.796,1
+Los Angeles,5.8065,1
+Los Angeles,5.8604,2
+Los Angeles,6.0288,1
+Los Angeles,6.03,2
+Los Angeles,6.048,1
+Los Angeles,6.0632,1
+Los Angeles,6.1192,1
+Los Angeles,6.1512,1
+Los Angeles,6.1548,1
+Los Angeles,6.206,2
+Los Angeles,6.2208,5
+Los Angeles,6.2979,1
+Los Angeles,6.378,1
+Los Angeles,6.4128,3
+Los Angeles,6.4944,1
+Los Angeles,6.496,1
+Los Angeles,6.5286,1
+Los Angeles,6.5472,1
+Los Angeles,6.549,1
+Los Angeles,6.552,1
+Los Angeles,6.5754,1
+Los Angeles,6.5856,1
+Los Angeles,6.615,1
+Los Angeles,6.633,1
+Los Angeles,6.8714,3
+Los Angeles,6.888,1
+Los Angeles,6.912,1
+Los Angeles,7.015,1
+Los Angeles,7.052,1
+Los Angeles,7.065,2
+Los Angeles,7.106,1
+Los Angeles,7.152,1
+Los Angeles,7.182,1
+Los Angeles,7.196,1
+Los Angeles,7.2,1
+Los Angeles,7.2268,1
+Los Angeles,7.384,1
+Los Angeles,7.4872,1
+Los Angeles,7.4975,1
+Los Angeles,7.553,1
+Los Angeles,7.6146,1
+Los Angeles,7.704,1
+Los Angeles,7.7679,1
+Los Angeles,7.896,1
+Los Angeles,7.9248,1
+Los Angeles,7.945,1
+Los Angeles,8.019,1
+Los Angeles,8.073,1
+Los Angeles,8.0968,1
+Los Angeles,8.2156,1
+Los Angeles,8.2194,1
+Los Angeles,8.226,1
+Los Angeles,8.2764,1
+Los Angeles,8.2782,1
+Los Angeles,8.2992,1
+Los Angeles,8.4966,1
+Los Angeles,8.5025,1
+Los Angeles,8.619,1
+Los Angeles,8.694,1
+Los Angeles,8.763,1
+Los Angeles,8.7672,1
+Los Angeles,8.7945,1
+Los Angeles,8.8176,1
+Los Angeles,8.8608,1
+Los Angeles,8.95,1
+Los Angeles,8.983,1
+Los Angeles,8.991,1
+Los Angeles,9.102,1
+Los Angeles,9.1056,1
+Los Angeles,9.1269,1
+Los Angeles,9.2928,1
+Los Angeles,9.312,1
+Los Angeles,9.3312,8
+Los Angeles,9.3612,1
+Los Angeles,9.4717,1
+Los Angeles,9.4788,1
+Los Angeles,9.6192,1
+Los Angeles,9.63,1
+Los Angeles,9.6375,1
+Los Angeles,9.8164,1
+Los Angeles,9.8418,1
+Los Angeles,9.9296,1
+Los Angeles,9.936,1
+Los Angeles,10.0485,1
+Los Angeles,10.089,1
+Los Angeles,10.224,1
+Los Angeles,10.248,1
+Los Angeles,10.2588,1
+Los Angeles,10.3168,1
+Los Angeles,10.3473,1
+Los Angeles,10.3488,1
+Los Angeles,10.35,1
+Los Angeles,10.368,1
+Los Angeles,10.374,1
+Los Angeles,10.4076,1
+Los Angeles,10.4832,1
+Los Angeles,10.4985,1
+Los Angeles,10.5,1
+Los Angeles,10.584,1
+Los Angeles,10.74,1
+Los Angeles,10.8,1
+Los Angeles,10.9368,1
+Los Angeles,11.094,1
+Los Angeles,11.196,1
+Los Angeles,11.206,1
+Los Angeles,11.2504,1
+Los Angeles,11.2648,1
+Los Angeles,11.2896,1
+Los Angeles,11.31,1
+Los Angeles,11.3288,1
+Los Angeles,11.5587,1
+Los Angeles,11.586,1
+Los Angeles,11.7,1
+Los Angeles,11.7488,2
+Los Angeles,11.7741,1
+Los Angeles,11.8584,1
+Los Angeles,11.8728,1
+Los Angeles,11.907,1
+Los Angeles,11.92,1
+Los Angeles,12.0609,1
+Los Angeles,12.096,1
+Los Angeles,12.1068,1
+Los Angeles,12.1692,1
+Los Angeles,12.2325,1
+Los Angeles,12.298,2
+Los Angeles,12.4416,2
+Los Angeles,12.8256,1
+Los Angeles,12.9129,1
+Los Angeles,12.987,1
+Los Angeles,13.0375,1
+Los Angeles,13.1868,1
+Los Angeles,13.1985,1
+Los Angeles,13.3056,1
+Los Angeles,13.3476,1
+Los Angeles,13.5072,1
+Los Angeles,13.6851,1
+Los Angeles,13.734,2
+Los Angeles,13.7646,1
+Los Angeles,13.832,1
+Los Angeles,13.959,1
+Los Angeles,14.098,1
+Los Angeles,14.1426,1
+Los Angeles,14.1694,1
+Los Angeles,14.2386,1
+Los Angeles,14.2956,1
+Los Angeles,14.418,1
+Los Angeles,14.4222,1
+Los Angeles,14.6718,1
+Los Angeles,14.7582,1
+Los Angeles,14.8,1
+Los Angeles,15.1116,2
+Los Angeles,15.2208,2
+Los Angeles,15.3522,1
+Los Angeles,15.4752,1
+Los Angeles,15.552,4
+Los Angeles,15.6332,1
+Los Angeles,15.764,1
+Los Angeles,15.7992,1
+Los Angeles,15.824,1
+Los Angeles,15.8256,1
+Los Angeles,15.8376,1
+Los Angeles,15.9936,1
+Los Angeles,16.032,1
+Los Angeles,16.38,1
+Los Angeles,16.544,1
+Los Angeles,16.5888,2
+Los Angeles,16.614,1
+Los Angeles,16.6764,1
+Los Angeles,16.68,1
+Los Angeles,16.7886,1
+Los Angeles,16.848,1
+Los Angeles,16.998,1
+Los Angeles,17.0268,1
+Los Angeles,17.3148,1
+Los Angeles,17.3488,1
+Los Angeles,17.3656,1
+Los Angeles,17.466,1
+Los Angeles,17.4975,1
+Los Angeles,17.55,1
+Los Angeles,17.745,1
+Los Angeles,18.0096,2
+Los Angeles,18.1146,1
+Los Angeles,18.1176,1
+Los Angeles,18.2112,1
+Los Angeles,18.267,1
+Los Angeles,18.3168,1
+Los Angeles,18.447,1
+Los Angeles,18.4548,1
+Los Angeles,18.4772,1
+Los Angeles,18.5391,1
+Los Angeles,18.6624,3
+Los Angeles,18.8328,1
+Los Angeles,19.0512,1
+Los Angeles,19.26,1
+Los Angeles,19.3932,1
+Los Angeles,19.4184,1
+Los Angeles,19.4352,1
+Los Angeles,19.4656,1
+Los Angeles,19.488,1
+Los Angeles,19.5184,1
+Los Angeles,19.7988,1
+Los Angeles,19.9665,1
+Los Angeles,20.1584,1
+Los Angeles,20.724,1
+Los Angeles,20.85,1
+Los Angeles,20.878,1
+Los Angeles,20.9592,1
+Los Angeles,21.0,1
+Los Angeles,21.228,1
+Los Angeles,21.259,1
+Los Angeles,21.384,1
+Los Angeles,21.5397,1
+Los Angeles,21.5824,1
+Los Angeles,21.5964,1
+Los Angeles,21.5988,1
+Los Angeles,21.7728,2
+Los Angeles,21.7845,1
+Los Angeles,22.1184,1
+Los Angeles,22.2,1
+Los Angeles,22.2384,1
+Los Angeles,22.2516,1
+Los Angeles,22.3328,1
+Los Angeles,22.4082,1
+Los Angeles,22.4316,2
+Los Angeles,22.5296,1
+Los Angeles,22.5576,1
+Los Angeles,22.5732,2
+Los Angeles,22.6737,1
+Los Angeles,22.6782,2
+Los Angeles,22.8096,1
+Los Angeles,22.9008,1
+Los Angeles,22.941,1
+Los Angeles,22.984,1
+Los Angeles,23.028,1
+Los Angeles,23.0864,1
+Los Angeles,23.712,1
+Los Angeles,23.7168,1
+Los Angeles,23.7684,1
+Los Angeles,23.84,1
+Los Angeles,23.9232,1
+Los Angeles,23.9688,2
+Los Angeles,23.988,1
+Los Angeles,24.219,1
+Los Angeles,24.2696,1
+Los Angeles,24.2919,1
+Los Angeles,24.47,1
+Los Angeles,24.5028,1
+Los Angeles,24.936,1
+Los Angeles,25.1979,1
+Los Angeles,25.3302,1
+Los Angeles,25.792,1
+Los Angeles,26.0316,1
+Los Angeles,26.0568,1
+Los Angeles,26.082,1
+Los Angeles,26.2416,1
+Los Angeles,26.3494,1
+Los Angeles,26.5824,1
+Los Angeles,26.6304,1
+Los Angeles,26.973,1
+Los Angeles,27.1666,1
+Los Angeles,27.1764,1
+Los Angeles,27.196,1
+Los Angeles,27.3568,1
+Los Angeles,27.3582,1
+Los Angeles,27.504,1
+Los Angeles,27.5632,1
+Los Angeles,27.735,1
+Los Angeles,27.783,1
+Los Angeles,27.882,2
+Los Angeles,27.9936,2
+Los Angeles,28.4102,1
+Los Angeles,28.4364,1
+Los Angeles,28.615,1
+Los Angeles,28.7712,1
+Los Angeles,28.7928,1
+Los Angeles,28.7964,1
+Los Angeles,28.858,1
+Los Angeles,28.9568,1
+Los Angeles,28.965,1
+Los Angeles,29.0325,1
+Los Angeles,29.1528,1
+Los Angeles,29.3284,1
+Los Angeles,29.3412,1
+Los Angeles,29.5776,1
+Los Angeles,29.6688,1
+Los Angeles,29.7024,1
+Los Angeles,30.2232,1
+Los Angeles,30.2384,1
+Los Angeles,30.4278,1
+Los Angeles,30.432,1
+Los Angeles,31.0184,2
+Los Angeles,31.198,1
+Los Angeles,31.2444,1
+Los Angeles,31.374,1
+Los Angeles,31.4532,1
+Los Angeles,31.4895,1
+Los Angeles,31.494,1
+Los Angeles,31.5192,1
+Los Angeles,32.3351,1
+Los Angeles,32.5008,1
+Los Angeles,33.0708,1
+Los Angeles,33.3576,1
+Los Angeles,33.4584,1
+Los Angeles,33.64,1
+Los Angeles,33.8517,2
+Los Angeles,33.93,1
+Los Angeles,34.47,1
+Los Angeles,35.245,1
+Los Angeles,35.6238,1
+Los Angeles,35.985,1
+Los Angeles,35.994,1
+Los Angeles,36.4044,1
+Los Angeles,37.7874,1
+Los Angeles,37.797,1
+Los Angeles,38.024,1
+Los Angeles,38.178,1
+Los Angeles,38.38,1
+Los Angeles,38.9312,1
+Los Angeles,38.976,1
+Los Angeles,38.9975,2
+Los Angeles,39.213,1
+Los Angeles,39.5,1
+Los Angeles,39.52,1
+Los Angeles,40.12,1
+Los Angeles,40.7499,1
+Los Angeles,41.076,1
+Los Angeles,41.1208,1
+Los Angeles,41.2237,2
+Los Angeles,41.4294,1
+Los Angeles,41.4456,1
+Los Angeles,41.5104,1
+Los Angeles,41.88,1
+Los Angeles,41.993,1
+Los Angeles,42.045,1
+Los Angeles,42.495,1
+Los Angeles,43.6842,1
+Los Angeles,43.706,2
+Los Angeles,44.955,1
+Los Angeles,45.294,1
+Los Angeles,45.8064,1
+Los Angeles,46.225,1
+Los Angeles,46.7313,1
+Los Angeles,46.797,1
+Los Angeles,46.953,1
+Los Angeles,47.0979,1
+Los Angeles,47.243,1
+Los Angeles,47.8629,1
+Los Angeles,47.994,1
+Los Angeles,48.5392,1
+Los Angeles,50.396,1
+Los Angeles,50.414,1
+Los Angeles,51.1485,1
+Los Angeles,51.1872,1
+Los Angeles,51.474,1
+Los Angeles,51.8238,1
+Los Angeles,51.942,1
+Los Angeles,52.776,1
+Los Angeles,52.7934,1
+Los Angeles,53.196,1
+Los Angeles,53.2608,1
+Los Angeles,53.261,1
+Los Angeles,53.4954,1
+Los Angeles,54.4008,1
+Los Angeles,54.5832,1
+Los Angeles,54.8613,1
+Los Angeles,55.745,1
+Los Angeles,55.764,1
+Los Angeles,55.845,1
+Los Angeles,55.896,1
+Los Angeles,56.324,1
+Los Angeles,56.9772,1
+Los Angeles,57.5928,2
+Los Angeles,58.1796,1
+Los Angeles,59.0372,1
+Los Angeles,59.4816,1
+Los Angeles,59.998,1
+Los Angeles,60.2553,1
+Los Angeles,61.389,1
+Los Angeles,62.5056,1
+Los Angeles,65.355,1
+Los Angeles,66.6344,1
+Los Angeles,66.7152,1
+Los Angeles,67.86,1
+Los Angeles,68.04,1
+Los Angeles,68.198,1
+Los Angeles,68.3568,1
+Los Angeles,68.9631,1
+Los Angeles,69.705,1
+Los Angeles,70.5564,1
+Los Angeles,72.5754,1
+Los Angeles,72.975,1
+Los Angeles,73.41,1
+Los Angeles,75.18,1
+Los Angeles,75.5937,1
+Los Angeles,75.6952,1
+Los Angeles,76.2525,1
+Los Angeles,76.272,1
+Los Angeles,76.9816,1
+Los Angeles,78.672,1
+Los Angeles,79.8912,1
+Los Angeles,80.6312,1
+Los Angeles,81.8496,1
+Los Angeles,84.0512,1
+Los Angeles,84.495,1
+Los Angeles,85.3092,1
+Los Angeles,85.904,1
+Los Angeles,86.3892,1
+Los Angeles,87.7443,1
+Los Angeles,89.2224,2
+Los Angeles,89.9548,1
+Los Angeles,89.997,1
+Los Angeles,90.7152,1
+Los Angeles,91.7892,1
+Los Angeles,92.5056,1
+Los Angeles,92.97,1
+Los Angeles,97.0784,1
+Los Angeles,97.1892,1
+Los Angeles,97.2,1
+Los Angeles,100.4255,2
+Los Angeles,101.3488,1
+Los Angeles,101.5794,1
+Los Angeles,106.1242,1
+Los Angeles,106.7808,1
+Los Angeles,107.7216,1
+Los Angeles,108.1752,1
+Los Angeles,109.7208,1
+Los Angeles,122.148,2
+Los Angeles,125.1432,1
+Los Angeles,128.9742,1
+Los Angeles,130.752,1
+Los Angeles,131.9868,1
+Los Angeles,132.99,1
+Los Angeles,136.6176,1
+Los Angeles,139.99,1
+Los Angeles,140.9568,1
+Los Angeles,142.485,1
+Los Angeles,143.303,1
+Los Angeles,146.7693,1
+Los Angeles,150.984,1
+Los Angeles,152.495,2
+Los Angeles,153.1152,1
+Los Angeles,157.0176,1
+Los Angeles,160.3136,1
+Los Angeles,177.198,1
+Los Angeles,180.441,1
+Los Angeles,180.7659,1
+Los Angeles,187.3976,1
+Los Angeles,190.3728,1
+Los Angeles,191.6586,1
+Los Angeles,199.2606,1
+Los Angeles,200.8638,1
+Los Angeles,204.7682,1
+Los Angeles,210.4936,1
+Los Angeles,210.594,1
+Los Angeles,215.9892,1
+Los Angeles,215.9973,1
+Los Angeles,217.767,1
+Los Angeles,223.054,1
+Los Angeles,244.6155,1
+Los Angeles,257.5944,1
+Los Angeles,267.705,1
+Los Angeles,282.2092,1
+Los Angeles,286.713,1
+Los Angeles,297.69,1
+Los Angeles,302.373,1
+Los Angeles,327.9458,1
+Los Angeles,334.4985,1
+Los Angeles,335.8548,1
+Los Angeles,335.9944,1
+Los Angeles,363.9048,1
+Los Angeles,377.73,1
+Los Angeles,381.297,1
+Los Angeles,395.988,1
+Los Angeles,429.5772,1
+Los Angeles,440.7648,1
+Los Angeles,459.396,1
+Los Angeles,556.974,1
+Los Angeles,659.98,2
+Los Angeles,884.058,1
+Los Angeles,944.9865,1
+Los Angeles,1007.9832,1
+Los Angeles,1049.985,1
+Louisville,-3399.98,1
+Louisville,-152.9847,1
+Louisville,-99.2664,1
+Louisville,-15.8356,1
+Louisville,-9.223,1
+Louisville,-7.3232,1
+Louisville,-6.5736,1
+Louisville,-2.918,1
+Louisville,0.2997,1
+Louisville,0.5992,1
+Louisville,0.7728,1
+Louisville,0.8056,1
+Louisville,1.2006,1
+Louisville,2.085,1
+Louisville,3.0654,1
+Louisville,3.666,1
+Louisville,5.196,1
+Louisville,5.2626,1
+Louisville,5.8891,1
+Louisville,6.0726,1
+Louisville,6.3744,1
+Louisville,7.11,1
+Louisville,7.2576,1
+Louisville,7.434,1
+Louisville,9.1845,1
+Louisville,9.594,1
+Louisville,9.798,1
+Louisville,9.816,1
+Louisville,10.0282,1
+Louisville,12.5328,1
+Louisville,20.1584,1
+Louisville,20.7459,1
+Louisville,23.4416,1
+Louisville,23.9169,1
+Louisville,28.0032,1
+Louisville,35.6796,1
+Louisville,36.4044,1
+Louisville,41.4276,1
+Louisville,45.487,1
+Louisville,48.3771,1
+Louisville,51.8292,1
+Louisville,55.9984,1
+Louisville,56.5662,1
+Louisville,62.1414,1
+Louisville,62.532,1
+Louisville,64.3678,1
+Louisville,75.49,1
+Louisville,76.1125,1
+Louisville,77.625,1
+Louisville,77.7438,1
+Louisville,87.2842,1
+Louisville,104.568,1
+Louisville,131.586,1
+Louisville,134.9925,1
+Louisville,168.4704,1
+Louisville,214.76,1
+Louisville,314.0384,1
+Miami,-1031.5385,1
+Miami,-336.784,1
+Miami,-110.7645,1
+Miami,-100.92,1
+Miami,-68.1096,1
+Miami,-50.304,1
+Miami,-42.8,1
+Miami,-36.294,1
+Miami,-26.964,1
+Miami,-13.6776,1
+Miami,-12.9168,1
+Miami,-11.937,1
+Miami,-8.6058,1
+Miami,-8.5974,1
+Miami,-8.1675,1
+Miami,-5.784,1
+Miami,-3.8385,1
+Miami,-2.6208,1
+Miami,-1.3995,1
+Miami,-1.3104,1
+Miami,-1.3083,1
+Miami,-1.041,1
+Miami,0.3348,1
+Miami,0.9963,1
+Miami,1.308,1
+Miami,2.3328,1
+Miami,2.4585,1
+Miami,3.4684,1
+Miami,3.528,1
+Miami,3.5784,1
+Miami,3.6288,1
+Miami,3.9474,1
+Miami,4.1028,1
+Miami,4.1965,2
+Miami,4.6818,1
+Miami,7.4752,1
+Miami,7.6284,1
+Miami,8.2056,1
+Miami,8.8704,1
+Miami,8.997,1
+Miami,10.8054,1
+Miami,10.8864,1
+Miami,11.2404,1
+Miami,12.6927,1
+Miami,13.0928,1
+Miami,15.8436,1
+Miami,23.235,1
+Miami,23.924,1
+Miami,27.1032,1
+Miami,41.7186,1
+Miami,41.993,1
+Miami,78.396,1
+Miami,81.5949,1
+Miami,85.2475,1
+Miami,85.5297,1
+Miami,88.074,1
+New York City,-553.6476,1
+New York City,-447.5947,1
+New York City,-373.3048,1
+New York City,-295.9785,1
+New York City,-290.8752,1
+New York City,-153.1224,1
+New York City,-122.7816,1
+New York City,-120.294,1
+New York City,-120.0508,2
+New York City,-115.7058,1
+New York City,-115.4304,1
+New York City,-110.49,1
+New York City,-108.3348,1
+New York City,-103.266,1
+New York City,-99.3453,1
+New York City,-93.3262,1
+New York City,-75.8304,1
+New York City,-66.6,1
+New York City,-66.2302,1
+New York City,-44.196,2
+New York City,-37.9434,1
+New York City,-37.9152,1
+New York City,-29.3238,1
+New York City,-28.9764,1
+New York City,-26.196,1
+New York City,-25.2956,1
+New York City,-25.049,1
+New York City,-19.5492,1
+New York City,-16.0784,1
+New York City,-15.7176,1
+New York City,-14.1639,1
+New York City,-10.0196,1
+New York City,-8.098,1
+New York City,-8.0784,1
+New York City,-6.549,2
+New York City,-5.0098,1
+New York City,-4.8588,1
+New York City,0.0,7
+New York City,0.0636,1
+New York City,0.1512,1
+New York City,0.2792,1
+New York City,0.4074,1
+New York City,0.5299,1
+New York City,0.6048,1
+New York City,0.7065,1
+New York City,0.7794,1
+New York City,0.84,1
+New York City,0.9828,1
+New York City,1.0208,1
+New York City,1.0287,1
+New York City,1.043,1
+New York City,1.0668,1
+New York City,1.1225,1
+New York City,1.1596,1
+New York City,1.2064,1
+New York City,1.2885,1
+New York City,1.3098,1
+New York City,1.3104,1
+New York City,1.316,1
+New York City,1.3257,1
+New York City,1.3365,2
+New York City,1.3392,1
+New York City,1.356,1
+New York City,1.365,1
+New York City,1.376,1
+New York City,1.3944,1
+New York City,1.4104,1
+New York City,1.4456,1
+New York City,1.4652,1
+New York City,1.4742,1
+New York City,1.476,1
+New York City,1.4805,1
+New York City,1.512,1
+New York City,1.576,1
+New York City,1.6038,1
+New York City,1.6128,1
+New York City,1.6688,1
+New York City,1.6712,1
+New York City,1.6848,1
+New York City,1.6896,1
+New York City,1.731,1
+New York City,1.7876,1
+New York City,1.8032,1
+New York City,1.8468,1
+New York City,1.9024,1
+New York City,2.0271,2
+New York City,2.0416,1
+New York City,2.0574,1
+New York City,2.0672,1
+New York City,2.0975,1
+New York City,2.1402,1
+New York City,2.214,1
+New York City,2.224,1
+New York City,2.244,1
+New York City,2.2504,1
+New York City,2.256,1
+New York City,2.3086,1
+New York City,2.3094,2
+New York City,2.3244,1
+New York City,2.3408,1
+New York City,2.3892,1
+New York City,2.3997,1
+New York City,2.4012,1
+New York City,2.4598,1
+New York City,2.499,1
+New York City,2.5216,1
+New York City,2.577,1
+New York City,2.5984,1
+New York City,2.7036,1
+New York City,2.7279,1
+New York City,2.7846,1
+New York City,2.7956,1
+New York City,2.8224,1
+New York City,2.8392,1
+New York City,2.8416,1
+New York City,2.8478,1
+New York City,2.8812,1
+New York City,2.8836,1
+New York City,2.904,1
+New York City,2.9372,1
+New York City,2.94,1
+New York City,2.9547,1
+New York City,2.9568,1
+New York City,2.9835,1
+New York City,3.024,1
+New York City,3.0498,2
+New York City,3.0774,1
+New York City,3.0814,1
+New York City,3.0861,1
+New York City,3.1096,1
+New York City,3.1104,3
+New York City,3.1161,1
+New York City,3.2004,1
+New York City,3.2064,1
+New York City,3.2186,1
+New York City,3.2392,1
+New York City,3.2406,1
+New York City,3.248,1
+New York City,3.2832,1
+New York City,3.285,2
+New York City,3.2944,1
+New York City,3.3408,1
+New York City,3.36,1
+New York City,3.363,2
+New York City,3.4086,1
+New York City,3.4357,2
+New York City,3.44,1
+New York City,3.462,1
+New York City,3.5022,1
+New York City,3.549,1
+New York City,3.5752,1
+New York City,3.6018,1
+New York City,3.6588,1
+New York City,3.6848,1
+New York City,3.7128,1
+New York City,3.7596,1
+New York City,3.7642,1
+New York City,3.7996,1
+New York City,3.8136,1
+New York City,3.852,1
+New York City,3.8655,1
+New York City,3.9144,1
+New York City,3.9771,1
+New York City,3.9831,1
+New York City,3.9992,1
+New York City,4.0095,1
+New York City,4.0192,1
+New York City,4.0456,1
+New York City,4.1148,1
+New York City,4.2,1
+New York City,4.2336,1
+New York City,4.2666,2
+New York City,4.2804,1
+New York City,4.3254,1
+New York City,4.35,1
+New York City,4.3524,1
+New York City,4.3904,1
+New York City,4.4088,2
+New York City,4.4174,1
+New York City,4.4772,1
+New York City,4.485,1
+New York City,4.4892,1
+New York City,4.536,3
+New York City,4.5448,1
+New York City,4.5954,1
+New York City,4.6088,1
+New York City,4.6221,1
+New York City,4.6305,1
+New York City,4.6644,2
+New York City,4.6812,2
+New York City,4.728,1
+New York City,4.7996,1
+New York City,4.8118,1
+New York City,4.816,1
+New York City,4.872,1
+New York City,5.0055,1
+New York City,5.0463,1
+New York City,5.1184,1
+New York City,5.1294,1
+New York City,5.133,1
+New York City,5.1816,1
+New York City,5.2029,1
+New York City,5.2164,1
+New York City,5.2256,2
+New York City,5.3392,1
+New York City,5.373,1
+New York City,5.3898,1
+New York City,5.484,1
+New York City,5.5,1
+New York City,5.5875,1
+New York City,5.6644,2
+New York City,5.7376,1
+New York City,5.7672,1
+New York City,5.837,1
+New York City,5.8708,2
+New York City,5.898,1
+New York City,6.0168,1
+New York City,6.0256,1
+New York City,6.0288,1
+New York City,6.048,1
+New York City,6.0726,1
+New York City,6.132,1
+New York City,6.149,1
+New York City,6.156,1
+New York City,6.168,1
+New York City,6.2192,1
+New York City,6.2208,4
+New York City,6.2566,1
+New York City,6.2608,2
+New York City,6.3072,1
+New York City,6.3296,1
+New York City,6.3504,2
+New York City,6.398,1
+New York City,6.4128,2
+New York City,6.4216,1
+New York City,6.465,1
+New York City,6.468,1
+New York City,6.48,1
+New York City,6.567,1
+New York City,6.5888,1
+New York City,6.615,1
+New York City,6.6465,1
+New York City,6.7008,2
+New York City,6.72,1
+New York City,6.7252,2
+New York City,6.74,1
+New York City,6.7966,1
+New York City,6.8724,1
+New York City,6.8943,1
+New York City,6.924,1
+New York City,6.9258,1
+New York City,6.9664,1
+New York City,6.9864,1
+New York City,7.0218,3
+New York City,7.0224,1
+New York City,7.056,1
+New York City,7.1586,1
+New York City,7.1994,1
+New York City,7.209,1
+New York City,7.2111,1
+New York City,7.3132,1
+New York City,7.371,1
+New York City,7.3834,1
+New York City,7.4952,1
+New York City,7.5371,1
+New York City,7.5992,2
+New York City,7.668,1
+New York City,7.704,1
+New York City,7.71,1
+New York City,7.803,1
+New York City,7.8166,1
+New York City,7.8792,1
+New York City,7.884,1
+New York City,7.9218,1
+New York City,7.9984,1
+New York City,8.0406,1
+New York City,8.0548,1
+New York City,8.0712,1
+New York City,8.073,2
+New York City,8.0991,1
+New York City,8.1072,1
+New York City,8.1144,1
+New York City,8.1882,1
+New York City,8.2156,1
+New York City,8.236,1
+New York City,8.25,1
+New York City,8.2992,1
+New York City,8.3104,1
+New York City,8.37,1
+New York City,8.3754,1
+New York City,8.49,1
+New York City,8.6715,1
+New York City,8.6855,1
+New York City,8.694,2
+New York City,8.733,1
+New York City,8.7906,2
+New York City,8.799,1
+New York City,8.8704,1
+New York City,8.8784,1
+New York City,8.9206,1
+New York City,8.9208,1
+New York City,8.922,1
+New York City,8.9544,2
+New York City,9.0,1
+New York City,9.0048,1
+New York City,9.0171,1
+New York City,9.039,2
+New York City,9.072,2
+New York City,9.0882,1
+New York City,9.1314,1
+New York City,9.1746,1
+New York City,9.1785,2
+New York City,9.2176,1
+New York City,9.3024,1
+New York City,9.3125,1
+New York City,9.3296,1
+New York City,9.3312,5
+New York City,9.6957,1
+New York City,9.7119,1
+New York City,9.7176,1
+New York City,9.744,1
+New York City,9.7812,1
+New York City,9.7972,1
+New York City,9.8901,2
+New York City,9.936,4
+New York City,9.9456,1
+New York City,9.995,1
+New York City,10.0632,1
+New York City,10.3071,1
+New York City,10.312,1
+New York City,10.3473,1
+New York City,10.465,1
+New York City,10.5144,1
+New York City,10.5252,1
+New York City,10.5552,1
+New York City,10.764,1
+New York City,10.8836,1
+New York City,10.9096,2
+New York City,10.9939,1
+New York City,11.1132,1
+New York City,11.1294,1
+New York City,11.151,1
+New York City,11.1664,1
+New York City,11.2266,1
+New York City,11.2308,2
+New York City,11.232,1
+New York City,11.2422,1
+New York City,11.4504,2
+New York City,11.454,1
+New York City,11.4741,1
+New York City,11.492,1
+New York City,11.5432,2
+New York City,11.556,1
+New York City,11.5587,1
+New York City,11.565,1
+New York City,11.5971,1
+New York City,11.6316,1
+New York City,11.7,2
+New York City,11.703,1
+New York City,11.7488,2
+New York City,11.7782,1
+New York City,11.7936,1
+New York City,11.995,1
+New York City,11.9952,1
+New York City,12.0,1
+New York City,12.0295,1
+New York City,12.0904,1
+New York City,12.0978,1
+New York City,12.1176,1
+New York City,12.1348,1
+New York City,12.1401,1
+New York City,12.208,1
+New York City,12.3256,1
+New York City,12.4416,4
+New York City,12.492,1
+New York City,12.5118,1
+New York City,12.582,1
+New York City,12.5832,1
+New York City,12.6077,1
+New York City,12.712,1
+New York City,12.7368,1
+New York City,12.7764,1
+New York City,12.796,1
+New York City,12.8058,1
+New York City,12.8316,1
+New York City,12.8499,1
+New York City,12.864,1
+New York City,13.071,1
+New York City,13.2,1
+New York City,13.2986,1
+New York City,13.4372,1
+New York City,13.4964,1
+New York City,13.5932,1
+New York City,13.604,1
+New York City,13.6776,1
+New York City,13.788,1
+New York City,13.7964,1
+New York City,13.8828,1
+New York City,13.932,1
+New York City,14.0438,1
+New York City,14.0859,1
+New York City,14.1246,1
+New York City,14.3068,1
+New York City,14.5638,1
+New York City,14.6224,1
+New York City,14.67,1
+New York City,14.6718,1
+New York City,14.6825,1
+New York City,14.8752,1
+New York City,14.92,1
+New York City,14.9814,1
+New York City,14.9925,1
+New York City,15.0864,1
+New York City,15.092,1
+New York City,15.372,3
+New York City,15.4752,1
+New York City,15.552,2
+New York City,15.606,1
+New York City,15.7194,1
+New York City,15.768,1
+New York City,15.7872,1
+New York City,15.824,1
+New York City,15.8256,1
+New York City,15.9516,1
+New York City,16.0356,1
+New York City,16.17,1
+New York City,16.2,1
+New York City,16.2864,1
+New York City,16.3215,1
+New York City,16.3842,1
+New York City,16.5531,1
+New York City,16.5888,1
+New York City,16.5984,1
+New York City,16.65,1
+New York City,16.6698,1
+New York City,16.6764,1
+New York City,16.7875,1
+New York City,16.8237,2
+New York City,16.9312,1
+New York City,17.1574,1
+New York City,17.1678,1
+New York City,17.19,1
+New York City,17.22,1
+New York City,17.238,1
+New York City,17.3376,1
+New York City,17.37,1
+New York City,17.379,1
+New York City,17.469,1
+New York City,17.472,1
+New York City,17.6232,1
+New York City,17.6418,1
+New York City,17.856,1
+New York City,17.982,1
+New York City,17.99,1
+New York City,17.991,1
+New York City,18.1044,1
+New York City,18.1764,1
+New York City,18.1908,1
+New York City,18.2112,3
+New York City,18.24,1
+New York City,18.2525,1
+New York City,18.2592,1
+New York City,18.336,1
+New York City,18.3456,1
+New York City,18.398,1
+New York City,18.5136,1
+New York City,18.522,1
+New York City,18.6624,1
+New York City,18.767,1
+New York City,18.7812,1
+New York City,18.8732,1
+New York City,18.8937,1
+New York City,18.9702,1
+New York City,18.9888,1
+New York City,19.188,1
+New York City,19.3116,1
+New York City,19.3185,1
+New York City,19.6248,1
+New York City,19.791,1
+New York City,19.8744,1
+New York City,19.9155,1
+New York City,20.0851,1
+New York City,20.0928,1
+New York City,20.1408,1
+New York City,20.163,1
+New York City,20.3898,1
+New York City,20.4525,1
+New York City,20.4822,1
+New York City,20.5114,1
+New York City,20.5755,1
+New York City,20.682,1
+New York City,20.7328,1
+New York City,20.7808,1
+New York City,20.84,1
+New York City,21.0249,1
+New York City,21.036,1
+New York City,21.0654,1
+New York City,21.0752,1
+New York City,21.294,1
+New York City,21.4776,1
+New York City,21.7176,1
+New York City,21.792,1
+New York City,21.8192,1
+New York City,21.8376,1
+New York City,21.9945,1
+New York City,22.087,1
+New York City,22.0947,1
+New York City,22.2,1
+New York City,22.2264,1
+New York City,22.4448,1
+New York City,22.458,1
+New York City,22.5008,1
+New York City,22.5624,1
+New York City,22.5732,1
+New York City,22.764,1
+New York City,22.8904,1
+New York City,23.0864,3
+New York City,23.1093,1
+New York City,23.96,1
+New York City,23.9688,1
+New York City,23.99,1
+New York City,24.1218,1
+New York City,24.1568,1
+New York City,24.2012,1
+New York City,24.47,1
+New York City,24.8832,1
+New York City,24.936,1
+New York City,24.9366,1
+New York City,25.0938,1
+New York City,25.4744,1
+New York City,25.5798,1
+New York City,26.388,1
+New York City,26.598,1
+New York City,26.6304,1
+New York City,26.865,1
+New York City,26.9304,1
+New York City,27.2862,1
+New York City,27.3592,1
+New York City,27.434,1
+New York City,27.7911,1
+New York City,27.9344,1
+New York City,27.9456,1
+New York City,28.0192,1
+New York City,28.3095,1
+New York City,28.332,1
+New York City,28.755,1
+New York City,28.8576,1
+New York City,29.245,1
+New York City,29.2528,1
+New York City,29.372,1
+New York City,29.5254,1
+New York City,29.6,1
+New York City,29.8802,1
+New York City,29.952,1
+New York City,30.098,1
+New York City,30.1872,1
+New York City,30.4416,1
+New York City,30.735,1
+New York City,30.8966,1
+New York City,31.0156,1
+New York City,31.122,1
+New York City,31.2664,1
+New York City,31.2858,1
+New York City,31.4916,1
+New York City,31.5192,1
+New York City,32.186,1
+New York City,32.2322,1
+New York City,32.6332,1
+New York City,32.6704,1
+New York City,32.97,1
+New York City,33.3136,1
+New York City,33.3256,1
+New York City,33.495,1
+New York City,33.57,1
+New York City,33.5888,1
+New York City,33.7266,1
+New York City,33.777,1
+New York City,33.93,1
+New York City,33.9388,1
+New York City,34.386,1
+New York City,34.5,1
+New York City,34.692,1
+New York City,34.776,1
+New York City,34.9074,1
+New York City,35.0784,1
+New York City,35.3346,1
+New York City,35.3626,1
+New York City,35.712,1
+New York City,35.8644,1
+New York City,35.982,1
+New York City,36.0192,1
+New York City,36.1836,1
+New York City,36.2556,1
+New York City,36.3018,1
+New York City,36.3816,1
+New York City,36.7173,2
+New York City,36.813,1
+New York City,36.852,1
+New York City,36.9873,1
+New York City,37.1084,1
+New York City,37.2186,1
+New York City,37.2204,1
+New York City,37.884,1
+New York City,37.9848,1
+New York City,38.08,1
+New York City,38.532,1
+New York City,38.988,1
+New York City,39.066,1
+New York City,39.41,1
+New York City,39.5868,1
+New York City,39.6312,1
+New York City,39.9234,1
+New York City,40.1702,1
+New York City,40.3128,1
+New York City,40.5426,1
+New York City,40.872,1
+New York City,41.2237,1
+New York City,41.68,1
+New York City,42.1314,1
+New York City,42.1504,1
+New York City,42.588,1
+New York City,43.9,1
+New York City,44.304,1
+New York City,44.8896,1
+New York City,45.84,1
+New York City,45.9754,1
+New York City,46.9764,1
+New York City,46.9952,1
+New York City,47.061,1
+New York City,49.014,1
+New York City,49.5552,1
+New York City,49.8042,1
+New York City,50.2398,1
+New York City,50.5632,1
+New York City,52.7824,1
+New York City,53.2608,2
+New York City,53.4519,1
+New York City,53.9946,1
+New York City,54.666,1
+New York City,54.8604,1
+New York City,55.008,1
+New York City,55.5822,1
+New York City,55.764,1
+New York City,55.896,1
+New York City,56.1752,1
+New York City,56.196,1
+New York City,56.2032,1
+New York City,56.264,1
+New York City,57.12,1
+New York City,57.4113,1
+New York City,57.5928,1
+New York City,58.7916,1
+New York City,59.0352,1
+New York City,59.998,1
+New York City,60.392,2
+New York City,60.4968,1
+New York City,61.3824,1
+New York City,62.244,1
+New York City,62.3904,1
+New York City,62.7822,1
+New York City,63.686,1
+New York City,63.8862,1
+New York City,63.9345,1
+New York City,65.2064,1
+New York City,65.9634,1
+New York City,66.542,1
+New York City,66.9546,1
+New York City,67.1139,1
+New York City,67.1916,1
+New York City,67.608,1
+New York City,68.823,1
+New York City,68.9631,1
+New York City,68.976,1
+New York City,69.1776,1
+New York City,70.441,1
+New York City,71.991,1
+New York City,72.5344,2
+New York City,73.41,1
+New York City,74.975,1
+New York City,75.9696,1
+New York City,76.3152,1
+New York City,76.9816,1
+New York City,77.8635,1
+New York City,78.435,2
+New York City,78.9412,1
+New York City,80.0226,1
+New York City,80.6316,1
+New York City,80.7772,1
+New York City,83.7096,1
+New York City,83.733,1
+New York City,83.9916,1
+New York City,84.51,1
+New York City,84.9436,1
+New York City,86.8704,1
+New York City,87.4825,1
+New York City,88.053,1
+New York City,88.5528,1
+New York City,89.3142,2
+New York City,89.9548,1
+New York City,90.294,1
+New York City,90.8292,1
+New York City,91.968,1
+New York City,92.2368,1
+New York City,93.2232,1
+New York City,95.76,1
+New York City,97.1946,1
+New York City,99.4896,1
+New York City,99.9408,1
+New York City,100.1403,1
+New York City,100.9113,1
+New York City,101.394,1
+New York City,106.477,1
+New York City,106.5216,1
+New York City,108.1752,1
+New York City,108.7996,1
+New York City,109.6113,1
+New York City,112.392,1
+New York City,113.848,1
+New York City,115.1856,1
+New York City,115.5528,1
+New York City,117.0104,1
+New York City,120.9468,1
+New York City,124.2,1
+New York City,124.485,1
+New York City,124.488,1
+New York City,124.9552,1
+New York City,125.99,1
+New York City,129.6,1
+New York City,129.7725,1
+New York City,133.8624,1
+New York City,134.3328,1
+New York City,134.56,1
+New York City,134.9322,1
+New York City,134.9925,1
+New York City,136.2971,1
+New York City,137.151,1
+New York City,139.5702,1
+New York City,140.396,1
+New York City,141.2775,1
+New York City,142.9948,1
+New York City,143.04,1
+New York City,146.388,1
+New York City,149.9112,1
+New York City,156.429,1
+New York City,157.4685,1
+New York City,157.4875,1
+New York City,158.5764,1
+New York City,160.6722,1
+New York City,161.9674,1
+New York City,162.864,1
+New York City,163.787,1
+New York City,163.818,1
+New York City,167.979,1
+New York City,170.997,1
+New York City,171.36,1
+New York City,171.93,1
+New York City,173.3292,1
+New York City,173.7408,1
+New York City,174.9975,1
+New York City,175.136,1
+New York City,176.1708,1
+New York City,177.4206,1
+New York City,178.318,1
+New York City,183.995,1
+New York City,191.968,1
+New York City,197.9208,1
+New York City,198.429,1
+New York City,198.46,1
+New York City,201.312,1
+New York City,206.316,1
+New York City,206.6232,1
+New York City,207.475,1
+New York City,207.8856,1
+New York City,213.735,1
+New York City,214.164,1
+New York City,214.4922,1
+New York City,216.8244,1
+New York City,217.767,1
+New York City,219.5088,1
+New York City,220.4825,1
+New York City,224.4426,1
+New York City,249.9104,1
+New York City,249.995,1
+New York City,253.372,1
+New York City,257.712,1
+New York City,262.39,1
+New York City,264.5865,1
+New York City,269.308,1
+New York City,272.9825,1
+New York City,274.386,1
+New York City,281.016,1
+New York City,282.2092,1
+New York City,286.3836,1
+New York City,292.776,1
+New York City,294.5488,1
+New York City,298.6855,1
+New York City,303.3408,2
+New York City,313.2624,1
+New York City,314.2719,1
+New York City,321.84,1
+New York City,323.955,1
+New York City,327.5922,1
+New York City,329.994,1
+New York City,349.3392,1
+New York City,350.9082,1
+New York City,353.5792,1
+New York City,362.8404,1
+New York City,364.4595,1
+New York City,371.316,1
+New York City,375.735,1
+New York City,395.9604,1
+New York City,420.588,1
+New York City,456.588,1
+New York City,494.9725,1
+New York City,511.368,1
+New York City,539.925,1
+New York City,553.3902,1
+New York City,592.7896,1
+New York City,601.9699,1
+New York City,609.7157,1
+New York City,626.185,1
+New York City,647.892,1
+New York City,661.4559,1
+New York City,762.1845,1
+New York City,767.2005,1
+New York City,1014.9797,1
+New York City,1114.512,1
+New York City,1143.891,1
+New York City,1159.9855,1
+New York City,1351.9896,1
+New York City,1371.9804,1
+New York City,1415.4296,1
+New York City,1453.1238,1
+New York City,1668.205,1
+New York City,1995.99,1
+New York City,2229.024,1
+New York City,2239.9872,1
+New York City,3919.9888,1
+Newark,-2639.9912,1
+Newark,-164.9538,1
+Newark,-92.6955,1
+Newark,-75.5958,1
+Newark,-44.019,1
+Newark,-43.4352,1
+Newark,-37.7332,1
+Newark,-35.6174,1
+Newark,-16.998,1
+Newark,-11.3372,1
+Newark,-8.1312,1
+Newark,-3.7715,1
+Newark,-2.5212,1
+Newark,0.5236,1
+Newark,0.7152,1
+Newark,1.3992,1
+Newark,1.5291,1
+Newark,1.5548,1
+Newark,1.5714,1
+Newark,2.0322,1
+Newark,2.1,1
+Newark,2.3406,1
+Newark,2.5056,2
+Newark,2.6568,1
+Newark,2.79,1
+Newark,3.431,1
+Newark,3.564,1
+Newark,3.6432,1
+Newark,4.0584,1
+Newark,4.168,1
+Newark,4.536,1
+Newark,5.083,1
+Newark,5.4488,1
+Newark,5.8744,1
+Newark,6.432,1
+Newark,6.5736,1
+Newark,6.8724,1
+Newark,7.272,1
+Newark,7.3479,1
+Newark,7.567,1
+Newark,7.9488,1
+Newark,8.3328,1
+Newark,8.4966,1
+Newark,8.673,1
+Newark,8.7052,1
+Newark,9.1954,1
+Newark,9.6192,1
+Newark,10.3936,1
+Newark,11.0544,1
+Newark,12.9096,1
+Newark,13.0928,1
+Newark,14.9156,1
+Newark,14.9292,1
+Newark,15.4752,1
+Newark,15.9446,1
+Newark,17.52,1
+Newark,19.8716,1
+Newark,22.2352,1
+Newark,22.4955,1
+Newark,23.5116,1
+Newark,24.4758,1
+Newark,26.565,1
+Newark,27.2412,1
+Newark,28.13,1
+Newark,31.0059,1
+Newark,33.2544,1
+Newark,33.3102,1
+Newark,33.3396,1
+Newark,34.7865,1
+Newark,41.3374,1
+Newark,43.1904,1
+Newark,45.2226,1
+Newark,45.487,1
+Newark,51.5543,1
+Newark,52.4895,1
+Newark,52.734,1
+Newark,56.9943,1
+Newark,58.179,1
+Newark,62.3904,1
+Newark,62.916,1
+Newark,69.0018,1
+Newark,75.686,1
+Newark,79.8912,1
+Newark,93.6988,1
+Newark,94.4925,1
+Newark,101.6508,1
+Newark,120.9468,1
+Newark,129.5865,1
+Newark,149.76,1
+Newark,170.5113,1
+Newark,219.4514,1
+Newark,607.608,1
+Newark,792.2691,1
+Newark,5039.9856,1
+Philadelphia,-1665.0522,1
+Philadelphia,-1049.3406,1
+Philadelphia,-760.98,1
+Philadelphia,-643.71,1
+Philadelphia,-630.882,1
+Philadelphia,-619.596,1
+Philadelphia,-559.356,1
+Philadelphia,-480.2032,1
+Philadelphia,-462.8624,1
+Philadelphia,-412.6154,1
+Philadelphia,-407.976,1
+Philadelphia,-386.3916,1
+Philadelphia,-374.9925,1
+Philadelphia,-339.705,1
+Philadelphia,-337.806,2
+Philadelphia,-337.638,1
+Philadelphia,-319.1916,1
+Philadelphia,-258.5016,1
+Philadelphia,-228.7425,1
+Philadelphia,-227.4912,1
+Philadelphia,-216.9783,1
+Philadelphia,-211.47,1
+Philadelphia,-204.9996,1
+Philadelphia,-192.0468,1
+Philadelphia,-186.16,1
+Philadelphia,-181.265,1
+Philadelphia,-172.4925,1
+Philadelphia,-168.819,1
+Philadelphia,-163.4516,1
+Philadelphia,-162.2296,1
+Philadelphia,-158.102,1
+Philadelphia,-157.9383,1
+Philadelphia,-149.9058,1
+Philadelphia,-140.1408,1
+Philadelphia,-138.14,1
+Philadelphia,-131.994,1
+Philadelphia,-124.431,1
+Philadelphia,-123.998,1
+Philadelphia,-122.3928,1
+Philadelphia,-118.0116,1
+Philadelphia,-116.9805,1
+Philadelphia,-115.4958,1
+Philadelphia,-115.3544,1
+Philadelphia,-113.998,1
+Philadelphia,-112.6216,1
+Philadelphia,-112.041,1
+Philadelphia,-108.2662,1
+Philadelphia,-107.9928,1
+Philadelphia,-100.92,1
+Philadelphia,-94.5084,1
+Philadelphia,-93.99,1
+Philadelphia,-93.4724,1
+Philadelphia,-93.2316,1
+Philadelphia,-93.08,1
+Philadelphia,-89.0664,1
+Philadelphia,-83.8752,1
+Philadelphia,-83.205,1
+Philadelphia,-81.94,1
+Philadelphia,-81.8544,1
+Philadelphia,-80.178,1
+Philadelphia,-77.1267,1
+Philadelphia,-76.9972,1
+Philadelphia,-73.7061,1
+Philadelphia,-73.176,1
+Philadelphia,-71.994,1
+Philadelphia,-71.99,1
+Philadelphia,-68.392,2
+Philadelphia,-67.8762,1
+Philadelphia,-63.3765,2
+Philadelphia,-60.8361,1
+Philadelphia,-58.5048,1
+Philadelphia,-57.7566,1
+Philadelphia,-57.1152,1
+Philadelphia,-56.7556,1
+Philadelphia,-56.448,1
+Philadelphia,-55.3,1
+Philadelphia,-53.2856,1
+Philadelphia,-50.3928,1
+Philadelphia,-48.4704,1
+Philadelphia,-47.3968,1
+Philadelphia,-46.797,1
+Philadelphia,-46.7362,1
+Philadelphia,-46.4292,1
+Philadelphia,-45.3492,1
+Philadelphia,-44.94,1
+Philadelphia,-42.588,1
+Philadelphia,-41.5176,1
+Philadelphia,-40.7976,1
+Philadelphia,-36.1764,1
+Philadelphia,-36.1116,1
+Philadelphia,-35.046,1
+Philadelphia,-34.647,1
+Philadelphia,-34.196,1
+Philadelphia,-31.6204,1
+Philadelphia,-31.05,1
+Philadelphia,-30.9332,1
+Philadelphia,-30.2288,1
+Philadelphia,-29.4812,1
+Philadelphia,-29.4368,1
+Philadelphia,-29.1528,1
+Philadelphia,-28.7964,2
+Philadelphia,-28.498,1
+Philadelphia,-28.368,1
+Philadelphia,-27.735,1
+Philadelphia,-27.7158,1
+Philadelphia,-27.6936,1
+Philadelphia,-25.992,1
+Philadelphia,-25.3344,1
+Philadelphia,-24.9624,1
+Philadelphia,-24.843,1
+Philadelphia,-24.4764,1
+Philadelphia,-24.0435,1
+Philadelphia,-23.8855,1
+Philadelphia,-23.7822,1
+Philadelphia,-23.364,1
+Philadelphia,-22.7964,1
+Philadelphia,-21.7932,1
+Philadelphia,-21.7176,1
+Philadelphia,-20.997,1
+Philadelphia,-20.7,1
+Philadelphia,-20.1528,1
+Philadelphia,-19.9824,1
+Philadelphia,-19.5624,1
+Philadelphia,-19.3382,1
+Philadelphia,-18.4624,1
+Philadelphia,-18.0385,1
+Philadelphia,-18.0312,1
+Philadelphia,-17.6076,1
+Philadelphia,-17.592,1
+Philadelphia,-16.9568,1
+Philadelphia,-16.3183,1
+Philadelphia,-15.992,1
+Philadelphia,-15.44,1
+Philadelphia,-15.4188,1
+Philadelphia,-14.5764,1
+Philadelphia,-14.5536,1
+Philadelphia,-14.196,1
+Philadelphia,-14.081,1
+Philadelphia,-13.993,1
+Philadelphia,-13.816,1
+Philadelphia,-13.6461,1
+Philadelphia,-13.637,1
+Philadelphia,-13.6312,1
+Philadelphia,-13.433,1
+Philadelphia,-12.9987,1
+Philadelphia,-12.9568,1
+Philadelphia,-12.9122,1
+Philadelphia,-12.5103,1
+Philadelphia,-12.208,2
+Philadelphia,-10.7964,1
+Philadelphia,-10.3936,1
+Philadelphia,-10.284,1
+Philadelphia,-10.1178,1
+Philadelphia,-9.7972,1
+Philadelphia,-9.594,1
+Philadelphia,-9.5886,1
+Philadelphia,-9.288,1
+Philadelphia,-9.264,1
+Philadelphia,-9.1788,1
+Philadelphia,-9.098,1
+Philadelphia,-8.796,1
+Philadelphia,-8.6058,1
+Philadelphia,-8.1312,1
+Philadelphia,-7.85,1
+Philadelphia,-7.782,1
+Philadelphia,-7.7292,1
+Philadelphia,-7.7247,1
+Philadelphia,-7.5768,1
+Philadelphia,-7.5168,1
+Philadelphia,-7.3255,1
+Philadelphia,-7.2672,1
+Philadelphia,-7.2589,1
+Philadelphia,-7.2048,1
+Philadelphia,-7.0532,1
+Philadelphia,-6.9828,1
+Philadelphia,-6.952,1
+Philadelphia,-6.54,1
+Philadelphia,-6.445,1
+Philadelphia,-6.1248,1
+Philadelphia,-5.9808,1
+Philadelphia,-5.7638,1
+Philadelphia,-5.715,1
+Philadelphia,-5.6007,1
+Philadelphia,-5.524,1
+Philadelphia,-5.4558,1
+Philadelphia,-5.0512,1
+Philadelphia,-5.037,1
+Philadelphia,-4.8528,1
+Philadelphia,-4.7976,1
+Philadelphia,-4.7625,1
+Philadelphia,-4.752,1
+Philadelphia,-4.577,1
+Philadelphia,-4.461,1
+Philadelphia,-4.455,1
+Philadelphia,-4.2987,1
+Philadelphia,-4.196,1
+Philadelphia,-4.1244,1
+Philadelphia,-3.9384,1
+Philadelphia,-3.855,1
+Philadelphia,-3.7996,1
+Philadelphia,-3.6024,1
+Philadelphia,-3.4272,1
+Philadelphia,-3.3894,1
+Philadelphia,-3.2175,1
+Philadelphia,-3.094,1
+Philadelphia,-2.8608,1
+Philadelphia,-2.7888,1
+Philadelphia,-2.7588,1
+Philadelphia,-2.7552,1
+Philadelphia,-2.6936,1
+Philadelphia,-2.6256,1
+Philadelphia,-2.588,1
+Philadelphia,-2.5128,1
+Philadelphia,-2.5093,1
+Philadelphia,-2.436,1
+Philadelphia,-2.4288,1
+Philadelphia,-2.3814,2
+Philadelphia,-2.3276,1
+Philadelphia,-2.2586,1
+Philadelphia,-2.249,1
+Philadelphia,-2.1896,1
+Philadelphia,-2.0622,1
+Philadelphia,-2.01,1
+Philadelphia,-2.0016,1
+Philadelphia,-1.9068,1
+Philadelphia,-1.8585,1
+Philadelphia,-1.7892,1
+Philadelphia,-1.7514,1
+Philadelphia,-1.5414,1
+Philadelphia,-1.5264,1
+Philadelphia,-1.4982,1
+Philadelphia,-1.428,1
+Philadelphia,-1.4256,1
+Philadelphia,-1.3464,1
+Philadelphia,-1.294,1
+Philadelphia,-1.289,1
+Philadelphia,-1.1996,1
+Philadelphia,-1.1874,1
+Philadelphia,-1.0196,1
+Philadelphia,-0.99,1
+Philadelphia,-0.9012,1
+Philadelphia,-0.7128,1
+Philadelphia,-0.5964,1
+Philadelphia,-0.3444,1
+Philadelphia,0.0,4
+Philadelphia,0.1692,1
+Philadelphia,0.4264,1
+Philadelphia,0.444,2
+Philadelphia,0.4768,1
+Philadelphia,0.5097,2
+Philadelphia,0.584,1
+Philadelphia,0.5904,1
+Philadelphia,0.5992,1
+Philadelphia,0.5998,1
+Philadelphia,0.6474,1
+Philadelphia,0.6624,1
+Philadelphia,0.6696,1
+Philadelphia,0.7056,1
+Philadelphia,0.73,1
+Philadelphia,0.7336,1
+Philadelphia,0.7704,1
+Philadelphia,0.777,1
+Philadelphia,0.834,1
+Philadelphia,0.8856,1
+Philadelphia,0.9856,1
+Philadelphia,1.002,1
+Philadelphia,1.0044,1
+Philadelphia,1.0178,1
+Philadelphia,1.0269,1
+Philadelphia,1.07,1
+Philadelphia,1.0738,1
+Philadelphia,1.0797,1
+Philadelphia,1.1016,1
+Philadelphia,1.1022,1
+Philadelphia,1.116,1
+Philadelphia,1.148,1
+Philadelphia,1.1994,2
+Philadelphia,1.2585,1
+Philadelphia,1.2672,1
+Philadelphia,1.3596,1
+Philadelphia,1.4784,1
+Philadelphia,1.5008,1
+Philadelphia,1.5768,1
+Philadelphia,1.6008,1
+Philadelphia,1.6416,1
+Philadelphia,1.652,1
+Philadelphia,1.6524,1
+Philadelphia,1.6784,1
+Philadelphia,1.683,1
+Philadelphia,1.7004,1
+Philadelphia,1.7024,1
+Philadelphia,1.7248,1
+Philadelphia,1.764,1
+Philadelphia,1.8704,1
+Philadelphia,1.917,1
+Philadelphia,1.9845,1
+Philadelphia,1.9926,1
+Philadelphia,2.0475,1
+Philadelphia,2.14,1
+Philadelphia,2.1728,1
+Philadelphia,2.175,1
+Philadelphia,2.2512,1
+Philadelphia,2.337,1
+Philadelphia,2.338,1
+Philadelphia,2.37,2
+Philadelphia,2.3814,1
+Philadelphia,2.436,1
+Philadelphia,2.5056,1
+Philadelphia,2.5146,1
+Philadelphia,2.64,2
+Philadelphia,2.646,1
+Philadelphia,2.6892,1
+Philadelphia,2.6928,1
+Philadelphia,2.6961,1
+Philadelphia,2.7984,1
+Philadelphia,2.8,1
+Philadelphia,2.8782,1
+Philadelphia,2.8884,2
+Philadelphia,3.0144,1
+Philadelphia,3.1032,1
+Philadelphia,3.1382,1
+Philadelphia,3.14,1
+Philadelphia,3.1806,1
+Philadelphia,3.21,1
+Philadelphia,3.246,1
+Philadelphia,3.276,1
+Philadelphia,3.3312,1
+Philadelphia,3.3516,1
+Philadelphia,3.3725,1
+Philadelphia,3.389,1
+Philadelphia,3.4848,1
+Philadelphia,3.4974,1
+Philadelphia,3.504,1
+Philadelphia,3.546,1
+Philadelphia,3.6288,4
+Philadelphia,3.6432,1
+Philadelphia,3.6744,1
+Philadelphia,3.8448,1
+Philadelphia,3.8682,1
+Philadelphia,3.8864,1
+Philadelphia,3.89,1
+Philadelphia,3.9296,1
+Philadelphia,3.9512,1
+Philadelphia,3.96,1
+Philadelphia,4.0768,1
+Philadelphia,4.0872,1
+Philadelphia,4.1148,1
+Philadelphia,4.1151,2
+Philadelphia,4.2471,1
+Philadelphia,4.3176,1
+Philadelphia,4.3296,1
+Philadelphia,4.6782,1
+Philadelphia,4.7664,1
+Philadelphia,4.7976,1
+Philadelphia,4.8231,1
+Philadelphia,4.884,1
+Philadelphia,4.9815,1
+Philadelphia,5.0232,1
+Philadelphia,5.0328,1
+Philadelphia,5.1072,1
+Philadelphia,5.1792,2
+Philadelphia,5.2773,2
+Philadelphia,5.301,1
+Philadelphia,5.369,1
+Philadelphia,5.4236,1
+Philadelphia,5.4432,7
+Philadelphia,5.5512,1
+Philadelphia,5.6316,1
+Philadelphia,5.7753,1
+Philadelphia,5.8203,1
+Philadelphia,5.9072,1
+Philadelphia,5.9211,1
+Philadelphia,5.9712,1
+Philadelphia,5.98,1
+Philadelphia,6.1641,1
+Philadelphia,6.255,1
+Philadelphia,6.3936,1
+Philadelphia,6.4176,1
+Philadelphia,6.42,1
+Philadelphia,6.4944,1
+Philadelphia,6.5164,1
+Philadelphia,6.534,1
+Philadelphia,6.7048,1
+Philadelphia,6.8016,1
+Philadelphia,6.846,1
+Philadelphia,6.9741,1
+Philadelphia,6.992,1
+Philadelphia,7.0227,1
+Philadelphia,7.0512,1
+Philadelphia,7.2144,1
+Philadelphia,7.2576,5
+Philadelphia,7.3008,1
+Philadelphia,7.4,1
+Philadelphia,7.4985,1
+Philadelphia,7.6416,1
+Philadelphia,7.724,1
+Philadelphia,7.7688,1
+Philadelphia,7.7728,1
+Philadelphia,7.92,1
+Philadelphia,7.93,1
+Philadelphia,7.9704,1
+Philadelphia,8.1552,1
+Philadelphia,8.3916,1
+Philadelphia,8.4024,1
+Philadelphia,8.4736,1
+Philadelphia,8.671,1
+Philadelphia,8.6744,1
+Philadelphia,8.694,1
+Philadelphia,9.072,1
+Philadelphia,9.2442,1
+Philadelphia,9.4437,1
+Philadelphia,9.48,1
+Philadelphia,9.5418,1
+Philadelphia,9.585,1
+Philadelphia,9.7092,1
+Philadelphia,9.7152,1
+Philadelphia,9.8685,1
+Philadelphia,9.906,1
+Philadelphia,9.92,1
+Philadelphia,10.0724,1
+Philadelphia,10.1493,1
+Philadelphia,10.35,1
+Philadelphia,10.3936,1
+Philadelphia,10.5714,1
+Philadelphia,10.5754,1
+Philadelphia,10.68,1
+Philadelphia,10.8864,1
+Philadelphia,11.088,1
+Philadelphia,11.6496,1
+Philadelphia,12.0764,1
+Philadelphia,12.3284,1
+Philadelphia,12.41,1
+Philadelphia,12.51,1
+Philadelphia,13.1956,1
+Philadelphia,13.846,1
+Philadelphia,13.9185,1
+Philadelphia,14.2272,1
+Philadelphia,14.3952,2
+Philadelphia,14.4,1
+Philadelphia,14.5152,1
+Philadelphia,15.012,1
+Philadelphia,15.2064,1
+Philadelphia,15.386,1
+Philadelphia,15.525,1
+Philadelphia,15.82,1
+Philadelphia,15.8571,1
+Philadelphia,15.9348,1
+Philadelphia,16.1838,1
+Philadelphia,16.7946,1
+Philadelphia,16.8896,1
+Philadelphia,17.8152,1
+Philadelphia,18.018,1
+Philadelphia,18.396,1
+Philadelphia,19.3392,1
+Philadelphia,19.692,2
+Philadelphia,19.775,1
+Philadelphia,19.7934,1
+Philadelphia,21.112,1
+Philadelphia,21.1428,1
+Philadelphia,21.1977,1
+Philadelphia,21.591,1
+Philadelphia,21.897,1
+Philadelphia,21.9492,1
+Philadelphia,22.9954,1
+Philadelphia,23.316,1
+Philadelphia,24.857,1
+Philadelphia,28.5984,1
+Philadelphia,28.764,1
+Philadelphia,28.7904,1
+Philadelphia,32.13,1
+Philadelphia,33.2704,1
+Philadelphia,33.5772,1
+Philadelphia,33.831,1
+Philadelphia,35.3295,1
+Philadelphia,36.225,1
+Philadelphia,38.725,2
+Philadelphia,40.4973,1
+Philadelphia,41.1528,1
+Philadelphia,41.79,1
+Philadelphia,43.3188,1
+Philadelphia,43.4352,1
+Philadelphia,47.495,1
+Philadelphia,53.55,1
+Philadelphia,56.5776,1
+Philadelphia,64.674,1
+Philadelphia,67.9833,1
+Philadelphia,69.9965,1
+Philadelphia,72.7888,1
+Philadelphia,75.5424,1
+Philadelphia,78.6828,1
+Philadelphia,85.787,1
+Philadelphia,90.72,1
+Philadelphia,91.9954,1
+Philadelphia,93.7688,1
+Philadelphia,117.432,1
+Philadelphia,117.6147,1
+Philadelphia,125.9972,1
+Philadelphia,179.9964,1
+Philadelphia,209.979,1
+Philadelphia,214.4675,1
+Philadelphia,239.996,1
+Philadelphia,312.676,1
+Philadelphia,1119.9968,1
+Phoenix,-814.4832,1
+Phoenix,-694.2936,1
+Phoenix,-459.9875,1
+Phoenix,-448.896,1
+Phoenix,-386.957,1
+Phoenix,-356.9643,1
+Phoenix,-204.4458,1
+Phoenix,-42.8967,1
+Phoenix,-40.1808,1
+Phoenix,-34.758,1
+Phoenix,-24.1026,1
+Phoenix,-20.889,1
+Phoenix,-13.938,1
+Phoenix,-12.796,1
+Phoenix,-9.9705,1
+Phoenix,-7.896,1
+Phoenix,-6.5415,1
+Phoenix,-6.1248,1
+Phoenix,-6.0324,1
+Phoenix,-6.0237,1
+Phoenix,-4.1712,1
+Phoenix,-3.168,1
+Phoenix,-2.5248,1
+Phoenix,-1.8308,1
+Phoenix,-1.459,1
+Phoenix,-1.35,1
+Phoenix,-0.9486,1
+Phoenix,0.0,1
+Phoenix,0.1584,1
+Phoenix,0.2592,1
+Phoenix,0.91,1
+Phoenix,1.7352,1
+Phoenix,1.764,1
+Phoenix,2.5893,1
+Phoenix,2.99,1
+Phoenix,3.4995,1
+Phoenix,3.5154,1
+Phoenix,3.9808,1
+Phoenix,4.1972,1
+Phoenix,4.4792,1
+Phoenix,5.2312,1
+Phoenix,5.369,1
+Phoenix,5.4432,1
+Phoenix,5.6376,1
+Phoenix,5.8704,1
+Phoenix,6.291,1
+Phoenix,7.068,1
+Phoenix,7.2576,1
+Phoenix,7.6965,1
+Phoenix,10.098,1
+Phoenix,11.1984,1
+Phoenix,13.7016,1
+Phoenix,16.7972,1
+Phoenix,19.596,1
+Phoenix,21.42,1
+Phoenix,28.4928,1
+Phoenix,29.495,1
+Phoenix,30.499,1
+Phoenix,37.1812,1
+Phoenix,54.3936,1
+Phoenix,105.6456,1
+Phoenix,146.79,1
+Phoenix,211.4955,1
+Richmond,0.1008,1
+Richmond,0.6056,1
+Richmond,1.356,1
+Richmond,1.4112,1
+Richmond,1.4742,1
+Richmond,1.6356,1
+Richmond,1.9024,1
+Richmond,2.5452,1
+Richmond,2.6416,1
+Richmond,2.6496,1
+Richmond,2.8322,1
+Richmond,3.7996,1
+Richmond,4.1634,1
+Richmond,4.239,1
+Richmond,4.2392,1
+Richmond,4.3624,1
+Richmond,4.9686,1
+Richmond,5.193,1
+Richmond,5.2528,1
+Richmond,5.5566,1
+Richmond,5.5664,1
+Richmond,6.129,1
+Richmond,6.304,1
+Richmond,6.3296,1
+Richmond,6.9088,1
+Richmond,7.0218,1
+Richmond,7.1346,1
+Richmond,7.4824,1
+Richmond,7.644,1
+Richmond,8.0946,1
+Richmond,8.1144,1
+Richmond,8.532,1
+Richmond,8.88,1
+Richmond,9.1638,1
+Richmond,9.6975,1
+Richmond,9.8856,1
+Richmond,9.9873,1
+Richmond,9.9882,1
+Richmond,10.3408,1
+Richmond,10.518,1
+Richmond,10.92,1
+Richmond,11.1776,1
+Richmond,11.5432,1
+Richmond,11.803,1
+Richmond,11.88,1
+Richmond,13.5056,1
+Richmond,14.1728,1
+Richmond,14.4,1
+Richmond,15.552,1
+Richmond,17.472,1
+Richmond,17.524,1
+Richmond,19.4656,1
+Richmond,20.37,1
+Richmond,21.0896,1
+Richmond,21.4452,1
+Richmond,22.0472,1
+Richmond,22.4316,1
+Richmond,25.5378,1
+Richmond,29.4492,1
+Richmond,38.1576,1
+Richmond,43.1904,1
+Richmond,47.9385,1
+Richmond,48.3285,1
+Richmond,50.94,1
+Richmond,55.647,1
+Richmond,56.3528,1
+Richmond,56.5264,1
+Richmond,57.385,1
+Richmond,58.0272,1
+Richmond,58.42,1
+Richmond,62.321,1
+Richmond,67.0644,1
+Richmond,69.1008,1
+Richmond,70.312,1
+Richmond,79.9056,1
+Richmond,83.284,1
+Richmond,104.7528,1
+Richmond,123.4548,1
+Richmond,124.7808,1
+Richmond,125.99,1
+Richmond,144.5157,1
+Richmond,164.6316,1
+Richmond,207.147,1
+Richmond,225.264,1
+Richmond,240.294,1
+Richmond,301.968,1
+Richmond,375.4296,1
+Richmond,545.1884,1
+Richmond,629.991,1
+Richmond,694.5015,1
+Rochester,-213.5574,1
+Rochester,-13.978,1
+Rochester,2.0574,1
+Rochester,2.2365,1
+Rochester,2.3571,1
+Rochester,2.528,1
+Rochester,2.552,1
+Rochester,2.9568,2
+Rochester,3.1104,1
+Rochester,3.6792,1
+Rochester,3.8822,1
+Rochester,4.9432,1
+Rochester,5.0922,1
+Rochester,5.6644,1
+Rochester,5.841,1
+Rochester,5.8708,1
+Rochester,5.9364,1
+Rochester,6.0147,1
+Rochester,6.2208,2
+Rochester,6.7966,1
+Rochester,6.8274,1
+Rochester,7.79,1
+Rochester,8.4942,1
+Rochester,8.983,1
+Rochester,9.1581,1
+Rochester,9.5787,1
+Rochester,9.8784,1
+Rochester,10.0464,1
+Rochester,10.3488,1
+Rochester,10.43,1
+Rochester,11.7208,1
+Rochester,11.88,1
+Rochester,13.3371,1
+Rochester,17.3148,1
+Rochester,21.7728,1
+Rochester,29.0136,1
+Rochester,29.988,1
+Rochester,38.3508,1
+Rochester,51.2943,1
+Rochester,57.5016,1
+Rochester,62.7004,1
+Rochester,63.7392,1
+Rochester,71.2692,1
+Rochester,75.68,1
+Rochester,89.9548,1
+Rochester,97.2032,1
+Rochester,100.7916,1
+Rochester,143.982,1
+Rochester,160.623,1
+Rochester,187.797,1
+Rochester,456.588,1
+San Antonio,-3701.8928,1
+San Antonio,-1359.992,1
+San Antonio,-1181.2824,1
+San Antonio,-453.849,1
+San Antonio,-336.6272,1
+San Antonio,-127.5792,1
+San Antonio,-79.908,1
+San Antonio,-71.8116,1
+San Antonio,-58.6347,1
+San Antonio,-56.996,1
+San Antonio,-46.9952,1
+San Antonio,-40.6504,1
+San Antonio,-32.5226,1
+San Antonio,-30.588,1
+San Antonio,-28.6862,1
+San Antonio,-26.946,1
+San Antonio,-26.8544,1
+San Antonio,-24.858,1
+San Antonio,-18.5562,1
+San Antonio,-17.523,1
+San Antonio,-14.5656,1
+San Antonio,-13.32,1
+San Antonio,-12.09,1
+San Antonio,-10.0602,1
+San Antonio,-9.282,1
+San Antonio,-9.1648,1
+San Antonio,-9.1335,1
+San Antonio,-6.286,1
+San Antonio,-6.237,1
+San Antonio,-6.21,1
+San Antonio,-5.264,1
+San Antonio,-4.497,1
+San Antonio,-2.1624,1
+San Antonio,0.0,1
+San Antonio,0.5004,1
+San Antonio,0.8988,1
+San Antonio,1.2432,1
+San Antonio,2.3674,1
+San Antonio,2.7324,1
+San Antonio,3.6288,1
+San Antonio,4.9632,1
+San Antonio,5.4432,1
+San Antonio,6.8136,1
+San Antonio,8.7384,1
+San Antonio,8.9985,1
+San Antonio,11.895,1
+San Antonio,13.2,1
+San Antonio,13.5324,1
+San Antonio,13.572,1
+San Antonio,20.2986,1
+San Antonio,22.4925,1
+San Antonio,24.528,1
+San Antonio,29.799,1
+San Antonio,33.5895,1
+San Antonio,38.7792,1
+San Antonio,47.0376,1
+San Antonio,47.994,1
+San Antonio,51.4975,1
+San Antonio,117.432,1
+San Diego,-99.6219,1
+San Diego,-31.9936,1
+San Diego,-30.147,1
+San Diego,-28.356,1
+San Diego,-23.4882,1
+San Diego,-20.6964,1
+San Diego,-16.65,1
+San Diego,-9.56,1
+San Diego,-9.1602,1
+San Diego,-8.4294,1
+San Diego,-5.7588,1
+San Diego,-4.8392,1
+San Diego,0.1191,1
+San Diego,0.4068,1
+San Diego,1.1136,1
+San Diego,1.4784,1
+San Diego,1.5444,1
+San Diego,1.6752,1
+San Diego,1.9089,1
+San Diego,1.9176,1
+San Diego,1.9712,1
+San Diego,2.4,1
+San Diego,2.7324,1
+San Diego,2.7664,1
+San Diego,2.8196,1
+San Diego,3.1552,1
+San Diego,3.5767,1
+San Diego,3.6156,1
+San Diego,3.6322,1
+San Diego,3.852,1
+San Diego,4.1832,1
+San Diego,4.2861,1
+San Diego,4.4541,1
+San Diego,4.5402,1
+San Diego,4.644,1
+San Diego,4.9271,1
+San Diego,5.3964,1
+San Diego,5.664,1
+San Diego,5.6644,1
+San Diego,5.8045,1
+San Diego,6.098,1
+San Diego,6.174,1
+San Diego,6.2208,1
+San Diego,6.3936,1
+San Diego,6.48,1
+San Diego,6.9716,1
+San Diego,7.1864,1
+San Diego,7.2177,1
+San Diego,7.2268,1
+San Diego,7.3359,1
+San Diego,7.4256,1
+San Diego,7.6798,1
+San Diego,8.073,1
+San Diego,8.694,2
+San Diego,8.8624,1
+San Diego,8.8784,1
+San Diego,9.2232,1
+San Diego,9.3125,1
+San Diego,9.3312,1
+San Diego,9.499,1
+San Diego,9.5616,1
+San Diego,9.6048,1
+San Diego,9.7038,1
+San Diego,9.7608,1
+San Diego,10.062,1
+San Diego,10.179,1
+San Diego,10.5072,1
+San Diego,11.025,1
+San Diego,11.1664,1
+San Diego,11.1776,1
+San Diego,11.6091,1
+San Diego,11.7078,1
+San Diego,12.0252,1
+San Diego,12.2715,1
+San Diego,12.6348,1
+San Diego,13.4292,1
+San Diego,14.3075,1
+San Diego,14.6718,1
+San Diego,14.896,1
+San Diego,15.0742,1
+San Diego,15.372,1
+San Diego,15.4752,1
+San Diego,15.4872,1
+San Diego,15.552,1
+San Diego,15.6332,1
+San Diego,16.0928,1
+San Diego,16.7972,1
+San Diego,17.6232,2
+San Diego,17.9955,1
+San Diego,18.3264,1
+San Diego,18.6093,1
+San Diego,18.8972,1
+San Diego,19.1786,1
+San Diego,20.1264,1
+San Diego,20.5176,1
+San Diego,20.539,1
+San Diego,20.7675,1
+San Diego,20.9148,1
+San Diego,21.792,1
+San Diego,22.0748,1
+San Diego,22.2,1
+San Diego,22.5296,1
+San Diego,22.736,1
+San Diego,22.9068,1
+San Diego,22.9488,1
+San Diego,23.5564,1
+San Diego,24.3384,1
+San Diego,25.497,1
+San Diego,27.0882,1
+San Diego,27.1032,1
+San Diego,27.3096,1
+San Diego,28.008,1
+San Diego,29.0,1
+San Diego,29.0136,1
+San Diego,29.1456,1
+San Diego,29.4455,1
+San Diego,31.494,1
+San Diego,33.636,1
+San Diego,33.642,1
+San Diego,33.936,1
+San Diego,35.048,1
+San Diego,35.76,1
+San Diego,38.997,1
+San Diego,38.9974,1
+San Diego,40.1702,1
+San Diego,41.1208,1
+San Diego,41.697,1
+San Diego,41.823,1
+San Diego,42.1176,1
+San Diego,45.294,1
+San Diego,48.5392,1
+San Diego,50.098,1
+San Diego,50.328,2
+San Diego,50.3658,1
+San Diego,51.996,1
+San Diego,52.3392,1
+San Diego,52.532,1
+San Diego,54.4047,1
+San Diego,54.8604,1
+San Diego,55.745,1
+San Diego,58.4962,1
+San Diego,60.1536,1
+San Diego,63.7776,1
+San Diego,66.9546,1
+San Diego,68.976,1
+San Diego,72.432,1
+San Diego,73.194,1
+San Diego,76.0116,1
+San Diego,77.22,1
+San Diego,79.758,1
+San Diego,79.8912,1
+San Diego,87.89,1
+San Diego,91.7728,1
+San Diego,95.2,1
+San Diego,99.9408,1
+San Diego,100.196,1
+San Diego,115.1808,1
+San Diego,146.7693,1
+San Diego,149.148,1
+San Diego,176.7864,1
+San Diego,180.7659,1
+San Diego,185.997,1
+San Diego,224.9925,1
+San Diego,267.6672,1
+San Diego,434.9913,1
+San Diego,503.64,1
+San Diego,636.0003,1
+San Francisco,-325.572,1
+San Francisco,-219.1644,1
+San Francisco,-195.4788,1
+San Francisco,-131.5008,1
+San Francisco,-112.9527,1
+San Francisco,-87.9354,1
+San Francisco,-32.3673,1
+San Francisco,-31.647,1
+San Francisco,-29.6058,2
+San Francisco,-20.1362,1
+San Francisco,-18.4548,1
+San Francisco,-17.4588,1
+San Francisco,-14.4784,1
+San Francisco,-13.5882,1
+San Francisco,-12.9568,1
+San Francisco,-12.196,1
+San Francisco,-12.098,1
+San Francisco,-10.7055,1
+San Francisco,-4.8392,1
+San Francisco,-3.3506,1
+San Francisco,-2.9985,1
+San Francisco,-1.7772,1
+San Francisco,-0.8999,1
+San Francisco,0.0,4
+San Francisco,0.1134,1
+San Francisco,0.1472,2
+San Francisco,0.4356,1
+San Francisco,0.5584,1
+San Francisco,0.6312,1
+San Francisco,0.7228,1
+San Francisco,0.84,2
+San Francisco,1.017,1
+San Francisco,1.0208,1
+San Francisco,1.122,1
+San Francisco,1.3416,1
+San Francisco,1.3536,1
+San Francisco,1.395,1
+San Francisco,1.5602,1
+San Francisco,1.636,1
+San Francisco,1.6472,1
+San Francisco,1.6688,1
+San Francisco,1.6704,1
+San Francisco,1.7325,1
+San Francisco,1.7739,1
+San Francisco,1.872,1
+San Francisco,1.9024,1
+San Francisco,1.926,1
+San Francisco,1.9698,1
+San Francisco,2.0228,1
+San Francisco,2.0416,1
+San Francisco,2.0979,1
+San Francisco,2.1492,1
+San Francisco,2.1684,2
+San Francisco,2.178,1
+San Francisco,2.19,1
+San Francisco,2.224,2
+San Francisco,2.2272,1
+San Francisco,2.2282,1
+San Francisco,2.2302,1
+San Francisco,2.3232,1
+San Francisco,2.3814,2
+San Francisco,2.4824,2
+San Francisco,2.5056,1
+San Francisco,2.5578,1
+San Francisco,2.6251,1
+San Francisco,2.7166,1
+San Francisco,2.73,1
+San Francisco,2.7956,1
+San Francisco,2.8224,2
+San Francisco,2.8296,1
+San Francisco,2.8536,1
+San Francisco,2.8764,1
+San Francisco,2.8784,1
+San Francisco,2.9568,1
+San Francisco,3.0128,1
+San Francisco,3.024,1
+San Francisco,3.0268,1
+San Francisco,3.1008,1
+San Francisco,3.1248,1
+San Francisco,3.1752,2
+San Francisco,3.2256,1
+San Francisco,3.2392,1
+San Francisco,3.285,1
+San Francisco,3.3544,1
+San Francisco,3.384,1
+San Francisco,3.401,1
+San Francisco,3.4092,1
+San Francisco,3.4686,1
+San Francisco,3.501,1
+San Francisco,3.6192,1
+San Francisco,3.71,1
+San Francisco,3.72,1
+San Francisco,3.852,1
+San Francisco,3.9294,1
+San Francisco,4.068,1
+San Francisco,4.095,1
+San Francisco,4.1031,1
+San Francisco,4.172,1
+San Francisco,4.1832,1
+San Francisco,4.1916,1
+San Francisco,4.1944,1
+San Francisco,4.2336,1
+San Francisco,4.3008,1
+San Francisco,4.3368,2
+San Francisco,4.3428,1
+San Francisco,4.3524,1
+San Francisco,4.4138,1
+San Francisco,4.4604,1
+San Francisco,4.461,1
+San Francisco,4.498,1
+San Francisco,4.5816,1
+San Francisco,4.6464,1
+San Francisco,4.6488,1
+San Francisco,4.6644,1
+San Francisco,4.7724,1
+San Francisco,4.7976,1
+San Francisco,4.8609,1
+San Francisco,4.89,1
+San Francisco,4.95,1
+San Francisco,5.0232,1
+San Francisco,5.1042,2
+San Francisco,5.1435,1
+San Francisco,5.166,1
+San Francisco,5.2182,1
+San Francisco,5.4288,1
+San Francisco,5.538,1
+San Francisco,5.6448,1
+San Francisco,5.6832,1
+San Francisco,5.733,1
+San Francisco,5.778,2
+San Francisco,5.8604,1
+San Francisco,5.8914,1
+San Francisco,5.9312,1
+San Francisco,5.9364,1
+San Francisco,6.0264,1
+San Francisco,6.0858,1
+San Francisco,6.0876,1
+San Francisco,6.2031,1
+San Francisco,6.2152,1
+San Francisco,6.2208,3
+San Francisco,6.2244,1
+San Francisco,6.2496,1
+San Francisco,6.3504,1
+San Francisco,6.4128,1
+San Francisco,6.4206,1
+San Francisco,6.465,1
+San Francisco,6.4692,1
+San Francisco,6.549,1
+San Francisco,6.567,2
+San Francisco,6.583,1
+San Francisco,6.6584,1
+San Francisco,6.6906,1
+San Francisco,6.6976,1
+San Francisco,6.7655,1
+San Francisco,6.9132,1
+San Francisco,6.9552,1
+San Francisco,7.0096,1
+San Francisco,7.0224,1
+San Francisco,7.049,1
+San Francisco,7.2268,1
+San Francisco,7.3132,1
+San Francisco,7.3528,1
+San Francisco,7.384,1
+San Francisco,7.56,1
+San Francisco,7.605,1
+San Francisco,7.6272,1
+San Francisco,7.7343,1
+San Francisco,7.8225,1
+San Francisco,7.986,1
+San Francisco,7.9984,1
+San Francisco,8.01,1
+San Francisco,8.0464,1
+San Francisco,8.1192,1
+San Francisco,8.217,1
+San Francisco,8.2782,1
+San Francisco,8.409,1
+San Francisco,8.4528,1
+San Francisco,8.4784,1
+San Francisco,8.4888,2
+San Francisco,8.4966,1
+San Francisco,8.636,1
+San Francisco,8.7138,1
+San Francisco,8.7372,1
+San Francisco,8.771,1
+San Francisco,8.7906,1
+San Francisco,8.8062,1
+San Francisco,9.0,1
+San Francisco,9.0384,1
+San Francisco,9.072,1
+San Francisco,9.2568,1
+San Francisco,9.3906,1
+San Francisco,9.4284,1
+San Francisco,9.4815,1
+San Francisco,9.504,1
+San Francisco,9.534,2
+San Francisco,9.5571,1
+San Francisco,9.6657,1
+San Francisco,9.6975,1
+San Francisco,9.702,1
+San Francisco,9.7176,1
+San Francisco,9.9216,1
+San Francisco,9.9936,1
+San Francisco,10.164,1
+San Francisco,10.3071,1
+San Francisco,10.3904,1
+San Francisco,10.4148,1
+San Francisco,10.4496,1
+San Francisco,10.4784,1
+San Francisco,10.518,1
+San Francisco,10.626,1
+San Francisco,10.6428,1
+San Francisco,10.7301,1
+San Francisco,10.788,1
+San Francisco,10.8588,1
+San Francisco,10.896,1
+San Francisco,10.9096,1
+San Francisco,10.94,1
+San Francisco,10.9494,1
+San Francisco,11.0264,1
+San Francisco,11.1176,1
+San Francisco,11.151,2
+San Francisco,11.1564,1
+San Francisco,11.1664,1
+San Francisco,11.2839,2
+San Francisco,11.4576,1
+San Francisco,11.46,1
+San Francisco,11.5432,1
+San Francisco,11.556,1
+San Francisco,11.58,1
+San Francisco,11.6496,1
+San Francisco,11.7208,1
+San Francisco,11.7576,1
+San Francisco,11.7936,1
+San Francisco,11.803,1
+San Francisco,11.8584,1
+San Francisco,11.9952,1
+San Francisco,12.0978,1
+San Francisco,12.1452,1
+San Francisco,12.178,1
+San Francisco,12.222,1
+San Francisco,12.2247,1
+San Francisco,12.4173,1
+San Francisco,12.4416,2
+San Francisco,12.599,1
+San Francisco,12.672,1
+San Francisco,12.8744,1
+San Francisco,13.3035,1
+San Francisco,13.365,1
+San Francisco,13.4316,1
+San Francisco,13.455,1
+San Francisco,13.473,1
+San Francisco,13.608,1
+San Francisco,13.7646,1
+San Francisco,13.8684,1
+San Francisco,14.2758,1
+San Francisco,14.7668,1
+San Francisco,14.8344,1
+San Francisco,14.9744,2
+San Francisco,15.0416,1
+San Francisco,15.093,1
+San Francisco,15.12,1
+San Francisco,15.2,1
+San Francisco,15.2292,1
+San Francisco,15.246,1
+San Francisco,15.2712,1
+San Francisco,15.2988,1
+San Francisco,15.3952,1
+San Francisco,15.4752,2
+San Francisco,15.552,2
+San Francisco,15.6104,1
+San Francisco,15.6993,1
+San Francisco,15.7,1
+San Francisco,15.808,1
+San Francisco,15.918,1
+San Francisco,16.011,1
+San Francisco,16.032,1
+San Francisco,16.146,1
+San Francisco,16.302,1
+San Francisco,16.3215,1
+San Francisco,16.4647,1
+San Francisco,16.614,1
+San Francisco,16.704,1
+San Francisco,16.945,1
+San Francisco,16.9932,1
+San Francisco,17.334,1
+San Francisco,17.3376,1
+San Francisco,17.3488,1
+San Francisco,17.55,1
+San Francisco,17.5812,1
+San Francisco,17.7744,1
+San Francisco,17.9592,1
+San Francisco,18.528,1
+San Francisco,18.6624,1
+San Francisco,19.1646,1
+San Francisco,19.1976,1
+San Francisco,19.8254,1
+San Francisco,19.872,2
+San Francisco,19.968,1
+San Francisco,20.1544,1
+San Francisco,20.6142,1
+San Francisco,20.6612,1
+San Francisco,20.6955,1
+San Francisco,20.844,1
+San Francisco,21.1344,1
+San Francisco,21.2724,1
+San Francisco,21.4368,1
+San Francisco,21.7728,2
+San Francisco,21.8736,1
+San Francisco,21.9975,1
+San Francisco,22.2264,1
+San Francisco,22.6233,1
+San Francisco,22.6737,1
+San Francisco,22.7024,1
+San Francisco,22.9877,1
+San Francisco,23.028,1
+San Francisco,23.2182,1
+San Francisco,23.384,1
+San Francisco,23.5872,1
+San Francisco,23.9904,1
+San Francisco,23.9984,1
+San Francisco,24.3595,1
+San Francisco,24.5028,1
+San Francisco,24.84,1
+San Francisco,24.9804,1
+San Francisco,25.02,1
+San Francisco,25.176,1
+San Francisco,25.2936,1
+San Francisco,25.48,1
+San Francisco,25.792,1
+San Francisco,26.07,1
+San Francisco,26.376,1
+San Francisco,27.2848,1
+San Francisco,27.3182,1
+San Francisco,27.4302,1
+San Francisco,27.4856,2
+San Francisco,27.882,1
+San Francisco,27.93,1
+San Francisco,28.1372,2
+San Francisco,28.1718,2
+San Francisco,28.497,1
+San Francisco,28.518,1
+San Francisco,28.5984,1
+San Francisco,28.819,1
+San Francisco,30.2634,1
+San Francisco,30.2778,1
+San Francisco,30.5088,1
+San Francisco,31.4548,1
+San Francisco,31.6128,1
+San Francisco,32.3015,1
+San Francisco,33.0648,1
+San Francisco,33.3136,1
+San Francisco,33.93,1
+San Francisco,34.2848,1
+San Francisco,34.494,1
+San Francisco,34.742,1
+San Francisco,34.9825,1
+San Francisco,36.8245,1
+San Francisco,36.917,1
+San Francisco,37.7895,1
+San Francisco,37.797,1
+San Francisco,37.9848,1
+San Francisco,37.9962,1
+San Francisco,38.025,1
+San Francisco,38.08,1
+San Francisco,39.5868,1
+San Francisco,40.1702,1
+San Francisco,40.274,1
+San Francisco,40.3128,1
+San Francisco,40.3704,1
+San Francisco,40.4432,1
+San Francisco,40.8006,1
+San Francisco,41.706,1
+San Francisco,41.823,1
+San Francisco,41.934,1
+San Francisco,42.0714,1
+San Francisco,42.588,1
+San Francisco,42.8148,1
+San Francisco,43.164,1
+San Francisco,44.3664,1
+San Francisco,45.528,1
+San Francisco,46.179,1
+San Francisco,46.3185,1
+San Francisco,46.602,1
+San Francisco,47.241,1
+San Francisco,48.288,1
+San Francisco,50.0346,1
+San Francisco,50.098,1
+San Francisco,50.328,1
+San Francisco,50.3658,1
+San Francisco,50.396,1
+San Francisco,53.8608,2
+San Francisco,54.2808,1
+San Francisco,57.358,1
+San Francisco,59.8176,1
+San Francisco,60.4752,1
+San Francisco,61.389,1
+San Francisco,62.737,1
+San Francisco,63.4368,1
+San Francisco,68.585,1
+San Francisco,68.5965,1
+San Francisco,68.8464,1
+San Francisco,68.9631,1
+San Francisco,68.976,1
+San Francisco,69.993,1
+San Francisco,70.196,1
+San Francisco,70.49,1
+San Francisco,71.772,1
+San Francisco,71.99,1
+San Francisco,72.432,1
+San Francisco,73.41,1
+San Francisco,75.168,1
+San Francisco,76.2525,1
+San Francisco,76.2624,1
+San Francisco,77.0352,1
+San Francisco,77.5584,1
+San Francisco,78.7671,1
+San Francisco,78.8942,1
+San Francisco,80.3404,1
+San Francisco,80.7912,1
+San Francisco,80.9919,1
+San Francisco,81.0474,1
+San Francisco,81.1314,1
+San Francisco,84.294,1
+San Francisco,84.502,1
+San Francisco,85.176,1
+San Francisco,85.9828,1
+San Francisco,85.9957,1
+San Francisco,86.3856,1
+San Francisco,86.3892,1
+San Francisco,87.1962,1
+San Francisco,87.996,1
+San Francisco,88.3948,1
+San Francisco,90.972,1
+San Francisco,92.3692,1
+San Francisco,92.392,1
+San Francisco,95.7572,1
+San Francisco,97.0137,1
+San Francisco,97.88,1
+San Francisco,100.24,1
+San Francisco,100.4796,1
+San Francisco,103.3116,1
+San Francisco,105.2468,1
+San Francisco,105.98,1
+San Francisco,113.848,1
+San Francisco,114.9385,2
+San Francisco,122.3856,1
+San Francisco,125.2692,1
+San Francisco,125.997,1
+San Francisco,126.3942,1
+San Francisco,129.348,1
+San Francisco,130.4913,1
+San Francisco,132.5898,1
+San Francisco,140.5957,1
+San Francisco,145.134,1
+San Francisco,151.0974,1
+San Francisco,162.0,1
+San Francisco,163.1898,1
+San Francisco,178.91,1
+San Francisco,196.5036,1
+San Francisco,200.9546,1
+San Francisco,210.4936,1
+San Francisco,215.9973,1
+San Francisco,225.735,1
+San Francisco,238.653,1
+San Francisco,252.588,1
+San Francisco,287.982,1
+San Francisco,314.2719,1
+San Francisco,327.506,1
+San Francisco,352.296,1
+San Francisco,359.9988,1
+San Francisco,374.9925,1
+San Francisco,377.9946,1
+San Francisco,419.8185,1
+San Francisco,434.9913,1
+San Francisco,510.636,1
+San Francisco,682.5168,1
+San Francisco,944.9865,1
+Seattle,-73.0548,1
+Seattle,-59.8356,1
+Seattle,-43.8336,1
+Seattle,-39.9528,1
+Seattle,-25.4744,1
+Seattle,-23.0352,1
+Seattle,-22.1382,1
+Seattle,-20.7846,1
+Seattle,-20.1362,1
+Seattle,-17.991,1
+Seattle,-11.5176,1
+Seattle,-7.0146,1
+Seattle,-6.9282,1
+Seattle,-6.098,1
+Seattle,-4.6764,1
+Seattle,-2.6997,1
+Seattle,0.0,6
+Seattle,0.1588,1
+Seattle,0.2244,1
+Seattle,0.336,1
+Seattle,0.3906,1
+Seattle,0.4074,1
+Seattle,0.4704,1
+Seattle,0.471,1
+Seattle,0.7228,1
+Seattle,0.864,1
+Seattle,0.9048,1
+Seattle,1.0114,1
+Seattle,1.0296,1
+Seattle,1.1225,1
+Seattle,1.176,1
+Seattle,1.2006,1
+Seattle,1.2112,1
+Seattle,1.4208,1
+Seattle,1.4456,1
+Seattle,1.598,1
+Seattle,1.7901,2
+Seattle,1.8604,1
+Seattle,1.932,1
+Seattle,2.034,1
+Seattle,2.1336,1
+Seattle,2.1492,1
+Seattle,2.19,1
+Seattle,2.208,1
+Seattle,2.2518,1
+Seattle,2.2728,1
+Seattle,2.3025,1
+Seattle,2.322,1
+Seattle,2.3406,1
+Seattle,2.376,1
+Seattle,2.5578,1
+Seattle,2.5592,1
+Seattle,2.6208,1
+Seattle,2.6784,1
+Seattle,2.679,1
+Seattle,2.6973,1
+Seattle,2.808,1
+Seattle,2.9346,1
+Seattle,2.9562,1
+Seattle,2.9568,2
+Seattle,3.0212,1
+Seattle,3.034,1
+Seattle,3.0558,1
+Seattle,3.1104,3
+Seattle,3.14,1
+Seattle,3.196,1
+Seattle,3.2064,1
+Seattle,3.2352,1
+Seattle,3.348,1
+Seattle,3.401,1
+Seattle,3.462,1
+Seattle,3.4686,1
+Seattle,3.6936,1
+Seattle,3.757,1
+Seattle,3.8016,1
+Seattle,3.895,1
+Seattle,3.8976,1
+Seattle,3.9312,1
+Seattle,4.1124,1
+Seattle,4.1652,1
+Seattle,4.1756,1
+Seattle,4.2336,2
+Seattle,4.2624,1
+Seattle,4.3134,1
+Seattle,4.3296,1
+Seattle,4.4604,1
+Seattle,4.4712,1
+Seattle,4.5188,1
+Seattle,4.5816,1
+Seattle,4.6193,1
+Seattle,4.6644,1
+Seattle,4.7724,1
+Seattle,4.8162,1
+Seattle,4.8588,1
+Seattle,4.872,1
+Seattle,4.908,1
+Seattle,4.9104,1
+Seattle,4.9248,1
+Seattle,5.2029,1
+Seattle,5.214,1
+Seattle,5.2164,1
+Seattle,5.2896,1
+Seattle,5.373,1
+Seattle,5.4124,1
+Seattle,5.4201,1
+Seattle,5.4332,1
+Seattle,5.434,1
+Seattle,5.4801,1
+Seattle,5.5341,1
+Seattle,5.56,1
+Seattle,5.6956,1
+Seattle,5.7408,1
+Seattle,5.7624,1
+Seattle,5.796,1
+Seattle,5.8604,1
+Seattle,5.949,1
+Seattle,5.9696,1
+Seattle,6.0114,1
+Seattle,6.03,1
+Seattle,6.2016,1
+Seattle,6.2208,3
+Seattle,6.3504,1
+Seattle,6.4206,2
+Seattle,6.552,1
+Seattle,6.6294,1
+Seattle,6.8714,1
+Seattle,6.888,1
+Seattle,6.894,1
+Seattle,6.93,1
+Seattle,6.972,1
+Seattle,7.1864,1
+Seattle,7.209,1
+Seattle,7.2298,1
+Seattle,7.764,1
+Seattle,7.7679,2
+Seattle,7.7728,1
+Seattle,7.8225,1
+Seattle,7.86,1
+Seattle,7.9188,1
+Seattle,7.9896,1
+Seattle,8.0997,1
+Seattle,8.184,1
+Seattle,8.4888,2
+Seattle,8.5025,1
+Seattle,8.5722,1
+Seattle,8.6352,1
+Seattle,8.636,1
+Seattle,8.7672,1
+Seattle,8.7906,1
+Seattle,8.8784,1
+Seattle,8.95,1
+Seattle,8.997,1
+Seattle,9.3312,4
+Seattle,9.3564,1
+Seattle,9.4284,1
+Seattle,9.4366,1
+Seattle,9.4486,1
+Seattle,9.499,1
+Seattle,9.5526,1
+Seattle,9.594,1
+Seattle,9.6192,1
+Seattle,9.688,1
+Seattle,9.7176,2
+Seattle,9.7438,1
+Seattle,9.7911,1
+Seattle,9.816,1
+Seattle,9.9652,1
+Seattle,10.058,1
+Seattle,10.3194,1
+Seattle,10.3473,1
+Seattle,10.4284,1
+Seattle,10.5072,1
+Seattle,10.6522,1
+Seattle,10.7325,1
+Seattle,10.788,1
+Seattle,10.7912,1
+Seattle,10.875,1
+Seattle,10.89,1
+Seattle,11.206,1
+Seattle,11.297,1
+Seattle,11.4296,1
+Seattle,11.613,1
+Seattle,11.685,1
+Seattle,11.704,1
+Seattle,11.7741,1
+Seattle,12.052,1
+Seattle,12.2465,1
+Seattle,12.285,1
+Seattle,12.4416,2
+Seattle,12.8151,1
+Seattle,13.0284,1
+Seattle,13.1572,1
+Seattle,13.2962,1
+Seattle,13.4292,1
+Seattle,13.452,1
+Seattle,13.4865,1
+Seattle,13.4925,1
+Seattle,13.7193,1
+Seattle,13.7428,1
+Seattle,13.8528,1
+Seattle,13.8828,1
+Seattle,14.2002,1
+Seattle,14.6642,1
+Seattle,14.6902,1
+Seattle,14.904,1
+Seattle,15.0984,1
+Seattle,15.1158,1
+Seattle,15.3195,1
+Seattle,15.3426,1
+Seattle,15.552,2
+Seattle,15.594,1
+Seattle,15.599,1
+Seattle,15.8158,1
+Seattle,15.9588,1
+Seattle,16.032,1
+Seattle,16.1505,1
+Seattle,16.2204,1
+Seattle,16.848,1
+Seattle,16.9932,1
+Seattle,17.1828,1
+Seattle,17.38,1
+Seattle,17.5448,1
+Seattle,17.6673,1
+Seattle,17.694,1
+Seattle,18.2112,2
+Seattle,18.6006,1
+Seattle,18.6956,1
+Seattle,18.7224,1
+Seattle,18.837,1
+Seattle,19.0344,1
+Seattle,19.041,1
+Seattle,19.2472,1
+Seattle,19.376,1
+Seattle,19.3984,1
+Seattle,19.4376,1
+Seattle,19.9665,1
+Seattle,20.06,1
+Seattle,21.2512,1
+Seattle,21.252,1
+Seattle,21.506,1
+Seattle,21.8352,1
+Seattle,22.2,1
+Seattle,22.4196,1
+Seattle,22.7136,1
+Seattle,22.869,1
+Seattle,22.9488,1
+Seattle,22.992,1
+Seattle,23.7864,1
+Seattle,24.2696,1
+Seattle,24.47,1
+Seattle,24.858,1
+Seattle,24.9804,1
+Seattle,25.186,1
+Seattle,25.5112,1
+Seattle,25.792,1
+Seattle,26.07,1
+Seattle,26.3912,1
+Seattle,26.3934,1
+Seattle,26.8744,1
+Seattle,26.901,1
+Seattle,26.9985,1
+Seattle,27.248,1
+Seattle,27.2952,1
+Seattle,27.3672,1
+Seattle,27.735,1
+Seattle,27.882,1
+Seattle,28.0784,1
+Seattle,28.1764,1
+Seattle,29.372,1
+Seattle,30.09,1
+Seattle,30.2316,1
+Seattle,30.3604,1
+Seattle,30.582,1
+Seattle,30.9504,1
+Seattle,31.0992,1
+Seattle,32.396,1
+Seattle,32.688,1
+Seattle,32.893,1
+Seattle,33.5888,1
+Seattle,33.6474,1
+Seattle,33.7266,1
+Seattle,34.146,1
+Seattle,34.2144,1
+Seattle,34.3548,1
+Seattle,34.3656,1
+Seattle,34.4232,1
+Seattle,34.6296,1
+Seattle,35.6526,1
+Seattle,35.6796,1
+Seattle,36.372,1
+Seattle,36.852,1
+Seattle,37.366,1
+Seattle,37.764,1
+Seattle,37.9962,1
+Seattle,38.396,1
+Seattle,38.8704,1
+Seattle,38.988,1
+Seattle,39.0824,1
+Seattle,39.6879,1
+Seattle,39.7488,1
+Seattle,39.98,1
+Seattle,40.416,1
+Seattle,40.97,1
+Seattle,41.1684,1
+Seattle,41.2237,1
+Seattle,41.8608,1
+Seattle,41.88,1
+Seattle,44.7096,1
+Seattle,45.0016,1
+Seattle,45.3696,1
+Seattle,45.8136,1
+Seattle,46.225,1
+Seattle,46.3185,1
+Seattle,47.9376,1
+Seattle,49.2723,1
+Seattle,49.4982,1
+Seattle,51.36,1
+Seattle,51.4764,1
+Seattle,51.8238,1
+Seattle,52.3764,1
+Seattle,52.532,1
+Seattle,52.7692,1
+Seattle,53.3466,1
+Seattle,54.1764,1
+Seattle,54.3332,1
+Seattle,55.016,1
+Seattle,55.764,1
+Seattle,55.896,1
+Seattle,56.392,1
+Seattle,57.5928,1
+Seattle,58.65,1
+Seattle,60.4632,1
+Seattle,60.4768,1
+Seattle,60.8832,1
+Seattle,61.389,1
+Seattle,62.82,1
+Seattle,62.91,1
+Seattle,63.107,1
+Seattle,63.8232,1
+Seattle,63.873,1
+Seattle,65.7342,1
+Seattle,68.198,1
+Seattle,70.0336,1
+Seattle,71.928,1
+Seattle,73.194,1
+Seattle,74.8098,1
+Seattle,75.5958,1
+Seattle,75.9924,1
+Seattle,80.3682,1
+Seattle,80.6312,1
+Seattle,80.838,1
+Seattle,82.2906,1
+Seattle,86.3856,1
+Seattle,86.3892,1
+Seattle,87.9912,1
+Seattle,88.7332,1
+Seattle,89.159,1
+Seattle,89.964,1
+Seattle,89.997,1
+Seattle,92.2368,1
+Seattle,94.926,1
+Seattle,100.656,1
+Seattle,103.818,1
+Seattle,108.3528,1
+Seattle,111.1035,1
+Seattle,113.4936,1
+Seattle,116.5976,1
+Seattle,125.198,1
+Seattle,125.245,1
+Seattle,130.2075,1
+Seattle,132.5898,1
+Seattle,132.5922,1
+Seattle,140.5482,1
+Seattle,148.138,1
+Seattle,150.294,1
+Seattle,153.4725,1
+Seattle,165.3813,1
+Seattle,190.0206,1
+Seattle,206.8893,1
+Seattle,209.58,1
+Seattle,224.424,1
+Seattle,244.6155,1
+Seattle,250.305,1
+Seattle,259.8896,1
+Seattle,290.0058,1
+Seattle,302.373,1
+Seattle,334.551,1
+Seattle,343.9828,1
+Seattle,349.3392,1
+Seattle,356.0414,1
+Seattle,366.6348,1
+Seattle,371.316,1
+Seattle,377.9622,1
+Seattle,381.2375,1
+Seattle,399.2994,1
+Seattle,401.814,1
+Seattle,459.9875,1
+Seattle,610.8624,1
+Seattle,629.01,1
+Seattle,643.9825,1
+Seattle,742.632,1
+Seattle,762.594,1
+Seattle,942.8157,1
+Seattle,1061.5722,1
+Seattle,1480.4671,1
+Seattle,6719.9808,1
+Springfield,-935.9595,1
+Springfield,-384.7164,1
+Springfield,-304.6653,1
+Springfield,-188.7,1
+Springfield,-170.8038,1
+Springfield,-167.986,1
+Springfield,-161.694,1
+Springfield,-145.5246,1
+Springfield,-143.2548,1
+Springfield,-128.2388,1
+Springfield,-62.7725,1
+Springfield,-56.3108,1
+Springfield,-46.592,1
+Springfield,-42.747,1
+Springfield,-36.9544,1
+Springfield,-35.5136,1
+Springfield,-29.0745,1
+Springfield,-21.945,1
+Springfield,-21.888,1
+Springfield,-16.6012,1
+Springfield,-10.4874,1
+Springfield,-9.8724,1
+Springfield,-9.7902,1
+Springfield,-8.9796,1
+Springfield,-7.48,1
+Springfield,-6.5296,1
+Springfield,-5.1968,1
+Springfield,-3.8976,1
+Springfield,-2.1195,1
+Springfield,-1.9275,1
+Springfield,0.2996,1
+Springfield,0.4592,1
+Springfield,0.679,1
+Springfield,0.7348,1
+Springfield,1.1556,1
+Springfield,1.3583,1
+Springfield,1.4456,2
+Springfield,1.656,1
+Springfield,1.6762,1
+Springfield,1.8144,1
+Springfield,2.289,1
+Springfield,2.299,1
+Springfield,2.6406,1
+Springfield,2.7028,1
+Springfield,3.3408,1
+Springfield,3.6018,1
+Springfield,3.6288,1
+Springfield,3.7436,1
+Springfield,3.7752,1
+Springfield,4.2048,1
+Springfield,4.3956,1
+Springfield,4.5588,1
+Springfield,4.6746,1
+Springfield,4.782,1
+Springfield,4.8588,1
+Springfield,5.2164,1
+Springfield,5.4432,1
+Springfield,5.5216,1
+Springfield,5.9988,1
+Springfield,6.3504,1
+Springfield,6.4128,1
+Springfield,6.4864,1
+Springfield,6.5538,1
+Springfield,6.5808,1
+Springfield,6.624,1
+Springfield,6.6584,1
+Springfield,6.745,1
+Springfield,6.768,1
+Springfield,7.254,1
+Springfield,7.5087,1
+Springfield,7.776,1
+Springfield,7.7832,1
+Springfield,7.9212,1
+Springfield,7.9984,1
+Springfield,8.2901,1
+Springfield,8.3268,1
+Springfield,8.4966,1
+Springfield,8.7168,1
+Springfield,8.8008,1
+Springfield,9.116,1
+Springfield,9.1296,1
+Springfield,9.192,1
+Springfield,9.5172,1
+Springfield,9.7218,1
+Springfield,10.0878,1
+Springfield,10.422,1
+Springfield,10.7037,1
+Springfield,10.7136,1
+Springfield,11.703,1
+Springfield,11.7782,1
+Springfield,12.3234,1
+Springfield,12.5216,1
+Springfield,12.549,1
+Springfield,12.936,1
+Springfield,13.0707,1
+Springfield,13.078,1
+Springfield,13.348,1
+Springfield,14.2758,1
+Springfield,14.6157,1
+Springfield,15.2544,1
+Springfield,15.552,1
+Springfield,16.776,1
+Springfield,16.98,1
+Springfield,17.158,1
+Springfield,17.1774,1
+Springfield,19.1976,1
+Springfield,20.0851,1
+Springfield,20.388,1
+Springfield,20.5764,1
+Springfield,20.7312,1
+Springfield,21.0,1
+Springfield,21.2954,1
+Springfield,23.55,1
+Springfield,25.4016,1
+Springfield,26.64,1
+Springfield,28.755,1
+Springfield,29.302,1
+Springfield,29.6576,1
+Springfield,29.808,1
+Springfield,29.994,1
+Springfield,32.4684,1
+Springfield,32.6046,1
+Springfield,35.6636,1
+Springfield,36.4704,1
+Springfield,39.3408,1
+Springfield,40.4012,1
+Springfield,46.47,1
+Springfield,47.6268,1
+Springfield,47.7306,1
+Springfield,47.8152,1
+Springfield,47.848,1
+Springfield,50.9208,1
+Springfield,51.8,1
+Springfield,53.235,1
+Springfield,53.433,1
+Springfield,54.5844,1
+Springfield,59.0112,1
+Springfield,60.2553,1
+Springfield,61.3824,1
+Springfield,67.188,1
+Springfield,75.18,1
+Springfield,75.6624,1
+Springfield,83.0502,1
+Springfield,83.281,1
+Springfield,116.48,1
+Springfield,146.2405,1
+Springfield,148.491,1
+Springfield,158.529,1
+Springfield,166.1004,1
+Springfield,168.1855,1
+Springfield,190.3881,1
+Springfield,197.9208,1
+Springfield,215.1198,1
+Springfield,226.3626,1
+Springfield,233.9961,1
+Springfield,300.735,1
+Springfield,307.1448,1
+Springfield,322.1829,1
+Springfield,386.835,1
+Springfield,653.301,1
+Springfield,909.9818,1
+Springfield,2302.9671,1
+others,-6599.978,1
+others,-3839.9904,1
+others,-1862.3124,1
+others,-1306.5504,1
+others,-1237.8462,1
+others,-1065.372,1
+others,-1002.7836,1
+others,-950.4,1
+others,-938.28,1
+others,-913.176,2
+others,-786.744,1
+others,-786.0144,1
+others,-734.5264,1
+others,-729.9138,1
+others,-653.2834,1
+others,-571.9956,1
+others,-538.446,1
+others,-533.7325,1
+others,-512.1468,1
+others,-479.988,1
+others,-464.697,1
+others,-427.45,1
+others,-426.986,1
+others,-407.682,1
+others,-383.9904,1
+others,-383.031,1
+others,-378.4,1
+others,-376.6932,1
+others,-363.528,1
+others,-350.49,1
+others,-331.96,1
+others,-320.597,1
+others,-320.2395,2
+others,-312.0614,1
+others,-304.392,1
+others,-300.735,1
+others,-299.8116,1
+others,-297.6848,1
+others,-292.9872,1
+others,-272.58,1
+others,-264.9208,1
+others,-264.215,1
+others,-263.9967,1
+others,-255.7425,1
+others,-255.5875,1
+others,-253.4337,1
+others,-251.9874,1
+others,-250.5408,1
+others,-250.396,1
+others,-248.2458,1
+others,-248.166,1
+others,-244.323,1
+others,-241.176,1
+others,-240.784,1
+others,-231.4116,1
+others,-225.0976,1
+others,-218.8656,1
+others,-204.4458,1
+others,-204.3145,1
+others,-199.5076,1
+others,-192.0468,1
+others,-191.646,1
+others,-190.8522,1
+others,-189.321,1
+others,-187.3815,1
+others,-186.5682,1
+others,-185.7168,1
+others,-184.8366,1
+others,-183.6324,1
+others,-182.637,1
+others,-182.352,1
+others,-175.26,1
+others,-172.7328,1
+others,-172.1172,1
+others,-169.637,1
+others,-169.372,1
+others,-168.9558,1
+others,-167.27,1
+others,-165.768,1
+others,-163.5767,1
+others,-161.875,1
+others,-157.0095,1
+others,-153.3456,1
+others,-153.2024,1
+others,-152.7156,1
+others,-150.414,1
+others,-147.963,1
+others,-147.8655,1
+others,-146.1096,1
+others,-145.3508,1
+others,-145.176,1
+others,-143.7904,1
+others,-143.431,1
+others,-142.071,1
+others,-135.087,1
+others,-131.7168,1
+others,-130.0104,1
+others,-127.5792,1
+others,-127.372,1
+others,-126.4816,1
+others,-123.858,1
+others,-122.877,1
+others,-120.513,1
+others,-119.1918,1
+others,-116.844,1
+others,-115.7156,1
+others,-114.3912,1
+others,-114.3534,1
+others,-113.282,1
+others,-111.4995,1
+others,-110.0232,2
+others,-109.5822,1
+others,-107.9928,1
+others,-107.958,1
+others,-106.393,1
+others,-105.3164,1
+others,-104.673,1
+others,-103.9882,1
+others,-103.8606,1
+others,-102.048,1
+others,-100.92,1
+others,-100.7944,1
+others,-98.8018,1
+others,-97.7394,1
+others,-97.72,1
+others,-97.5528,1
+others,-97.4988,1
+others,-97.176,1
+others,-96.1146,1
+others,-94.941,1
+others,-94.6605,1
+others,-94.333,1
+others,-92.7996,1
+others,-91.7586,1
+others,-89.089,1
+others,-88.784,1
+others,-87.6672,1
+others,-87.1488,1
+others,-86.3664,1
+others,-84.8232,1
+others,-84.2928,1
+others,-82.99,1
+others,-82.884,1
+others,-81.664,1
+others,-81.441,1
+others,-81.3065,1
+others,-80.9955,1
+others,-79.3352,1
+others,-78.078,1
+others,-76.9536,1
+others,-76.6062,1
+others,-76.0116,1
+others,-75.8304,1
+others,-75.5958,1
+others,-74.9526,1
+others,-74.7456,1
+others,-73.8192,1
+others,-72.039,1
+others,-70.1043,1
+others,-69.89,1
+others,-69.3952,1
+others,-69.312,1
+others,-67.6704,1
+others,-67.617,1
+others,-66.801,1
+others,-65.1504,1
+others,-65.0352,1
+others,-64.9376,1
+others,-64.7748,2
+others,-64.4274,1
+others,-63.996,1
+others,-63.1092,1
+others,-63.0056,2
+others,-62.88,2
+others,-60.6078,1
+others,-59.8356,1
+others,-59.0571,1
+others,-58.8736,1
+others,-58.716,1
+others,-58.6872,1
+others,-58.3056,1
+others,-57.951,1
+others,-57.6312,1
+others,-56.343,1
+others,-56.3108,1
+others,-55.256,2
+others,-54.882,1
+others,-54.5958,1
+others,-54.588,1
+others,-54.3204,1
+others,-53.7432,1
+others,-53.7096,1
+others,-53.7088,1
+others,-53.2704,1
+others,-52.9584,1
+others,-52.8336,1
+others,-52.6582,1
+others,-52.641,1
+others,-52.4544,1
+others,-52.3365,1
+others,-52.196,1
+others,-51.8272,1
+others,-51.5154,1
+others,-50.8704,1
+others,-50.098,1
+others,-49.5516,1
+others,-49.4376,1
+others,-48.9549,1
+others,-48.7839,1
+others,-48.5082,1
+others,-48.392,2
+others,-47.2542,1
+others,-47.1798,1
+others,-47.0583,1
+others,-46.8776,1
+others,-46.536,1
+others,-46.225,1
+others,-46.137,1
+others,-45.9954,1
+others,-45.9333,1
+others,-45.8273,1
+others,-45.294,1
+others,-45.24,1
+others,-43.7292,1
+others,-43.1178,1
+others,-42.9516,1
+others,-42.4116,1
+others,-42.1096,1
+others,-41.5872,1
+others,-41.262,1
+others,-40.196,1
+others,-40.0036,1
+others,-39.4565,1
+others,-38.85,1
+others,-38.8212,1
+others,-38.2158,1
+others,-38.2116,1
+others,-37.1124,1
+others,-36.4704,1
+others,-36.253,1
+others,-36.2352,1
+others,-35.9928,1
+others,-35.928,1
+others,-35.9058,1
+others,-35.8848,1
+others,-35.8176,1
+others,-35.3646,2
+others,-35.2152,1
+others,-34.9536,1
+others,-34.758,1
+others,-34.641,1
+others,-34.38,1
+others,-34.3148,1
+others,-33.8418,1
+others,-33.804,1
+others,-33.6414,1
+others,-33.484,1
+others,-33.32,1
+others,-32.9292,1
+others,-32.6646,1
+others,-32.508,1
+others,-32.3838,1
+others,-32.3388,1
+others,-32.2192,1
+others,-32.088,1
+others,-31.8612,1
+others,-31.843,1
+others,-31.6712,1
+others,-31.6,1
+others,-31.4874,1
+others,-31.3722,2
+others,-30.8672,1
+others,-30.392,1
+others,-30.294,1
+others,-30.16,1
+others,-29.94,2
+others,-29.512,1
+others,-29.4368,2
+others,-29.3238,1
+others,-29.2776,1
+others,-29.1168,1
+others,-29.0536,1
+others,-28.9568,1
+others,-28.2744,1
+others,-28.224,2
+others,-27.9312,2
+others,-27.828,1
+others,-27.792,1
+others,-27.7158,1
+others,-27.2922,1
+others,-26.9955,1
+others,-26.7558,1
+others,-26.733,1
+others,-26.726,1
+others,-26.7204,1
+others,-26.6352,2
+others,-26.624,1
+others,-26.541,1
+others,-26.2476,1
+others,-26.2272,1
+others,-25.9136,1
+others,-25.737,1
+others,-25.592,1
+others,-25.3764,1
+others,-25.198,1
+others,-25.109,1
+others,-25.056,1
+others,-24.843,1
+others,-24.803,1
+others,-24.7716,1
+others,-24.6624,1
+others,-24.588,1
+others,-24.5646,1
+others,-24.4764,1
+others,-24.416,1
+others,-24.392,1
+others,-24.294,1
+others,-24.2352,1
+others,-23.976,1
+others,-23.9372,1
+others,-23.716,1
+others,-22.7435,1
+others,-22.6842,1
+others,-22.6716,2
+others,-22.62,1
+others,-22.512,1
+others,-22.144,1
+others,-22.1382,1
+others,-21.888,1
+others,-21.808,1
+others,-21.6144,1
+others,-21.4704,1
+others,-21.4236,1
+others,-21.3264,1
+others,-21.2136,1
+others,-21.1068,1
+others,-21.0848,1
+others,-21.0686,1
+others,-20.724,1
+others,-20.5623,1
+others,-20.448,1
+others,-20.4352,1
+others,-20.245,1
+others,-20.2356,1
+others,-20.1362,1
+others,-19.9184,1
+others,-19.8744,1
+others,-19.7712,1
+others,-19.7372,1
+others,-19.5624,1
+others,-19.323,1
+others,-19.168,1
+others,-18.8728,1
+others,-18.8364,1
+others,-18.802,1
+others,-18.5262,1
+others,-18.4464,1
+others,-18.2525,1
+others,-18.2352,1
+others,-18.222,1
+others,-18.196,1
+others,-18.186,2
+others,-18.1808,1
+others,-18.147,1
+others,-18.1176,1
+others,-18.1068,1
+others,-18.0882,1
+others,-17.9964,1
+others,-17.9424,2
+others,-17.745,1
+others,-17.6076,1
+others,-17.4432,1
+others,-17.248,1
+others,-17.046,1
+others,-17.0352,1
+others,-16.776,1
+others,-16.614,1
+others,-16.467,1
+others,-16.38,1
+others,-16.1856,1
+others,-15.9102,1
+others,-15.7514,1
+others,-15.7176,1
+others,-15.5844,1
+others,-15.5826,1
+others,-15.4764,1
+others,-15.4666,1
+others,-15.4581,1
+others,-15.1976,1
+others,-15.1767,1
+others,-15.1311,1
+others,-15.08,1
+others,-14.998,1
+others,-14.92,1
+others,-14.8832,1
+others,-14.7708,1
+others,-14.6958,1
+others,-14.6388,1
+others,-14.603,1
+others,-14.5584,1
+others,-14.5176,1
+others,-14.4588,1
+others,-14.4078,1
+others,-14.34,1
+others,-14.3313,1
+others,-14.196,1
+others,-14.0928,1
+others,-13.993,1
+others,-13.8432,1
+others,-13.7976,1
+others,-13.7568,1
+others,-13.7175,1
+others,-13.6832,1
+others,-13.6312,1
+others,-13.6152,1
+others,-13.58,1
+others,-13.5548,1
+others,-13.4694,1
+others,-13.3936,1
+others,-13.392,1
+others,-13.3341,1
+others,-13.3176,1
+others,-13.312,1
+others,-13.2867,1
+others,-13.188,1
+others,-13.1706,1
+others,-13.167,1
+others,-13.0152,1
+others,-12.9568,1
+others,-12.8961,1
+others,-12.8784,1
+others,-12.849,1
+others,-12.8392,1
+others,-12.8256,1
+others,-12.7785,1
+others,-12.7302,1
+others,-12.6882,1
+others,-12.672,1
+others,-12.5286,1
+others,-12.352,1
+others,-12.288,1
+others,-12.224,1
+others,-12.196,1
+others,-12.098,1
+others,-12.0784,1
+others,-11.9616,2
+others,-11.8256,1
+others,-11.6928,1
+others,-11.596,1
+others,-11.5188,1
+others,-11.439,1
+others,-11.418,1
+others,-11.322,1
+others,-11.0848,1
+others,-11.0691,1
+others,-11.0005,1
+others,-10.9611,1
+others,-10.9188,1
+others,-10.9116,1
+others,-10.7973,2
+others,-10.6547,1
+others,-10.6176,1
+others,-10.6068,1
+others,-10.5798,1
+others,-10.4184,1
+others,-10.386,1
+others,-10.3824,1
+others,-10.336,1
+others,-10.1736,1
+others,-10.116,1
+others,-10.05,1
+others,-10.0464,1
+others,-10.0372,1
+others,-9.88,1
+others,-9.7608,1
+others,-9.7176,1
+others,-9.705,1
+others,-9.555,1
+others,-9.1816,1
+others,-9.153,2
+others,-9.093,1
+others,-9.0904,1
+others,-8.997,1
+others,-8.9152,1
+others,-8.8038,1
+others,-8.7232,1
+others,-8.6592,1
+others,-8.6457,1
+others,-8.5794,1
+others,-8.5416,1
+others,-8.532,1
+others,-8.4728,1
+others,-8.4582,1
+others,-8.379,1
+others,-8.3524,1
+others,-8.316,1
+others,-8.2764,1
+others,-8.1822,1
+others,-8.18,1
+others,-8.1312,1
+others,-8.0784,1
+others,-7.9984,1
+others,-7.996,1
+others,-7.92,1
+others,-7.9068,1
+others,-7.8588,1
+others,-7.782,1
+others,-7.7748,1
+others,-7.764,1
+others,-7.7247,1
+others,-7.7094,1
+others,-7.68,1
+others,-7.656,1
+others,-7.5768,1
+others,-7.476,2
+others,-7.46,1
+others,-7.4416,1
+others,-7.392,1
+others,-7.2,1
+others,-7.1991,1
+others,-7.17,1
+others,-7.1148,1
+others,-7.098,1
+others,-6.9965,1
+others,-6.9216,1
+others,-6.9102,1
+others,-6.8992,1
+others,-6.867,1
+others,-6.8634,1
+others,-6.8334,1
+others,-6.8094,1
+others,-6.723,1
+others,-6.6278,1
+others,-6.567,1
+others,-6.5619,1
+others,-6.534,1
+others,-6.5076,1
+others,-6.4944,1
+others,-6.462,1
+others,-6.4233,1
+others,-6.4232,1
+others,-6.396,2
+others,-6.38,1
+others,-6.303,1
+others,-6.3,1
+others,-6.21,1
+others,-6.188,1
+others,-6.1152,1
+others,-6.104,1
+others,-6.098,1
+others,-6.049,1
+others,-6.0324,1
+others,-6.0048,1
+others,-5.9409,1
+others,-5.94,1
+others,-5.8604,1
+others,-5.8496,1
+others,-5.8346,1
+others,-5.823,1
+others,-5.784,1
+others,-5.712,1
+others,-5.6994,1
+others,-5.6943,1
+others,-5.6784,1
+others,-5.6406,1
+others,-5.5338,2
+others,-5.487,1
+others,-5.4548,1
+others,-5.412,1
+others,-5.264,1
+others,-5.215,1
+others,-5.1984,1
+others,-5.184,1
+others,-5.176,1
+others,-5.088,1
+others,-4.9728,1
+others,-4.9164,1
+others,-4.9128,1
+others,-4.908,1
+others,-4.9005,1
+others,-4.8588,1
+others,-4.851,1
+others,-4.8448,1
+others,-4.8048,1
+others,-4.767,1
+others,-4.7625,2
+others,-4.7481,1
+others,-4.746,1
+others,-4.704,1
+others,-4.6464,1
+others,-4.641,2
+others,-4.598,1
+others,-4.5936,1
+others,-4.577,1
+others,-4.5192,1
+others,-4.4946,1
+others,-4.4928,1
+others,-4.49,1
+others,-4.488,1
+others,-4.466,1
+others,-4.464,1
+others,-4.428,1
+others,-4.396,1
+others,-4.3792,1
+others,-4.2336,1
+others,-4.1832,1
+others,-4.1762,1
+others,-4.1712,1
+others,-4.14,1
+others,-4.0722,1
+others,-4.032,1
+others,-4.0158,1
+others,-3.9249,1
+others,-3.8864,1
+others,-3.8646,1
+others,-3.816,1
+others,-3.81,1
+others,-3.788,1
+others,-3.7872,1
+others,-3.7584,1
+others,-3.7296,1
+others,-3.6576,1
+others,-3.6537,1
+others,-3.6372,1
+others,-3.6288,1
+others,-3.6212,1
+others,-3.5712,1
+others,-3.564,1
+others,-3.552,1
+others,-3.5508,1
+others,-3.5325,1
+others,-3.5224,1
+others,-3.5208,1
+others,-3.5154,1
+others,-3.4914,1
+others,-3.465,2
+others,-3.4272,1
+others,-3.4122,1
+others,-3.3879,1
+others,-3.3488,1
+others,-3.3264,1
+others,-3.312,1
+others,-3.2934,1
+others,-3.264,1
+others,-3.2406,1
+others,-3.2392,1
+others,-3.168,1
+others,-3.14,1
+others,-3.094,1
+others,-3.0576,1
+others,-3.0366,1
+others,-3.0344,1
+others,-2.9985,1
+others,-2.9964,1
+others,-2.994,1
+others,-2.97,1
+others,-2.7968,1
+others,-2.7588,1
+others,-2.73,1
+others,-2.6997,2
+others,-2.688,1
+others,-2.6784,1
+others,-2.6586,1
+others,-2.6256,1
+others,-2.61,1
+others,-2.6025,1
+others,-2.588,1
+others,-2.5872,1
+others,-2.5749,1
+others,-2.5698,1
+others,-2.5632,1
+others,-2.5472,1
+others,-2.544,1
+others,-2.5344,1
+others,-2.5256,1
+others,-2.484,1
+others,-2.4564,1
+others,-2.436,1
+others,-2.3904,1
+others,-2.3232,1
+others,-2.3136,1
+others,-2.2878,1
+others,-2.2848,1
+others,-2.245,1
+others,-2.244,1
+others,-2.22,1
+others,-2.2134,1
+others,-2.1756,1
+others,-2.1648,1
+others,-2.0988,1
+others,-2.0774,1
+others,-2.07,1
+others,-2.0622,2
+others,-2.0364,1
+others,-2.0349,1
+others,-2.0108,1
+others,-1.9791,1
+others,-1.9656,2
+others,-1.9272,1
+others,-1.9008,1
+others,-1.8392,1
+others,-1.8295,1
+others,-1.8126,1
+others,-1.8106,1
+others,-1.7495,1
+others,-1.6764,1
+others,-1.5715,1
+others,-1.4988,1
+others,-1.476,2
+others,-1.4413,1
+others,-1.4352,1
+others,-1.406,1
+others,-1.4016,1
+others,-1.3984,1
+others,-1.3608,1
+others,-1.3584,1
+others,-1.3566,1
+others,-1.3248,1
+others,-1.3128,1
+others,-1.2588,1
+others,-1.2558,1
+others,-1.249,1
+others,-1.2178,2
+others,-1.1196,1
+others,-1.0656,1
+others,-1.0497,1
+others,-1.049,1
+others,-0.99,1
+others,-0.9452,1
+others,-0.792,1
+others,-0.7748,1
+others,-0.7295,1
+others,-0.6976,1
+others,-0.6624,1
+others,-0.6435,1
+others,-0.6048,1
+others,-0.3488,1
+others,-0.3398,1
+others,-0.2685,1
+others,-0.2098,1
+others,-0.0895,1
+others,0.0,30
+others,0.1134,1
+others,0.1472,1
+others,0.1533,1
+others,0.1548,1
+others,0.1674,1
+others,0.1744,2
+others,0.189,1
+others,0.2016,2
+others,0.2353,1
+others,0.2598,1
+others,0.2925,1
+others,0.2952,1
+others,0.2992,1
+others,0.2997,1
+others,0.3024,1
+others,0.307,1
+others,0.3168,1
+others,0.3336,3
+others,0.3399,1
+others,0.3492,1
+others,0.364,1
+others,0.3822,1
+others,0.3864,1
+others,0.4068,1
+others,0.4074,2
+others,0.4116,1
+others,0.4176,1
+others,0.4264,2
+others,0.438,1
+others,0.4644,1
+others,0.4706,1
+others,0.4728,1
+others,0.4752,3
+others,0.4984,1
+others,0.5,1
+others,0.5004,1
+others,0.5022,1
+others,0.504,2
+others,0.51,1
+others,0.5244,1
+others,0.552,1
+others,0.556,1
+others,0.5584,1
+others,0.5668,2
+others,0.5754,1
+others,0.5828,1
+others,0.585,1
+others,0.5904,4
+others,0.5967,1
+others,0.5994,1
+others,0.5998,1
+others,0.6192,1
+others,0.6258,1
+others,0.6516,2
+others,0.666,1
+others,0.6672,1
+others,0.6696,2
+others,0.693,1
+others,0.6984,1
+others,0.6993,1
+others,0.7092,1
+others,0.711,1
+others,0.712,1
+others,0.7152,1
+others,0.7228,1
+others,0.7348,1
+others,0.738,1
+others,0.7392,1
+others,0.7398,1
+others,0.7425,1
+others,0.7665,1
+others,0.7776,1
+others,0.8058,2
+others,0.8064,1
+others,0.8088,1
+others,0.8162,2
+others,0.8288,2
+others,0.833,1
+others,0.8376,1
+others,0.8382,1
+others,0.8385,1
+others,0.84,1
+others,0.8495,1
+others,0.868,1
+others,0.8736,1
+others,0.8792,1
+others,0.8804,1
+others,0.8856,2
+others,0.891,1
+others,0.8946,1
+others,0.896,1
+others,0.897,1
+others,0.8994,1
+others,0.8997,1
+others,0.91,1
+others,0.924,1
+others,0.9282,1
+others,0.9336,1
+others,0.9576,2
+others,0.9588,1
+others,0.9612,1
+others,0.9772,1
+others,0.9774,1
+others,0.9952,1
+others,0.9995,1
+others,1.0008,2
+others,1.0192,1
+others,1.0208,1
+others,1.0269,1
+others,1.0336,1
+others,1.0346,1
+others,1.0348,1
+others,1.043,1
+others,1.05,1
+others,1.0584,1
+others,1.0598,1
+others,1.068,2
+others,1.0731,1
+others,1.0842,1
+others,1.0904,3
+others,1.1151,1
+others,1.12,1
+others,1.148,1
+others,1.1556,2
+others,1.1656,1
+others,1.168,1
+others,1.1765,1
+others,1.1772,1
+others,1.1775,1
+others,1.1808,1
+others,1.1904,1
+others,1.1925,1
+others,1.1946,2
+others,1.1988,1
+others,1.2005,1
+others,1.2038,1
+others,1.213,1
+others,1.2348,1
+others,1.2506,1
+others,1.2528,2
+others,1.26,1
+others,1.2672,1
+others,1.2792,1
+others,1.2948,1
+others,1.3,1
+others,1.3068,1
+others,1.311,1
+others,1.316,1
+others,1.323,1
+others,1.3284,1
+others,1.3416,1
+others,1.3514,1
+others,1.3622,1
+others,1.3716,1
+others,1.3728,1
+others,1.375,2
+others,1.3944,1
+others,1.3978,1
+others,1.3986,1
+others,1.4112,1
+others,1.419,1
+others,1.4406,1
+others,1.4418,1
+others,1.4456,3
+others,1.45,1
+others,1.46,1
+others,1.4602,1
+others,1.4672,2
+others,1.476,2
+others,1.4952,1
+others,1.4976,1
+others,1.5008,1
+others,1.5048,1
+others,1.512,5
+others,1.521,1
+others,1.5312,1
+others,1.5444,1
+others,1.5522,1
+others,1.5548,2
+others,1.5552,1
+others,1.5588,2
+others,1.5691,1
+others,1.57,1
+others,1.5795,1
+others,1.5804,1
+others,1.5876,1
+others,1.598,1
+others,1.6196,1
+others,1.6324,1
+others,1.638,1
+others,1.6632,1
+others,1.668,1
+others,1.6704,4
+others,1.6762,1
+others,1.6776,2
+others,1.6896,2
+others,1.7055,1
+others,1.7115,1
+others,1.7136,1
+others,1.7138,1
+others,1.7248,1
+others,1.7262,1
+others,1.728,2
+others,1.7343,2
+others,1.7352,1
+others,1.7514,1
+others,1.752,1
+others,1.7591,1
+others,1.7608,1
+others,1.764,2
+others,1.773,1
+others,1.7876,1
+others,1.7901,1
+others,1.794,1
+others,1.7955,1
+others,1.8,2
+others,1.8011,1
+others,1.8144,4
+others,1.8148,1
+others,1.8288,1
+others,1.8354,1
+others,1.8522,1
+others,1.8612,1
+others,1.8672,1
+others,1.8688,1
+others,1.8792,1
+others,1.8872,1
+others,1.8998,1
+others,1.9024,1
+others,1.9224,1
+others,1.926,1
+others,1.9272,1
+others,1.962,1
+others,1.9629,1
+others,1.9698,1
+others,1.984,1
+others,1.9926,2
+others,1.999,4
+others,2.004,1
+others,2.0064,1
+others,2.0088,2
+others,2.0286,1
+others,2.0358,2
+others,2.04,1
+others,2.0492,1
+others,2.0592,1
+others,2.0748,2
+others,2.1,1
+others,2.106,1
+others,2.1286,1
+others,2.132,1
+others,2.14,2
+others,2.1465,1
+others,2.1476,1
+others,2.1582,1
+others,2.1588,1
+others,2.1684,1
+others,2.1736,1
+others,2.1762,1
+others,2.184,1
+others,2.19,1
+others,2.2044,1
+others,2.2066,1
+others,2.2098,2
+others,2.211,1
+others,2.2155,1
+others,2.2194,1
+others,2.2288,1
+others,2.2412,1
+others,2.244,1
+others,2.2512,1
+others,2.256,1
+others,2.2712,1
+others,2.2724,1
+others,2.2824,1
+others,2.299,1
+others,2.3025,1
+others,2.308,1
+others,2.3177,1
+others,2.322,1
+others,2.3312,2
+others,2.3328,1
+others,2.336,1
+others,2.3364,1
+others,2.3409,2
+others,2.352,1
+others,2.355,1
+others,2.3616,1
+others,2.3686,1
+others,2.376,1
+others,2.3814,1
+others,2.388,1
+others,2.3968,1
+others,2.3976,2
+others,2.401,2
+others,2.4012,1
+others,2.4059,1
+others,2.4138,1
+others,2.436,1
+others,2.4402,1
+others,2.4582,1
+others,2.464,1
+others,2.478,2
+others,2.4898,1
+others,2.5056,3
+others,2.5164,1
+others,2.5344,1
+others,2.5488,1
+others,2.5532,1
+others,2.5536,1
+others,2.5592,1
+others,2.5641,1
+others,2.578,1
+others,2.5896,1
+others,2.592,1
+others,2.6028,1
+others,2.628,1
+others,2.6376,1
+others,2.64,2
+others,2.6412,1
+others,2.646,1
+others,2.6496,1
+others,2.6536,1
+others,2.6784,1
+others,2.6814,1
+others,2.6892,1
+others,2.691,1
+others,2.6936,1
+others,2.6964,2
+others,2.6973,1
+others,2.7072,2
+others,2.7144,1
+others,2.7168,2
+others,2.7192,1
+others,2.7222,2
+others,2.726,1
+others,2.7336,1
+others,2.7354,1
+others,2.772,2
+others,2.7776,1
+others,2.7846,1
+others,2.786,1
+others,2.7944,1
+others,2.808,1
+others,2.8101,1
+others,2.8224,2
+others,2.8322,1
+others,2.834,1
+others,2.8536,4
+others,2.87,1
+others,2.8764,1
+others,2.8782,1
+others,2.8836,1
+others,2.8884,2
+others,2.8912,2
+others,2.9145,1
+others,2.9304,1
+others,2.9322,1
+others,2.934,1
+others,2.9346,1
+others,2.9348,1
+others,2.9372,1
+others,2.943,1
+others,2.9568,3
+others,2.9592,1
+others,2.9646,1
+others,2.9808,1
+others,2.99,1
+others,2.999,1
+others,3.0016,1
+others,3.0044,2
+others,3.0144,1
+others,3.024,1
+others,3.0268,1
+others,3.0338,1
+others,3.0342,1
+others,3.0438,1
+others,3.0558,1
+others,3.0576,4
+others,3.0814,1
+others,3.0861,1
+others,3.0996,1
+others,3.108,1
+others,3.1104,7
+others,3.15,1
+others,3.1752,2
+others,3.178,1
+others,3.1842,1
+others,3.185,1
+others,3.21,2
+others,3.2161,1
+others,3.2214,1
+others,3.2256,1
+others,3.2392,1
+others,3.24,1
+others,3.2406,1
+others,3.2472,1
+others,3.2616,1
+others,3.2832,1
+others,3.2868,1
+others,3.2872,2
+others,3.3,1
+others,3.3088,1
+others,3.339,1
+others,3.3408,3
+others,3.344,2
+others,3.3453,1
+others,3.348,1
+others,3.3488,1
+others,3.3504,1
+others,3.3524,1
+others,3.3534,1
+others,3.3544,1
+others,3.363,1
+others,3.3675,1
+others,3.3756,1
+others,3.3785,1
+others,3.393,1
+others,3.3948,1
+others,3.4048,1
+others,3.4086,1
+others,3.4104,1
+others,3.4196,1
+others,3.4216,1
+others,3.4357,1
+others,3.4368,3
+others,3.4496,1
+others,3.4544,1
+others,3.4552,1
+others,3.456,1
+others,3.462,1
+others,3.4668,1
+others,3.4686,2
+others,3.4692,1
+others,3.4695,1
+others,3.4776,1
+others,3.4827,1
+others,3.4848,1
+others,3.4944,1
+others,3.4965,1
+others,3.501,1
+others,3.5022,1
+others,3.504,2
+others,3.5046,1
+others,3.5048,1
+others,3.506,1
+others,3.51,1
+others,3.5152,1
+others,3.5178,1
+others,3.528,1
+others,3.556,1
+others,3.5742,1
+others,3.5767,1
+others,3.58,1
+others,3.5948,1
+others,3.597,1
+others,3.5994,1
+others,3.6,1
+others,3.6018,2
+others,3.614,1
+others,3.6156,1
+others,3.6162,1
+others,3.6288,18
+others,3.6348,1
+others,3.6588,1
+others,3.6632,1
+others,3.6784,1
+others,3.6796,1
+others,3.6855,1
+others,3.6894,1
+others,3.7128,1
+others,3.72,2
+others,3.7224,2
+others,3.7236,1
+others,3.7308,1
+others,3.7408,4
+others,3.741,1
+others,3.7412,2
+others,3.7436,1
+others,3.744,2
+others,3.752,1
+others,3.7584,1
+others,3.7692,1
+others,3.7694,1
+others,3.772,1
+others,3.7743,1
+others,3.7744,1
+others,3.7856,1
+others,3.792,3
+others,3.798,1
+others,3.799,1
+others,3.8024,1
+others,3.8048,1
+others,3.852,3
+others,3.8529,1
+others,3.857,1
+others,3.86,1
+others,3.8655,2
+others,3.872,1
+others,3.8775,1
+others,3.8822,3
+others,3.8844,1
+others,3.888,1
+others,3.9004,1
+others,3.9032,1
+others,3.9072,1
+others,3.9102,1
+others,3.9128,1
+others,3.9248,2
+others,3.942,1
+others,3.945,1
+others,3.9474,2
+others,3.9498,1
+others,3.9512,2
+others,3.9592,1
+others,3.9609,1
+others,3.968,1
+others,3.969,1
+others,3.9771,1
+others,3.9852,1
+others,4.008,1
+others,4.0203,1
+others,4.0338,3
+others,4.0383,1
+others,4.042,1
+others,4.0473,1
+others,4.0542,1
+others,4.0572,1
+others,4.068,1
+others,4.0687,2
+others,4.0768,1
+others,4.0986,1
+others,4.0995,1
+others,4.108,1
+others,4.1125,1
+others,4.1148,1
+others,4.116,2
+others,4.1328,1
+others,4.1391,1
+others,4.1416,1
+others,4.1448,1
+others,4.1472,1
+others,4.1748,1
+others,4.1769,1
+others,4.1832,1
+others,4.1916,1
+others,4.1988,2
+others,4.2,1
+others,4.2048,1
+others,4.224,1
+others,4.225,1
+others,4.2294,1
+others,4.2336,2
+others,4.2384,1
+others,4.2392,1
+others,4.2408,1
+others,4.264,1
+others,4.2717,2
+others,4.2804,3
+others,4.2816,1
+others,4.293,1
+others,4.2952,1
+others,4.2976,1
+others,4.3176,1
+others,4.3308,1
+others,4.331,1
+others,4.3326,1
+others,4.3368,1
+others,4.3524,2
+others,4.3584,1
+others,4.36,1
+others,4.3836,1
+others,4.3884,1
+others,4.3904,1
+others,4.42,1
+others,4.4312,2
+others,4.4344,1
+others,4.4352,2
+others,4.44,1
+others,4.455,1
+others,4.4604,1
+others,4.4685,1
+others,4.4712,1
+others,4.4784,1
+others,4.4792,1
+others,4.4824,1
+others,4.485,2
+others,4.4856,1
+others,4.4892,1
+others,4.494,1
+others,4.4955,1
+others,4.504,1
+others,4.5144,1
+others,4.5188,2
+others,4.5201,1
+others,4.5216,2
+others,4.5448,1
+others,4.5612,1
+others,4.5657,1
+others,4.57,1
+others,4.5738,1
+others,4.5816,1
+others,4.5837,2
+others,4.5873,1
+others,4.6176,1
+others,4.6193,1
+others,4.6221,1
+others,4.6284,1
+others,4.6464,1
+others,4.6548,1
+others,4.6552,1
+others,4.672,1
+others,4.6746,1
+others,4.6764,1
+others,4.6806,1
+others,4.6818,1
+others,4.6956,1
+others,4.7067,1
+others,4.7232,1
+others,4.7236,1
+others,4.7304,1
+others,4.752,4
+others,4.7712,1
+others,4.7752,1
+others,4.7792,1
+others,4.797,1
+others,4.7988,1
+others,4.8118,2
+others,4.8392,1
+others,4.8416,1
+others,4.8519,1
+others,4.8525,1
+others,4.8609,1
+others,4.872,2
+others,4.8804,1
+others,4.891,1
+others,4.8924,1
+others,4.8986,1
+others,4.908,1
+others,4.9104,1
+others,4.914,1
+others,4.9497,1
+others,4.95,2
+others,4.9608,1
+others,4.9616,1
+others,4.9648,3
+others,5.0112,1
+others,5.0128,1
+others,5.0196,1
+others,5.022,1
+others,5.0286,2
+others,5.0336,1
+others,5.056,1
+others,5.0596,1
+others,5.07,1
+others,5.0764,1
+others,5.096,2
+others,5.1012,2
+others,5.1015,1
+others,5.1042,1
+others,5.1184,1
+others,5.1282,1
+others,5.135,1
+others,5.1408,2
+others,5.1465,1
+others,5.1552,1
+others,5.1588,1
+others,5.1648,1
+others,5.1792,3
+others,5.184,1
+others,5.191,1
+others,5.193,2
+others,5.1948,1
+others,5.1968,1
+others,5.2026,3
+others,5.2029,1
+others,5.2113,1
+others,5.2272,1
+others,5.2398,1
+others,5.256,2
+others,5.265,1
+others,5.28,1
+others,5.2884,1
+others,5.3116,1
+others,5.3392,1
+others,5.346,1
+others,5.368,2
+others,5.369,1
+others,5.3703,1
+others,5.3784,1
+others,5.382,1
+others,5.3898,1
+others,5.3949,1
+others,5.397,2
+others,5.3998,1
+others,5.4124,1
+others,5.4144,1
+others,5.4288,1
+others,5.4336,1
+others,5.4341,1
+others,5.4432,15
+others,5.4444,1
+others,5.4504,1
+others,5.4768,1
+others,5.4896,1
+others,5.5044,1
+others,5.5216,1
+others,5.5328,1
+others,5.538,1
+others,5.5392,1
+others,5.5536,1
+others,5.5566,2
+others,5.5674,1
+others,5.5944,1
+others,5.5992,1
+others,5.6016,1
+others,5.6112,2
+others,5.6115,1
+others,5.616,1
+others,5.6376,1
+others,5.6416,1
+others,5.6448,2
+others,5.652,1
+others,5.6628,2
+others,5.6644,1
+others,5.6784,1
+others,5.6994,3
+others,5.7072,2
+others,5.7312,1
+others,5.7365,1
+others,5.751,1
+others,5.7528,1
+others,5.7594,1
+others,5.7624,2
+others,5.7672,2
+others,5.77,1
+others,5.7716,1
+others,5.775,1
+others,5.7768,1
+others,5.778,1
+others,5.796,1
+others,5.798,2
+others,5.8203,1
+others,5.823,1
+others,5.8233,1
+others,5.842,2
+others,5.8604,2
+others,5.8653,1
+others,5.8696,2
+others,5.8708,1
+others,5.8744,1
+others,5.8751,1
+others,5.8887,1
+others,5.8914,1
+others,5.9136,1
+others,5.915,1
+others,5.9184,1
+others,5.928,1
+others,5.952,1
+others,5.955,1
+others,5.97,1
+others,5.9778,1
+others,5.9904,1
+others,5.997,1
+others,5.9988,1
+others,6.0025,1
+others,6.003,2
+others,6.0114,1
+others,6.0168,1
+others,6.0288,1
+others,6.0368,2
+others,6.045,1
+others,6.0632,1
+others,6.068,1
+others,6.0736,1
+others,6.074,2
+others,6.102,1
+others,6.104,2
+others,6.123,1
+others,6.1308,1
+others,6.1488,2
+others,6.15,1
+others,6.1572,1
+others,6.1704,1
+others,6.1992,1
+others,6.206,2
+others,6.2152,1
+others,6.216,1
+others,6.2208,21
+others,6.2244,1
+others,6.2292,1
+others,6.2376,1
+others,6.253,1
+others,6.255,1
+others,6.2856,1
+others,6.291,1
+others,6.2937,1
+others,6.2995,1
+others,6.321,1
+others,6.3504,4
+others,6.36,1
+others,6.3612,1
+others,6.3684,2
+others,6.372,1
+others,6.3744,1
+others,6.4128,1
+others,6.4206,2
+others,6.4308,1
+others,6.4368,1
+others,6.4428,1
+others,6.4584,1
+others,6.4638,1
+others,6.465,1
+others,6.47,1
+others,6.475,1
+others,6.4784,1
+others,6.4864,1
+others,6.5052,1
+others,6.5058,1
+others,6.512,2
+others,6.5164,1
+others,6.5435,1
+others,6.5472,1
+others,6.5569,2
+others,6.5688,1
+others,6.5904,1
+others,6.5975,1
+others,6.603,1
+others,6.615,1
+others,6.6177,1
+others,6.624,1
+others,6.63,2
+others,6.6312,2
+others,6.6352,1
+others,6.6468,1
+others,6.6584,2
+others,6.6588,1
+others,6.674,1
+others,6.6846,1
+others,6.6976,1
+others,6.7032,1
+others,6.704,1
+others,6.7048,2
+others,6.7068,1
+others,6.7116,1
+others,6.7176,2
+others,6.723,1
+others,6.7236,2
+others,6.7392,1
+others,6.7915,1
+others,6.792,1
+others,6.795,1
+others,6.7966,1
+others,6.799,1
+others,6.812,1
+others,6.8388,1
+others,6.854,1
+others,6.858,1
+others,6.8714,5
+others,6.8724,3
+others,6.8768,2
+others,6.8904,1
+others,6.8908,1
+others,6.8992,1
+others,6.9088,1
+others,6.9231,1
+others,6.924,1
+others,6.9372,1
+others,6.9384,1
+others,6.9654,1
+others,6.975,1
+others,6.9795,1
+others,6.9888,1
+others,6.999,1
+others,7.0044,1
+others,7.0048,1
+others,7.008,1
+others,7.0128,1
+others,7.0218,4
+others,7.049,1
+others,7.056,3
+others,7.0713,1
+others,7.08,1
+others,7.0854,1
+others,7.095,1
+others,7.098,1
+others,7.1196,1
+others,7.128,2
+others,7.1372,1
+others,7.1586,1
+others,7.1592,1
+others,7.1628,1
+others,7.1712,1
+others,7.196,1
+others,7.1976,1
+others,7.2,1
+others,7.2036,1
+others,7.2177,2
+others,7.25,2
+others,7.2576,8
+others,7.264,2
+others,7.2696,1
+others,7.2744,1
+others,7.3008,1
+others,7.308,1
+others,7.3451,1
+others,7.3872,1
+others,7.392,1
+others,7.4,1
+others,7.4172,1
+others,7.4368,1
+others,7.4376,1
+others,7.4496,1
+others,7.4571,1
+others,7.4655,1
+others,7.4694,1
+others,7.476,1
+others,7.4824,2
+others,7.4872,5
+others,7.524,1
+others,7.5284,1
+others,7.5371,2
+others,7.56,2
+others,7.5768,1
+others,7.584,2
+others,7.5864,1
+others,7.596,1
+others,7.5992,1
+others,7.6048,1
+others,7.605,1
+others,7.6284,1
+others,7.6494,1
+others,7.668,1
+others,7.68,1
+others,7.6869,1
+others,7.7,1
+others,7.7004,1
+others,7.7035,1
+others,7.745,2
+others,7.7679,1
+others,7.7728,1
+others,7.774,1
+others,7.7748,1
+others,7.776,1
+others,7.78,1
+others,7.7832,1
+others,7.7896,1
+others,7.8064,1
+others,7.8192,1
+others,7.8225,1
+others,7.85,1
+others,7.8936,1
+others,7.9086,1
+others,7.9128,1
+others,7.92,1
+others,7.9248,1
+others,7.945,1
+others,7.9548,1
+others,7.9662,1
+others,7.9724,1
+others,7.9794,1
+others,7.98,1
+others,7.9812,1
+others,7.9896,2
+others,7.992,1
+others,8.0178,1
+others,8.019,1
+others,8.022,1
+others,8.027,1
+others,8.0352,1
+others,8.048,1
+others,8.0652,1
+others,8.0712,1
+others,8.085,1
+others,8.098,1
+others,8.0997,2
+others,8.1072,1
+others,8.1168,1
+others,8.12,1
+others,8.1216,1
+others,8.1432,1
+others,8.194,1
+others,8.2062,2
+others,8.208,1
+others,8.2156,1
+others,8.2302,1
+others,8.2344,1
+others,8.236,1
+others,8.2616,1
+others,8.2688,1
+others,8.2764,1
+others,8.28,1
+others,8.2848,2
+others,8.2896,1
+others,8.2944,1
+others,8.2992,2
+others,8.3328,1
+others,8.34,1
+others,8.352,1
+others,8.3524,2
+others,8.3538,1
+others,8.3754,1
+others,8.381,1
+others,8.3868,1
+others,8.3916,1
+others,8.4071,1
+others,8.4096,1
+others,8.445,1
+others,8.4528,1
+others,8.4564,2
+others,8.4656,1
+others,8.4784,1
+others,8.498,1
+others,8.502,1
+others,8.5025,1
+others,8.532,1
+others,8.5372,1
+others,8.554,1
+others,8.5544,1
+others,8.5568,1
+others,8.5728,1
+others,8.5914,1
+others,8.6016,1
+others,8.6112,1
+others,8.6391,1
+others,8.6436,2
+others,8.662,1
+others,8.6715,1
+others,8.6736,1
+others,8.6744,1
+others,8.6855,1
+others,8.69,2
+others,8.694,1
+others,8.7138,2
+others,8.7145,1
+others,8.7168,1
+others,8.7285,1
+others,8.771,1
+others,8.7735,1
+others,8.7906,5
+others,8.799,1
+others,8.802,1
+others,8.8044,1
+others,8.8624,3
+others,8.8686,1
+others,8.88,2
+others,8.93,1
+others,8.9535,1
+others,8.9544,1
+others,8.955,1
+others,8.991,1
+others,8.997,2
+others,9.0,1
+others,9.0055,1
+others,9.0288,1
+others,9.0576,1
+others,9.0636,1
+others,9.072,3
+others,9.0912,1
+others,9.102,2
+others,9.12,3
+others,9.1312,1
+others,9.14,1
+others,9.1674,1
+others,9.1764,1
+others,9.1776,1
+others,9.1938,1
+others,9.198,1
+others,9.2178,1
+others,9.2322,1
+others,9.234,1
+others,9.2386,3
+others,9.25,1
+others,9.2552,1
+others,9.2556,1
+others,9.264,1
+others,9.2799,1
+others,9.294,1
+others,9.2988,1
+others,9.3,1
+others,9.302,1
+others,9.3024,1
+others,9.3125,1
+others,9.3152,1
+others,9.3184,1
+others,9.3228,1
+others,9.3312,17
+others,9.3444,1
+others,9.3504,1
+others,9.352,1
+others,9.3564,1
+others,9.3812,1
+others,9.387,1
+others,9.3906,1
+others,9.396,1
+others,9.4392,1
+others,9.47,1
+others,9.4924,1
+others,9.5032,1
+others,9.5081,1
+others,9.5088,1
+others,9.5256,1
+others,9.534,1
+others,9.5448,1
+others,9.5616,1
+others,9.5688,1
+others,9.5736,1
+others,9.594,1
+others,9.5992,1
+others,9.604,1
+others,9.6048,1
+others,9.6192,3
+others,9.63,2
+others,9.6632,1
+others,9.6712,2
+others,9.68,1
+others,9.6832,1
+others,9.6914,1
+others,9.6936,1
+others,9.6957,1
+others,9.702,1
+others,9.7092,1
+others,9.7119,1
+others,9.7164,3
+others,9.7328,1
+others,9.735,1
+others,9.75,1
+others,9.768,1
+others,9.816,2
+others,9.828,1
+others,9.8328,1
+others,9.8352,1
+others,9.855,1
+others,9.8625,1
+others,9.8658,1
+others,9.8784,2
+others,9.8856,3
+others,9.8901,1
+others,9.891,1
+others,9.936,1
+others,9.9468,1
+others,9.9522,1
+others,9.9652,2
+others,9.9882,1
+others,9.99,1
+others,10.008,1
+others,10.0116,1
+others,10.0128,1
+others,10.0282,1
+others,10.0572,1
+others,10.0624,1
+others,10.0744,1
+others,10.0772,1
+others,10.0792,1
+others,10.08,1
+others,10.089,1
+others,10.104,1
+others,10.1094,1
+others,10.203,1
+others,10.224,2
+others,10.3071,1
+others,10.3152,1
+others,10.3168,1
+others,10.327,1
+others,10.3488,1
+others,10.374,1
+others,10.3896,1
+others,10.3936,4
+others,10.395,1
+others,10.3974,1
+others,10.4148,2
+others,10.434,1
+others,10.44,1
+others,10.449,1
+others,10.4496,1
+others,10.465,1
+others,10.4754,1
+others,10.4875,1
+others,10.5,2
+others,10.5072,1
+others,10.5084,1
+others,10.512,2
+others,10.518,1
+others,10.5504,1
+others,10.5534,1
+others,10.5672,1
+others,10.5728,1
+others,10.6232,1
+others,10.647,2
+others,10.6794,1
+others,10.7301,1
+others,10.7424,1
+others,10.773,1
+others,10.7849,1
+others,10.7892,1
+others,10.794,1
+others,10.7964,1
+others,10.7996,1
+others,10.8,1
+others,10.8136,1
+others,10.8248,1
+others,10.8558,1
+others,10.8588,1
+others,10.8784,1
+others,10.881,3
+others,10.8864,6
+others,10.896,1
+others,10.906,1
+others,10.9096,1
+others,10.9584,1
+others,10.9602,1
+others,10.9698,2
+others,10.984,1
+others,11.0016,1
+others,11.0388,1
+others,11.0704,1
+others,11.076,2
+others,11.0808,1
+others,11.1024,3
+others,11.1176,1
+others,11.1384,1
+others,11.1564,1
+others,11.1672,1
+others,11.1825,1
+others,11.19,1
+others,11.2224,1
+others,11.223,2
+others,11.2308,2
+others,11.2476,1
+others,11.2752,1
+others,11.3148,1
+others,11.3288,1
+others,11.3512,1
+others,11.375,1
+others,11.376,1
+others,11.4452,1
+others,11.4516,1
+others,11.5164,1
+others,11.5432,3
+others,11.5584,1
+others,11.58,1
+others,11.586,1
+others,11.592,2
+others,11.5971,1
+others,11.6263,1
+others,11.673,1
+others,11.6795,1
+others,11.68,2
+others,11.685,1
+others,11.691,1
+others,11.7208,1
+others,11.7334,1
+others,11.7568,1
+others,11.7782,3
+others,11.8206,1
+others,11.8248,1
+others,11.8272,1
+others,11.8768,1
+others,11.88,2
+others,11.8871,1
+others,11.891,2
+others,11.898,1
+others,11.9196,1
+others,11.9412,1
+others,11.9586,1
+others,11.98,1
+others,11.9952,1
+others,11.998,1
+others,11.9988,1
+others,12.012,1
+others,12.0252,1
+others,12.0276,1
+others,12.0609,1
+others,12.098,1
+others,12.1032,1
+others,12.1149,1
+others,12.1348,2
+others,12.1728,1
+others,12.1758,1
+others,12.178,1
+others,12.18,1
+others,12.208,1
+others,12.231,1
+others,12.2328,1
+others,12.264,1
+others,12.3096,1
+others,12.3123,1
+others,12.3144,1
+others,12.432,1
+others,12.4416,8
+others,12.4752,1
+others,12.4902,1
+others,12.5118,1
+others,12.53,1
+others,12.5762,1
+others,12.586,1
+others,12.5928,1
+others,12.599,1
+others,12.6,1
+others,12.6468,1
+others,12.6592,1
+others,12.672,1
+others,12.6813,1
+others,12.691,2
+others,12.7008,5
+others,12.72,1
+others,12.7368,1
+others,12.7746,1
+others,12.7764,1
+others,12.8184,1
+others,12.8256,1
+others,12.8316,1
+others,12.838,1
+others,12.8568,2
+others,12.8574,1
+others,12.8583,1
+others,12.8744,2
+others,12.8928,1
+others,12.9024,1
+others,12.9584,1
+others,12.96,2
+others,12.974,1
+others,12.9792,1
+others,12.9888,1
+others,12.99,1
+others,12.993,2
+others,13.0,1
+others,13.0095,1
+others,13.0375,1
+others,13.0548,1
+others,13.064,1
+others,13.132,1
+others,13.17,1
+others,13.181,1
+others,13.188,1
+others,13.1956,2
+others,13.2,1
+others,13.208,1
+others,13.2288,1
+others,13.299,1
+others,13.3008,1
+others,13.3056,1
+others,13.3176,3
+others,13.32,1
+others,13.3245,1
+others,13.3476,1
+others,13.348,1
+others,13.365,2
+others,13.428,1
+others,13.4386,2
+others,13.452,1
+others,13.455,2
+others,13.482,1
+others,13.5626,1
+others,13.572,1
+others,13.5882,1
+others,13.674,1
+others,13.7016,1
+others,13.7176,1
+others,13.7646,1
+others,13.7808,1
+others,13.7862,1
+others,13.788,1
+others,13.7931,1
+others,13.8528,1
+others,13.8579,2
+others,13.8684,1
+others,13.878,1
+others,13.8915,4
+others,13.896,1
+others,13.9152,1
+others,13.92,1
+others,13.9328,1
+others,13.9392,1
+others,13.941,1
+others,13.9728,1
+others,13.984,1
+others,13.9986,1
+others,14.0712,1
+others,14.098,1
+others,14.1426,1
+others,14.144,1
+others,14.148,1
+others,14.161,2
+others,14.17,1
+others,14.202,1
+others,14.212,1
+others,14.2272,1
+others,14.2324,1
+others,14.256,1
+others,14.2632,1
+others,14.2688,1
+others,14.2992,1
+others,14.3136,1
+others,14.3376,1
+others,14.346,1
+others,14.3856,1
+others,14.3952,2
+others,14.4,1
+others,14.4096,1
+others,14.425,1
+others,14.43,1
+others,14.4354,1
+others,14.4495,1
+others,14.4596,1
+others,14.501,1
+others,14.5152,3
+others,14.5236,1
+others,14.547,1
+others,14.5584,1
+others,14.5614,1
+others,14.5638,1
+others,14.5728,2
+others,14.595,1
+others,14.6264,1
+others,14.628,1
+others,14.651,3
+others,14.677,1
+others,14.7,2
+others,14.7056,1
+others,14.7184,1
+others,14.7582,1
+others,14.7593,1
+others,14.8,1
+others,14.8707,1
+others,14.904,2
+others,14.9556,1
+others,14.9925,1
+others,14.995,1
+others,15.0156,1
+others,15.065,1
+others,15.0696,1
+others,15.0984,1
+others,15.1116,1
+others,15.1158,1
+others,15.1188,1
+others,15.147,1
+others,15.185,1
+others,15.192,1
+others,15.2208,1
+others,15.2388,1
+others,15.2712,1
+others,15.282,1
+others,15.336,1
+others,15.378,2
+others,15.387,1
+others,15.3888,1
+others,15.393,1
+others,15.408,1
+others,15.426,1
+others,15.44,1
+others,15.468,1
+others,15.4752,2
+others,15.49,3
+others,15.5092,1
+others,15.5204,1
+others,15.5232,1
+others,15.525,4
+others,15.5288,1
+others,15.5344,1
+others,15.5372,1
+others,15.552,12
+others,15.5856,1
+others,15.5904,1
+others,15.594,1
+others,15.5961,1
+others,15.599,1
+others,15.6078,1
+others,15.6332,1
+others,15.6375,1
+others,15.6426,1
+others,15.6744,1
+others,15.6768,1
+others,15.68,1
+others,15.6884,1
+others,15.6978,1
+others,15.7248,1
+others,15.7584,1
+others,15.764,2
+others,15.777,1
+others,15.8256,2
+others,15.8376,1
+others,15.8631,1
+others,15.8756,1
+others,15.876,1
+others,15.921,1
+others,15.9348,1
+others,15.9384,1
+others,15.9543,1
+others,15.9792,1
+others,15.9912,1
+others,15.992,1
+others,16.0056,1
+others,16.1096,1
+others,16.146,2
+others,16.1504,1
+others,16.1568,1
+others,16.17,1
+others,16.175,1
+others,16.1838,1
+others,16.1868,1
+others,16.194,1
+others,16.196,1
+others,16.2099,1
+others,16.2342,1
+others,16.2688,2
+others,16.296,1
+others,16.3172,2
+others,16.3352,2
+others,16.362,1
+others,16.3737,1
+others,16.3863,1
+others,16.398,1
+others,16.4052,1
+others,16.4403,1
+others,16.5186,1
+others,16.5242,1
+others,16.5354,1
+others,16.5564,1
+others,16.614,1
+others,16.6536,1
+others,16.6568,1
+others,16.6796,1
+others,16.7034,1
+others,16.704,1
+others,16.7132,1
+others,16.7508,1
+others,16.7832,1
+others,16.7875,1
+others,16.7886,1
+others,16.7986,1
+others,16.8,2
+others,16.8413,1
+others,16.8544,1
+others,16.875,1
+others,16.8948,1
+others,16.956,1
+others,17.0981,1
+others,17.127,1
+others,17.1574,1
+others,17.16,1
+others,17.22,1
+others,17.2224,1
+others,17.253,1
+others,17.27,1
+others,17.324,1
+others,17.3488,1
+others,17.3712,1
+others,17.3754,2
+others,17.38,1
+others,17.4064,1
+others,17.524,1
+others,17.5812,1
+others,17.6391,1
+others,17.6673,1
+others,17.745,2
+others,17.76,2
+others,17.766,1
+others,17.8152,1
+others,17.847,2
+others,17.8794,1
+others,17.891,1
+others,17.908,1
+others,17.9634,1
+others,17.9684,1
+others,17.982,1
+others,17.994,2
+others,17.9982,2
+others,18.0,1
+others,18.0648,1
+others,18.09,2
+others,18.093,1
+others,18.1176,1
+others,18.1764,1
+others,18.2112,2
+others,18.3276,1
+others,18.3456,1
+others,18.3908,1
+others,18.4464,1
+others,18.447,1
+others,18.4632,1
+others,18.504,1
+others,18.5274,1
+others,18.5886,1
+others,18.5976,1
+others,18.6006,1
+others,18.6606,1
+others,18.6624,5
+others,18.684,1
+others,18.6872,1
+others,18.715,1
+others,18.767,1
+others,18.7695,1
+others,18.7812,2
+others,18.821,1
+others,18.873,1
+others,18.8784,1
+others,18.8937,3
+others,18.8993,1
+others,18.94,1
+others,18.96,1
+others,18.9702,1
+others,19.035,1
+others,19.0386,1
+others,19.08,1
+others,19.0848,2
+others,19.176,1
+others,19.1808,1
+others,19.188,1
+others,19.194,1
+others,19.2384,3
+others,19.2454,1
+others,19.2556,1
+others,19.296,1
+others,19.3314,1
+others,19.3932,1
+others,19.41,1
+others,19.4194,1
+others,19.435,1
+others,19.4352,1
+others,19.4376,1
+others,19.458,1
+others,19.4688,1
+others,19.6224,1
+others,19.6328,1
+others,19.656,1
+others,19.6686,1
+others,19.7316,1
+others,19.7358,1
+others,19.755,2
+others,19.7712,1
+others,19.7714,1
+others,19.797,1
+others,19.8072,1
+others,19.8144,1
+others,19.824,1
+others,19.8254,1
+others,19.8276,2
+others,19.872,1
+others,19.95,2
+others,19.9665,2
+others,19.9746,1
+others,19.99,1
+others,19.998,1
+others,20.0156,1
+others,20.0392,1
+others,20.0851,1
+others,20.097,1
+others,20.1015,1
+others,20.1207,1
+others,20.1248,1
+others,20.155,2
+others,20.1558,2
+others,20.1579,2
+others,20.1584,1
+others,20.1656,1
+others,20.1708,1
+others,20.196,1
+others,20.21,1
+others,20.3439,1
+others,20.392,1
+others,20.485,1
+others,20.4984,1
+others,20.538,1
+others,20.5764,1
+others,20.5842,2
+others,20.585,2
+others,20.586,1
+others,20.6336,1
+others,20.6816,1
+others,20.6946,1
+others,20.6976,1
+others,20.7,1
+others,20.724,1
+others,20.727,1
+others,20.7328,1
+others,20.7332,1
+others,20.7459,1
+others,20.7675,1
+others,20.8494,1
+others,20.8568,1
+others,20.8719,1
+others,20.9208,1
+others,20.967,1
+others,20.975,1
+others,21.0,1
+others,21.0128,5
+others,21.024,1
+others,21.0288,1
+others,21.1428,1
+others,21.164,1
+others,21.228,1
+others,21.2856,1
+others,21.294,1
+others,21.33,1
+others,21.3408,1
+others,21.4032,1
+others,21.4074,1
+others,21.5397,1
+others,21.5824,1
+others,21.591,1
+others,21.5928,1
+others,21.6,1
+others,21.645,1
+others,21.714,2
+others,21.7515,3
+others,21.7532,1
+others,21.7728,4
+others,21.7845,1
+others,21.99,1
+others,21.9945,1
+others,21.996,1
+others,22.0077,1
+others,22.0748,2
+others,22.1184,1
+others,22.1536,1
+others,22.156,1
+others,22.2,3
+others,22.2444,1
+others,22.246,1
+others,22.2516,1
+others,22.298,1
+others,22.3548,2
+others,22.3776,1
+others,22.3888,1
+others,22.4448,1
+others,22.518,1
+others,22.5296,1
+others,22.5408,1
+others,22.5852,1
+others,22.6275,1
+others,22.6296,1
+others,22.653,1
+others,22.6764,1
+others,22.6782,4
+others,22.788,1
+others,22.792,1
+others,22.8285,1
+others,22.8582,1
+others,22.869,1
+others,22.89,1
+others,22.9488,1
+others,22.9885,1
+others,22.992,1
+others,23.004,1
+others,23.028,2
+others,23.0864,2
+others,23.0965,1
+others,23.1168,1
+others,23.1192,1
+others,23.184,1
+others,23.232,1
+others,23.235,4
+others,23.2624,1
+others,23.31,1
+others,23.316,1
+others,23.3163,1
+others,23.3184,1
+others,23.384,1
+others,23.4,1
+others,23.4192,1
+others,23.4552,1
+others,23.49,1
+others,23.4976,1
+others,23.5248,2
+others,23.5764,1
+others,23.59,1
+others,23.6529,2
+others,23.6808,1
+others,23.7564,1
+others,23.7742,1
+others,23.7744,1
+others,23.7993,1
+others,23.808,1
+others,23.8581,1
+others,23.8986,1
+others,23.94,1
+others,23.9463,1
+others,23.9904,1
+others,23.992,1
+others,23.997,1
+others,23.9984,1
+others,24.1224,1
+others,24.1918,1
+others,24.196,2
+others,24.2285,1
+others,24.2352,1
+others,24.316,1
+others,24.318,1
+others,24.3824,1
+others,24.4768,2
+others,24.5998,1
+others,24.7275,1
+others,24.84,2
+others,24.882,1
+others,24.8832,3
+others,24.9132,2
+others,24.9804,1
+others,24.998,1
+others,24.9984,1
+others,25.011,1
+others,25.0182,2
+others,25.0536,1
+others,25.06,1
+others,25.098,1
+others,25.1225,1
+others,25.1496,1
+others,25.172,1
+others,25.176,1
+others,25.1808,1
+others,25.1916,2
+others,25.1944,1
+others,25.198,1
+others,25.2213,1
+others,25.245,1
+others,25.2784,1
+others,25.424,1
+others,25.4384,2
+others,25.47,1
+others,25.5528,1
+others,25.5798,1
+others,25.5968,2
+others,25.792,1
+others,25.872,1
+others,25.875,1
+others,25.898,1
+others,25.8984,1
+others,26.1096,1
+others,26.271,1
+others,26.3494,1
+others,26.3912,1
+others,26.3934,1
+others,26.3967,1
+others,26.4132,1
+others,26.544,1
+others,26.564,1
+others,26.5905,1
+others,26.598,1
+others,26.6304,2
+others,26.649,2
+others,26.6616,1
+others,26.703,1
+others,26.824,1
+others,26.865,1
+others,26.901,1
+others,26.9024,1
+others,26.973,1
+others,26.985,1
+others,26.9973,1
+others,27.0112,1
+others,27.0578,1
+others,27.2412,1
+others,27.3168,1
+others,27.3528,1
+others,27.3592,1
+others,27.3735,1
+others,27.4344,1
+others,27.4352,1
+others,27.4365,1
+others,27.441,1
+others,27.4856,1
+others,27.5292,1
+others,27.608,1
+others,27.69,1
+others,27.7182,1
+others,27.882,2
+others,27.9108,1
+others,27.9936,1
+others,28.0876,1
+others,28.1421,1
+others,28.1718,3
+others,28.217,1
+others,28.3095,2
+others,28.3479,1
+others,28.41,1
+others,28.4364,1
+others,28.4809,1
+others,28.629,1
+others,28.65,1
+others,28.6578,1
+others,28.7064,3
+others,28.7679,1
+others,28.7856,1
+others,28.7964,2
+others,28.8576,2
+others,28.896,1
+others,28.95,1
+others,28.959,1
+others,29.0325,1
+others,29.1424,1
+others,29.1456,1
+others,29.2716,1
+others,29.2857,1
+others,29.3412,1
+others,29.358,1
+others,29.364,1
+others,29.4372,1
+others,29.495,1
+others,29.5186,1
+others,29.5626,1
+others,29.692,2
+others,29.7408,1
+others,29.769,1
+others,29.952,1
+others,29.9646,1
+others,29.9808,1
+others,29.985,1
+others,30.0144,1
+others,30.0234,1
+others,30.09,1
+others,30.0957,1
+others,30.186,1
+others,30.1968,1
+others,30.2112,2
+others,30.2384,1
+others,30.392,1
+others,30.415,1
+others,30.432,1
+others,30.4776,1
+others,30.52,1
+others,30.6054,1
+others,30.7008,1
+others,30.7168,1
+others,30.7776,1
+others,30.7818,1
+others,30.786,1
+others,30.7872,1
+others,30.98,1
+others,30.99,1
+others,30.9918,1
+others,31.0446,1
+others,31.0688,1
+others,31.0856,1
+others,31.0912,1
+others,31.188,1
+others,31.198,2
+others,31.2736,1
+others,31.2832,1
+others,31.4685,1
+others,31.47,1
+others,31.4712,1
+others,31.4895,1
+others,31.5192,1
+others,31.5776,1
+others,31.587,2
+others,31.6,1
+others,31.7512,1
+others,31.8892,1
+others,31.941,1
+others,31.984,1
+others,32.0598,1
+others,32.098,1
+others,32.16,1
+others,32.1678,1
+others,32.2514,1
+others,32.392,1
+others,32.3982,1
+others,32.4,1
+others,32.4342,1
+others,32.4684,1
+others,32.4688,1
+others,32.4862,1
+others,32.5376,1
+others,32.925,1
+others,32.936,1
+others,33.0288,1
+others,33.0368,1
+others,33.1584,1
+others,33.2156,1
+others,33.3124,1
+others,33.5772,1
+others,33.5892,1
+others,33.64,1
+others,33.7212,1
+others,33.8598,1
+others,33.8744,1
+others,33.9388,1
+others,33.995,1
+others,34.0704,1
+others,34.1784,1
+others,34.2925,1
+others,34.294,1
+others,34.3548,1
+others,34.3896,1
+others,34.4148,1
+others,34.5,1
+others,34.539,1
+others,34.6983,1
+others,34.742,2
+others,34.758,1
+others,34.7802,1
+others,34.8128,1
+others,34.8928,1
+others,34.96,1
+others,34.9648,1
+others,34.974,1
+others,34.993,1
+others,34.9965,2
+others,35.099,1
+others,35.156,1
+others,35.196,1
+others,35.2604,1
+others,35.2772,1
+others,35.2872,1
+others,35.3346,2
+others,35.49,1
+others,35.6238,1
+others,35.6346,1
+others,35.6776,2
+others,35.694,1
+others,35.76,1
+others,35.8644,1
+others,35.982,1
+others,35.985,1
+others,35.988,1
+others,35.9964,2
+others,36.1827,1
+others,36.2835,1
+others,36.2877,1
+others,36.3972,1
+others,36.3987,1
+others,36.4044,1
+others,36.4473,1
+others,36.4736,1
+others,36.4776,1
+others,36.5742,1
+others,36.693,2
+others,36.8245,1
+others,37.0,2
+others,37.23,1
+others,37.236,1
+others,37.4144,1
+others,37.534,1
+others,37.5624,2
+others,37.6422,1
+others,37.758,1
+others,37.7874,2
+others,37.7916,1
+others,37.797,1
+others,37.7972,1
+others,37.884,1
+others,37.9176,1
+others,38.024,1
+others,38.038,1
+others,38.08,1
+others,38.0864,1
+others,38.178,1
+others,38.2095,1
+others,38.2668,1
+others,38.29,1
+others,38.3238,1
+others,38.3572,2
+others,38.376,1
+others,38.396,1
+others,38.61,1
+others,38.6848,1
+others,38.7792,1
+others,38.97,1
+others,38.9752,1
+others,39.4255,1
+others,39.4268,1
+others,39.4438,1
+others,39.55,1
+others,39.564,1
+others,39.7488,1
+others,39.8736,1
+others,39.8886,1
+others,39.948,1
+others,39.98,1
+others,40.0036,1
+others,40.1702,1
+others,40.274,1
+others,40.3536,2
+others,40.3704,1
+others,40.376,1
+others,40.416,1
+others,40.473,1
+others,40.5168,1
+others,40.5867,1
+others,40.8006,1
+others,40.9216,1
+others,41.013,1
+others,41.0216,1
+others,41.0388,2
+others,41.1332,1
+others,41.1684,1
+others,41.262,1
+others,41.2938,1
+others,41.3928,1
+others,41.496,1
+others,41.535,1
+others,41.68,1
+others,41.7186,1
+others,41.76,1
+others,41.7852,1
+others,41.823,1
+others,41.934,1
+others,41.986,2
+others,41.9958,1
+others,41.9965,1
+others,42.0186,1
+others,42.0256,1
+others,42.0355,1
+others,42.045,1
+others,42.048,1
+others,42.225,1
+others,42.3625,2
+others,42.392,1
+others,42.4647,1
+others,42.495,1
+others,42.747,1
+others,42.8805,1
+others,42.8935,1
+others,42.9914,3
+others,43.176,1
+others,43.1976,1
+others,43.2234,2
+others,43.4217,1
+others,43.4646,1
+others,43.5981,2
+others,43.6752,1
+others,43.7136,1
+others,43.7842,1
+others,43.9956,2
+others,44.2425,1
+others,44.4,1
+others,44.4704,1
+others,44.4768,1
+others,44.712,1
+others,44.868,1
+others,44.8896,1
+others,44.975,1
+others,44.9925,1
+others,45.294,2
+others,45.3488,1
+others,45.4671,1
+others,45.528,3
+others,45.5392,1
+others,45.555,1
+others,45.588,1
+others,45.7704,1
+others,45.84,2
+others,45.954,1
+others,45.9754,3
+others,46.116,1
+others,46.1184,2
+others,46.1968,1
+others,46.5432,1
+others,46.575,1
+others,46.632,1
+others,46.8,1
+others,46.9278,1
+others,47.0548,1
+others,47.46,1
+others,47.6604,1
+others,47.8065,1
+others,47.8152,1
+others,47.844,1
+others,47.848,1
+others,47.8629,1
+others,47.92,1
+others,47.952,1
+others,47.96,1
+others,47.98,1
+others,48.118,1
+others,48.3136,1
+others,48.3771,1
+others,48.4575,1
+others,48.5392,3
+others,48.5514,2
+others,48.632,1
+others,48.7011,1
+others,48.796,1
+others,48.8064,1
+others,48.906,2
+others,48.94,2
+others,48.9516,1
+others,48.9645,1
+others,48.993,1
+others,48.9942,2
+others,49.105,1
+others,49.23,1
+others,49.2576,1
+others,49.4376,1
+others,49.4982,1
+others,49.6048,1
+others,49.716,1
+others,49.8042,1
+others,49.8435,1
+others,49.92,1
+others,49.9704,4
+others,50.098,1
+others,50.12,1
+others,50.2425,1
+others,50.328,1
+others,50.352,1
+others,50.3658,1
+others,50.3832,1
+others,50.396,1
+others,50.3988,1
+others,50.49,1
+others,50.5632,1
+others,50.5848,1
+others,50.8254,1
+others,50.8768,1
+others,50.9898,1
+others,51.57,1
+others,51.6558,1
+others,51.75,2
+others,51.759,1
+others,51.8312,1
+others,51.8346,2
+others,52.1262,1
+others,52.14,1
+others,52.3764,1
+others,52.4895,1
+others,52.49,1
+others,52.493,1
+others,52.4979,1
+others,52.5114,1
+others,52.532,1
+others,52.6344,1
+others,52.688,1
+others,52.7956,1
+others,52.9173,3
+others,52.9743,1
+others,53.0439,1
+others,53.196,1
+others,53.2,1
+others,53.2608,1
+others,53.272,1
+others,53.7504,1
+others,53.8608,2
+others,53.9217,1
+others,53.997,1
+others,54.04,1
+others,54.0876,1
+others,54.215,1
+others,54.3332,1
+others,54.3438,1
+others,54.3528,1
+others,54.3966,1
+others,54.4448,1
+others,54.558,1
+others,54.5916,1
+others,54.6912,2
+others,54.7136,1
+others,54.7425,1
+others,54.7756,1
+others,54.8604,1
+others,54.9504,1
+others,54.9976,1
+others,55.016,1
+others,55.0584,1
+others,55.3616,1
+others,55.3896,1
+others,55.647,1
+others,55.896,1
+others,55.912,1
+others,55.9224,1
+others,55.936,1
+others,56.0547,1
+others,56.1752,1
+others,56.2032,1
+others,56.2744,1
+others,56.301,2
+others,56.55,2
+others,56.7864,1
+others,56.9772,3
+others,57.4113,1
+others,57.5016,1
+others,57.5904,1
+others,57.5928,2
+others,58.464,1
+others,58.66,1
+others,58.812,1
+others,58.9192,1
+others,59.0112,1
+others,59.115,1
+others,59.4355,1
+others,59.493,1
+others,59.6556,1
+others,59.998,1
+others,60.1398,1
+others,60.1412,1
+others,60.2553,2
+others,60.356,1
+others,60.392,1
+others,60.4224,1
+others,60.49,1
+others,60.5488,1
+others,60.5528,2
+others,60.6645,1
+others,61.3824,1
+others,61.389,1
+others,61.96,1
+others,62.0368,1
+others,62.1544,1
+others,62.737,1
+others,62.748,1
+others,62.8075,2
+others,62.82,1
+others,62.9064,1
+others,62.93,1
+others,62.988,2
+others,63.135,1
+others,63.4368,1
+others,63.6825,1
+others,63.7536,1
+others,63.984,1
+others,64.0728,1
+others,64.2,2
+others,64.518,2
+others,64.6272,1
+others,64.7568,1
+others,64.7856,1
+others,64.7892,1
+others,65.435,2
+others,65.978,1
+others,65.9934,1
+others,66.0736,1
+others,66.1451,1
+others,66.3264,1
+others,66.5408,1
+others,66.6,1
+others,66.6272,1
+others,66.6351,1
+others,66.9546,1
+others,67.1916,1
+others,67.2742,1
+others,67.495,1
+others,67.608,1
+others,67.6599,1
+others,67.99,1
+others,67.992,1
+others,68.001,1
+others,68.12,1
+others,68.3332,1
+others,68.364,1
+others,68.8464,2
+others,68.976,1
+others,69.1992,1
+others,69.6762,1
+others,69.705,4
+others,69.92,1
+others,69.986,1
+others,69.999,1
+others,70.008,1
+others,70.0977,1
+others,70.1784,1
+others,70.1955,1
+others,70.196,1
+others,70.198,1
+others,70.219,1
+others,70.312,1
+others,70.5028,1
+others,70.5456,1
+others,70.5544,1
+others,70.9644,1
+others,71.2296,2
+others,71.2476,1
+others,71.2692,1
+others,71.3898,1
+others,71.5375,1
+others,71.772,1
+others,71.97,1
+others,71.99,1
+others,71.991,1
+others,71.9952,1
+others,72.6408,1
+others,72.807,1
+others,72.8946,1
+others,72.948,1
+others,73.321,1
+others,73.41,2
+others,73.5448,1
+others,74.0532,1
+others,74.5654,1
+others,74.574,1
+others,74.691,1
+others,74.8098,1
+others,74.8142,3
+others,74.8524,1
+others,74.9985,1
+others,75.3732,1
+others,75.5748,1
+others,75.6548,1
+others,75.68,1
+others,75.735,1
+others,76.0878,2
+others,76.272,1
+others,76.4,1
+others,76.47,1
+others,76.5484,1
+others,76.5583,1
+others,76.6395,2
+others,76.7904,1
+others,77.3696,1
+others,77.4837,2
+others,77.5764,1
+others,77.672,1
+others,77.714,1
+others,77.8232,1
+others,78.1954,1
+others,78.3888,1
+others,78.5088,1
+others,78.6508,1
+others,78.672,1
+others,78.851,1
+others,78.8592,1
+others,78.9412,1
+others,78.9516,2
+others,79.692,1
+others,79.758,1
+others,79.794,1
+others,79.8912,3
+others,80.0199,1
+others,80.3208,1
+others,80.4839,1
+others,80.6285,1
+others,80.736,1
+others,80.784,1
+others,80.7912,2
+others,80.843,1
+others,81.1314,1
+others,81.1734,1
+others,81.2646,1
+others,81.583,1
+others,81.5949,1
+others,81.744,1
+others,81.8432,1
+others,82.0776,1
+others,82.2906,1
+others,82.3368,1
+others,82.992,1
+others,83.2097,2
+others,83.2508,1
+others,83.281,1
+others,83.284,1
+others,83.314,1
+others,83.5128,1
+others,83.646,1
+others,83.868,1
+others,83.986,1
+others,83.9916,1
+others,83.9944,1
+others,84.0512,2
+others,84.2352,1
+others,84.51,1
+others,84.5154,1
+others,84.5728,1
+others,84.5982,1
+others,84.9436,1
+others,85.1816,1
+others,85.2475,1
+others,85.491,1
+others,85.904,1
+others,85.9818,2
+others,86.25,1
+others,86.3856,1
+others,86.3928,1
+others,87.3504,1
+others,87.5684,1
+others,87.89,1
+others,88.0299,1
+others,88.1295,1
+others,88.1804,1
+others,88.3932,1
+others,88.725,1
+others,89.307,1
+others,89.3142,2
+others,89.5888,2
+others,89.7792,1
+others,89.9548,1
+others,89.991,1
+others,89.997,2
+others,90.2871,1
+others,90.588,1
+others,90.735,1
+others,90.9762,1
+others,91.056,1
+others,91.152,1
+others,91.3248,1
+others,91.7728,1
+others,91.7892,1
+others,91.9508,3
+others,91.968,1
+others,92.0835,1
+others,92.2368,1
+others,92.3936,1
+others,93.0552,1
+others,93.204,1
+others,93.24,1
+others,93.5816,1
+others,93.594,1
+others,93.5948,1
+others,93.6988,2
+others,94.0702,1
+others,94.2784,1
+others,94.4937,1
+others,94.962,1
+others,95.1888,1
+others,95.2,1
+others,95.586,1
+others,95.9904,1
+others,96.3438,1
+others,96.416,1
+others,96.576,1
+others,96.8544,1
+others,97.4586,1
+others,97.6524,1
+others,98.105,1
+others,98.1396,1
+others,98.2722,1
+others,98.4802,1
+others,99.23,2
+others,99.296,1
+others,99.432,2
+others,99.9012,1
+others,100.122,1
+others,100.196,1
+others,100.4255,1
+others,100.656,2
+others,100.7316,1
+others,101.3832,1
+others,101.4504,1
+others,102.186,1
+others,102.2784,1
+others,102.4998,1
+others,102.9444,1
+others,102.9528,2
+others,103.158,1
+others,103.2284,1
+others,103.8015,1
+others,103.8982,1
+others,103.9992,1
+others,104.7222,1
+others,105.0228,1
+others,105.2468,1
+others,105.275,1
+others,105.297,1
+others,105.468,1
+others,105.8316,1
+others,106.5408,1
+others,106.6248,1
+others,106.9578,1
+others,107.0388,1
+others,107.082,2
+others,107.346,1
+others,107.46,1
+others,107.7216,1
+others,107.9892,1
+others,108.7408,1
+others,109.3338,1
+others,109.422,1
+others,109.7208,1
+others,109.7226,1
+others,109.7544,1
+others,110.0528,1
+others,111.1035,1
+others,111.3024,1
+others,111.517,1
+others,111.5688,1
+others,111.591,2
+others,111.774,1
+others,111.824,1
+others,112.224,1
+others,112.3508,1
+others,112.4064,1
+others,112.422,1
+others,112.4928,1
+others,112.574,1
+others,112.788,2
+others,113.211,1
+others,113.3055,1
+others,113.6742,1
+others,113.9886,1
+others,113.998,1
+others,114.6285,1
+others,114.9385,1
+others,114.96,1
+others,114.9954,1
+others,116.2425,1
+others,116.3904,1
+others,116.872,1
+others,117.0104,1
+others,117.432,1
+others,118.3413,1
+others,118.3704,1
+others,118.6575,1
+others,118.983,1
+others,118.9965,1
+others,119.686,1
+others,120.5106,1
+others,120.9416,1
+others,121.1056,1
+others,121.4416,1
+others,121.9644,1
+others,121.99,1
+others,122.2936,1
+others,122.3856,1
+others,122.7648,1
+others,123.4737,1
+others,123.7691,1
+others,124.485,1
+others,124.6752,1
+others,124.68,1
+others,125.1432,1
+others,125.3,1
+others,125.469,1
+others,125.5824,1
+others,125.9874,1
+others,126.0558,1
+others,126.225,1
+others,126.8973,1
+others,129.294,1
+others,129.348,1
+others,129.3786,1
+others,129.384,1
+others,129.9974,1
+others,130.2885,1
+others,130.7581,1
+others,130.87,1
+others,131.0296,1
+others,131.355,2
+others,132.5898,1
+others,133.152,1
+others,133.9713,1
+others,134.3888,1
+others,134.652,2
+others,135.219,1
+others,135.4068,1
+others,135.456,1
+others,135.98,1
+others,136.08,1
+others,137.151,2
+others,137.264,1
+others,137.2896,1
+others,137.54,1
+others,138.2016,1
+others,138.3552,1
+others,138.417,1
+others,139.986,1
+others,140.396,1
+others,140.5482,1
+others,140.5957,1
+others,140.686,1
+others,141.1644,2
+others,141.723,1
+others,143.1918,1
+others,143.6288,1
+others,143.982,1
+others,143.9968,1
+others,144.3546,1
+others,145.0696,1
+others,145.2816,1
+others,145.782,1
+others,146.4036,1
+others,147.475,1
+others,148.1064,1
+others,148.491,1
+others,148.5106,1
+others,148.704,2
+others,149.148,1
+others,149.382,1
+others,149.8956,1
+others,150.36,1
+others,150.384,1
+others,150.984,1
+others,151.47,1
+others,152.0232,3
+others,152.495,1
+others,153.0819,1
+others,155.25,1
+others,155.727,1
+others,157.1292,1
+others,157.3632,1
+others,160.0398,1
+others,160.1766,1
+others,160.623,3
+others,160.9139,1
+others,161.19,1
+others,161.9919,1
+others,162.0948,1
+others,163.7874,1
+others,164.997,2
+others,165.2868,1
+others,165.7176,1
+others,166.0698,1
+others,168.4704,1
+others,169.182,1
+others,170.5113,1
+others,170.9316,1
+others,171.9914,1
+others,172.3384,1
+others,172.4814,1
+others,173.0316,1
+others,173.235,1
+others,174.9825,1
+others,175.5156,1
+others,176.386,1
+others,176.8026,1
+others,177.5889,2
+others,178.8,1
+others,178.901,1
+others,178.91,1
+others,179.1888,1
+others,179.73,1
+others,180.7659,1
+others,181.176,1
+others,181.9818,1
+others,182.3553,1
+others,184.26,1
+others,185.2578,1
+others,188.2192,1
+others,189.4046,1
+others,193.32,1
+others,195.9944,2
+others,196.6132,1
+others,196.686,1
+others,197.353,1
+others,200.49,1
+others,202.2528,1
+others,203.5644,1
+others,206.316,1
+others,206.6232,1
+others,207.147,1
+others,209.2365,1
+others,209.993,1
+others,210.4942,1
+others,210.735,1
+others,212.1876,1
+others,213.6888,1
+others,213.7044,1
+others,213.735,1
+others,217.767,1
+others,218.2518,1
+others,219.4416,2
+others,219.4514,1
+others,219.6546,1
+others,220.987,1
+others,222.588,1
+others,223.2855,1
+others,223.9936,1
+others,224.2674,1
+others,225.6,1
+others,226.7946,1
+others,227.205,1
+others,228.0792,1
+others,229.3018,1
+others,229.9908,1
+others,233.2204,1
+others,235.9524,1
+others,236.2325,1
+others,238.653,2
+others,239.9058,1
+others,239.976,1
+others,239.985,1
+others,240.2649,1
+others,240.8595,1
+others,241.1046,1
+others,244.2496,2
+others,244.6155,1
+others,245.021,1
+others,247.485,1
+others,247.996,1
+others,251.202,1
+others,251.8911,1
+others,258.696,1
+others,259.5297,1
+others,260.6112,1
+others,265.4232,1
+others,266.4522,1
+others,271.4192,1
+others,272.792,2
+others,274.386,1
+others,274.995,2
+others,275.478,1
+others,280.59,1
+others,282.2092,1
+others,284.1855,1
+others,284.98,1
+others,285.9896,1
+others,290.0058,1
+others,291.3778,1
+others,293.9804,1
+others,294.5488,1
+others,294.671,1
+others,296.0671,1
+others,297.6435,1
+others,301.968,2
+others,302.373,1
+others,305.13,2
+others,306.4894,1
+others,310.9872,1
+others,311.652,1
+others,311.9948,1
+others,314.0586,1
+others,314.8418,1
+others,314.9895,1
+others,315.7404,1
+others,315.8118,1
+others,315.825,1
+others,316.1392,1
+others,316.8825,1
+others,318.3016,1
+others,327.5818,1
+others,327.5922,1
+others,329.994,1
+others,331.191,3
+others,334.1142,1
+others,336.635,1
+others,346.0396,1
+others,350.427,1
+others,356.225,1
+others,357.1911,1
+others,361.2994,1
+others,362.687,1
+others,362.835,1
+others,374.3792,1
+others,374.6286,1
+others,378.274,1
+others,383.931,1
+others,385.3752,1
+others,387.5676,1
+others,390.977,1
+others,394.268,1
+others,406.7154,1
+others,407.1288,1
+others,412.468,1
+others,415.9896,1
+others,421.5853,1
+others,427.4368,1
+others,449.985,1
+others,449.991,2
+others,459.396,1
+others,467.9922,1
+others,481.47,1
+others,481.869,1
+others,485.9892,1
+others,493.7856,1
+others,496.0725,1
+others,496.7865,1
+others,503.7822,1
+others,517.4793,1
+others,523.7052,1
+others,527.984,1
+others,539.2464,1
+others,544.4175,1
+others,580.5394,1
+others,582.232,1
+others,585.552,1
+others,601.9699,1
+others,621.9744,1
+others,624.9875,1
+others,635.495,1
+others,648.5624,1
+others,654.7554,1
+others,673.8816,1
+others,701.9883,1
+others,726.5619,1
+others,735.0336,1
+others,742.632,1
+others,743.988,1
+others,751.9624,1
+others,757.4112,1
+others,770.352,1
+others,793.716,1
+others,839.986,1
+others,843.1706,3
+others,899.982,1
+others,1013.127,1
+others,1228.1787,1
+others,1264.7559,1
+others,1276.4871,1
+others,1379.977,1
+others,1416.8,1
+others,1439.976,1
+others,1459.2,1
+others,1644.2913,1
+others,1906.485,2
+others,2365.9818,1
+others,2400.9657,1
+others,2591.9568,1
+others,3177.475,1
+others,4630.4755,1
+others,8399.976,1

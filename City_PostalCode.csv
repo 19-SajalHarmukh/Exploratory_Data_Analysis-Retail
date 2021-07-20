@@ -1,0 +1,85 @@
+City,Category,Ship Mode
+Arlington,Furniture,13
+Arlington,Office Supplies,37
+Arlington,Technology,10
+Aurora,Furniture,21
+Aurora,Office Supplies,37
+Aurora,Technology,10
+Charlotte,Furniture,6
+Charlotte,Office Supplies,33
+Charlotte,Technology,13
+Chicago,Furniture,68
+Chicago,Office Supplies,187
+Chicago,Technology,59
+Columbia,Furniture,18
+Columbia,Office Supplies,52
+Columbia,Technology,11
+Columbus,Furniture,48
+Columbus,Office Supplies,135
+Columbus,Technology,39
+Dallas,Furniture,27
+Dallas,Office Supplies,104
+Dallas,Technology,26
+Detroit,Furniture,28
+Detroit,Office Supplies,65
+Detroit,Technology,22
+Henderson,Furniture,15
+Henderson,Office Supplies,32
+Henderson,Technology,4
+Houston,Furniture,81
+Houston,Office Supplies,231
+Houston,Technology,65
+Jackson,Furniture,13
+Jackson,Office Supplies,51
+Jackson,Technology,18
+Jacksonville,Furniture,24
+Jacksonville,Office Supplies,73
+Jacksonville,Technology,28
+Long Beach,Furniture,9
+Long Beach,Office Supplies,43
+Long Beach,Technology,9
+Los Angeles,Furniture,154
+Los Angeles,Office Supplies,443
+Los Angeles,Technology,150
+Louisville,Furniture,16
+Louisville,Office Supplies,29
+Louisville,Technology,12
+Miami,Furniture,8
+Miami,Office Supplies,39
+Miami,Technology,10
+New York City,Furniture,192
+New York City,Office Supplies,552
+New York City,Technology,171
+Newark,Furniture,18
+Newark,Office Supplies,54
+Newark,Technology,23
+Philadelphia,Furniture,111
+Philadelphia,Office Supplies,312
+Philadelphia,Technology,114
+Phoenix,Furniture,14
+Phoenix,Office Supplies,37
+Phoenix,Technology,12
+Richmond,Furniture,16
+Richmond,Office Supplies,58
+Richmond,Technology,16
+Rochester,Furniture,9
+Rochester,Office Supplies,35
+Rochester,Technology,9
+San Antonio,Furniture,12
+San Antonio,Office Supplies,32
+San Antonio,Technology,15
+San Diego,Furniture,46
+San Diego,Office Supplies,88
+San Diego,Technology,36
+San Francisco,Furniture,102
+San Francisco,Office Supplies,322
+San Francisco,Technology,86
+Seattle,Furniture,97
+Seattle,Office Supplies,249
+Seattle,Technology,82
+Springfield,Furniture,27
+Springfield,Office Supplies,104
+Springfield,Technology,32
+others,Furniture,928
+others,Office Supplies,2592
+others,Technology,765
